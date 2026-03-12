@@ -2,7 +2,7 @@ services:
   - type: web
     name: vortex-tracker
     env: node
-    buildCommand: npm install && cd linkedin_extractor && pip install -r requirements.txt && playwright install chromium
+    buildCommand: npm install && npm run build && cd linkedin_extractor && pip install -r requirements.txt
     startCommand: npm start
     envVars:
       - key: NODE_ENV
