@@ -1,0 +1,39 @@
+2026-03-12 09:54:41,874 - linkedin_extractor - INFO - Logging initialized. Log file: logs\scraper_2026-03-12_09-54-41.log
+2026-03-12 09:54:41,875 - linkedin_extractor - INFO - ============================================================
+2026-03-12 09:54:41,875 - linkedin_extractor - INFO - LinkedIn Post Extractor
+2026-03-12 09:54:41,875 - linkedin_extractor - INFO - ============================================================
+2026-03-12 09:54:41,875 - linkedin_extractor - INFO - Keywords: ['Shayak Mazumder', 'Adya AI']
+2026-03-12 09:54:41,875 - linkedin_extractor - INFO - Time Range: Last 6 months
+2026-03-12 09:54:41,875 - linkedin_extractor - INFO - Output Directory: ./output
+2026-03-12 09:54:41,875 - linkedin_extractor - INFO - ============================================================
+2026-03-12 09:54:41,877 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 09:54:41,878 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 09:54:41,878 - scraper - INFO - Starting Chrome browser...
+2026-03-12 09:54:42,799 - scraper - INFO - Browser started successfully
+2026-03-12 09:54:42,799 - scraper - INFO - Attempting to log in to LinkedIn...
+2026-03-12 09:54:49,071 - scraper - INFO - Cookies loaded successfully
+2026-03-12 09:55:01,256 - scraper - INFO - Logged in successfully using cookies!
+2026-03-12 09:55:01,257 - linkedin_extractor - INFO - 
+Starting post extraction...
+2026-03-12 09:55:01,257 - scraper - INFO - 
+==================================================
+2026-03-12 09:55:01,257 - scraper - INFO - Processing keyword: Shayak Mazumder
+2026-03-12 09:55:01,257 - scraper - INFO - ==================================================
+
+2026-03-12 09:55:01,257 - scraper - INFO - Searching for posts with keyword: 'Shayak Mazumder'
+2026-03-12 09:55:01,257 - scraper - INFO - Fetching page 1/20...
+2026-03-12 09:55:37,414 - scraper - WARNING - Timeout waiting for posts to load
+2026-03-12 09:55:37,414 - scraper - INFO - No more posts found on page 1
+2026-03-12 09:55:37,414 - scraper - INFO - Pausing between keyword searches...
+2026-03-12 09:55:48,246 - scraper - INFO - 
+==================================================
+2026-03-12 09:55:48,247 - scraper - INFO - Processing keyword: Adya AI
+2026-03-12 09:55:48,247 - scraper - INFO - ==================================================
+
+2026-03-12 09:55:48,247 - scraper - INFO - Searching for posts with keyword: 'Adya AI'
+2026-03-12 09:55:48,247 - scraper - INFO - Fetching page 1/20...
+2026-03-12 09:56:25,450 - scraper - WARNING - Timeout waiting for posts to load
+2026-03-12 09:56:25,450 - scraper - INFO - No more posts found on page 1
+2026-03-12 09:56:25,450 - linkedin_extractor - WARNING - No posts were collected.
+2026-03-12 09:56:25,451 - scraper - INFO - Closing browser...
+2026-03-12 09:56:28,102 - linkedin_extractor - INFO - Extraction complete.

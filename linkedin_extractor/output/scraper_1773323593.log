@@ -1,0 +1,59 @@
+2026-03-12 19:23:14,204 [INFO] Log file: logs\scraper_2026-03-12_19-23-14.log
+2026-03-12 19:23:14,204 [INFO] ============================================================
+2026-03-12 19:23:14,204 [INFO] LinkedIn Post Extractor
+2026-03-12 19:23:14,204 [INFO] Keywords: ['Dhaya']
+2026-03-12 19:23:14,204 [INFO] Max Posts: 10
+2026-03-12 19:23:14,204 [INFO] Time Range: Last 6 months
+2026-03-12 19:23:14,204 [INFO] Output Directory: ./output
+2026-03-12 19:23:14,204 [INFO] ============================================================
+2026-03-12 19:23:14,205 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 19:23:14,801 [INFO] Found saved session state.
+2026-03-12 19:23:15,042 [INFO] Checking login status...
+2026-03-12 19:23:18,907 [INFO] Already logged in.
+2026-03-12 19:23:18,908 [INFO] Starting search for: Dhaya (target: 10 posts)
+2026-03-12 19:23:21,496 [INFO] Target: 10 posts for keyword 'Dhaya'
+2026-03-12 19:23:21,496 [INFO] Scroll 1/5 for 'Dhaya' - Collected: 0/10
+2026-03-12 19:23:23,717 [INFO] Extracted post 1/10: urn:li:activity:7437348183447580672 by Sachin kumar RanaSachin kumar Rana
+2026-03-12 19:23:23,721 [INFO] Saved post to dashboard: Sachin kumar RanaSachin kumar Rana - Total posts: 1
+2026-03-12 19:23:23,898 [INFO] Extracted post 2/10: urn:li:activity:7339495194658050049 by Pravin Agrawal 🇮🇳Pravin Agrawal 🇮🇳
+2026-03-12 19:23:23,924 [INFO] Saved post to dashboard: Pravin Agrawal 🇮🇳Pravin Agrawal 🇮🇳 - Total posts: 2
+2026-03-12 19:23:24,085 [INFO] Extracted post 3/10: urn:li:activity:7428114366933344256 by Richard JonesRichard Jones
+2026-03-12 19:23:24,105 [INFO] Saved post to dashboard: Richard JonesRichard Jones - Total posts: 3
+2026-03-12 19:23:24,105 [INFO] Scroll 2/5 for 'Dhaya' - Collected: 3/10
+2026-03-12 19:23:25,941 [INFO] Extracted post 4/10: urn:li:activity:7437108708502872064 by M Dhaya Vishnu KumaranM Dhaya Vishnu Kumaran
+2026-03-12 19:23:25,955 [INFO] Saved post to dashboard: M Dhaya Vishnu KumaranM Dhaya Vishnu Kumaran - Total posts: 4
+2026-03-12 19:23:26,027 [INFO] Extracted post 5/10: urn:li:activity:7436952955653746689 by DHAYA MAJU INFRASTRUCTURE (ASIA) SDN BERHAD (385996-H)DHAYA MAJU INFRASTRUCTURE (ASIA) SDN BERHAD (385996-H)
+2026-03-12 19:23:26,039 [INFO] Saved post to dashboard: DHAYA MAJU INFRASTRUCTURE (ASIA) SDN BERHAD (385996-H)DHAYA MAJU INFRASTRUCTURE (ASIA) SDN BERHAD (385996-H) - Total posts: 5
+2026-03-12 19:23:26,039 [INFO] Scroll 3/5 for 'Dhaya' - Collected: 5/10
+2026-03-12 19:23:27,332 [INFO] Extracted post 6/10: urn:li:activity:7436814770630086656 by Prem Kumar PatelPrem Kumar Patel
+2026-03-12 19:23:27,345 [INFO] Saved post to dashboard: Prem Kumar PatelPrem Kumar Patel - Total posts: 6
+2026-03-12 19:23:27,345 [INFO] Scroll 4/5 for 'Dhaya' - Collected: 6/10
+2026-03-12 19:23:28,789 [INFO] Extracted post 7/10: urn:li:activity:7436969488043933696 by Dr. Sanjay Arora PhDDr. Sanjay Arora PhD
+2026-03-12 19:23:28,802 [INFO] Saved post to dashboard: Dr. Sanjay Arora PhDDr. Sanjay Arora PhD - Total posts: 7
+2026-03-12 19:23:28,855 [INFO] Extracted post 8/10: urn:li:activity:7437002350889848832 by Veeravalli Satya Sai BabuVeeravalli Satya Sai Babu
+2026-03-12 19:23:28,867 [INFO] Saved post to dashboard: Veeravalli Satya Sai BabuVeeravalli Satya Sai Babu - Total posts: 8
+2026-03-12 19:23:28,906 [INFO] Extracted post 9/10: urn:li:activity:7437444779988381696 by Ravi Narayanan P RRavi Narayanan P R
+2026-03-12 19:23:28,917 [INFO] Saved post to dashboard: Ravi Narayanan P RRavi Narayanan P R - Total posts: 9
+2026-03-12 19:23:28,918 [INFO] Scroll 5/5 for 'Dhaya' - Collected: 9/10
+2026-03-12 19:23:30,283 [INFO] Clicked 'Show more' button.
+2026-03-12 19:23:31,284 [INFO] Completed search for 'Dhaya': collected 9 posts
+2026-03-12 19:23:32,026 [INFO] Scraping completed.
+2026-03-12 19:23:32,052 [INFO] 
+Total posts collected: 9
+2026-03-12 19:23:32,068 [INFO] CSV saved: ./output\posts_2026-03-12_19-23-32.csv
+2026-03-12 19:23:32,068 [INFO] JSON saved: ./output\posts_2026-03-12_19-23-32.json
+2026-03-12 19:23:32,068 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 19:23:32,080 [INFO] 
+============================================================
+2026-03-12 19:23:32,080 [INFO] EXTRACTION SUMMARY
+2026-03-12 19:23:32,080 [INFO] Total Posts in DB: 343
+2026-03-12 19:23:32,080 [INFO] Likes: 23,765
+2026-03-12 19:23:32,080 [INFO] Comments: 1,467
+2026-03-12 19:23:32,080 [INFO] Reposts: 406
+2026-03-12 19:23:32,080 [INFO] Top Authors:
+2026-03-12 19:23:32,080 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 19:23:32,080 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 19:23:32,080 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 19:23:32,080 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 19:23:32,080 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 19:23:32,080 [INFO] ============================================================

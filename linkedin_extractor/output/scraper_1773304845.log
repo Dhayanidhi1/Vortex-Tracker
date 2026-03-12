@@ -1,0 +1,21 @@
+2026-03-12 14:10:45,940 [INFO] Log file: logs\scraper_2026-03-12_14-10-45.log
+2026-03-12 14:10:45,940 [INFO] ============================================================
+2026-03-12 14:10:45,940 [INFO] LinkedIn Post Extractor
+2026-03-12 14:10:45,940 [INFO] Keywords: ['Vigneshwaran']
+2026-03-12 14:10:45,940 [INFO] Max Posts: 10
+2026-03-12 14:10:45,940 [INFO] Time Range: Last 6 months
+2026-03-12 14:10:45,940 [INFO] Output Directory: ./output
+2026-03-12 14:10:45,940 [INFO] ============================================================
+2026-03-12 14:10:45,941 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 14:10:46,866 [INFO] Found saved session state.
+2026-03-12 14:10:47,448 [INFO] Checking login status...
+2026-03-12 14:10:54,058 [INFO] Already logged in.
+2026-03-12 14:10:54,058 [INFO] Starting search for: Vigneshwaran (target: 10 posts)
+2026-03-12 14:10:57,603 [INFO] Target: 10 posts for keyword 'Vigneshwaran'
+2026-03-12 14:10:57,603 [INFO] Scroll 1/5 for 'Vigneshwaran' - Collected: 0/10
+2026-03-12 14:11:00,580 [INFO] No new posts found in this scroll, might have reached the end.
+2026-03-12 14:11:00,580 [INFO] Completed search for 'Vigneshwaran': collected 0 posts
+2026-03-12 14:11:01,872 [INFO] Scraping completed.
+2026-03-12 14:11:01,898 [INFO] 
+Total posts collected: 0
+2026-03-12 14:11:01,898 [WARNING] No posts collected.

@@ -1,0 +1,44 @@
+2026-03-12 10:00:15,589 - linkedin_extractor - INFO - Logging initialized. Log file: logs\scraper_2026-03-12_10-00-15.log
+2026-03-12 10:00:15,590 - linkedin_extractor - INFO - ============================================================
+2026-03-12 10:00:15,590 - linkedin_extractor - INFO - LinkedIn Post Extractor
+2026-03-12 10:00:15,590 - linkedin_extractor - INFO - ============================================================
+2026-03-12 10:00:15,590 - linkedin_extractor - INFO - Keywords: ['Artificial Intelligence', 'Machine Learning', 'OpenAI', 'ChatGPT']
+2026-03-12 10:00:15,590 - linkedin_extractor - INFO - Time Range: Last 6 months
+2026-03-12 10:00:15,590 - linkedin_extractor - INFO - Output Directory: ./output
+2026-03-12 10:00:15,590 - linkedin_extractor - INFO - ============================================================
+2026-03-12 10:00:15,592 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 10:00:15,593 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 10:00:15,593 - scraper - INFO - Starting Chrome browser...
+2026-03-12 10:00:16,603 - scraper - INFO - Browser started successfully
+2026-03-12 10:00:16,603 - scraper - INFO - Attempting to log in to LinkedIn...
+2026-03-12 10:00:22,470 - scraper - INFO - Cookies loaded successfully
+2026-03-12 10:00:37,230 - scraper - WARNING - ==================================================
+2026-03-12 10:00:37,230 - scraper - WARNING - CAPTCHA DETECTED!
+2026-03-12 10:00:37,231 - scraper - WARNING - Please solve the CAPTCHA manually in the browser.
+2026-03-12 10:00:37,231 - scraper - WARNING - The script will continue once you've solved it.
+2026-03-12 10:00:37,231 - scraper - WARNING - ==================================================
+2026-03-12 10:00:42,245 - scraper - INFO - Waiting for CAPTCHA to be solved...
+2026-03-12 10:00:42,249 - scraper - INFO - CAPTCHA solved! Continuing...
+2026-03-12 10:00:46,680 - scraper - ERROR - Login failed: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6aea310b5+14cc5]
+	chromedriver!GetHandleVerifier [0x7ff6aea31120+14d30]
+	chromedriver!(No symbol) [0x7ff6ae79d956]
+	chromedriver!(No symbol) [0x7ff6ae7e8766]
+	chromedriver!(No symbol) [0x7ff6ae820272]
+	chromedriver!(No symbol) [0x7ff6ae81a4d1]
+	chromedriver!(No symbol) [0x7ff6ae819783]
+	chromedriver!(No symbol) [0x7ff6ae766585]
+	chromedriver!GetHandleVerifier [0x7ff6aed35ded+3199fd]
+	chromedriver!GetHandleVerifier [0x7ff6aed304cd+3140dd]
+	chromedriver!GetHandleVerifier [0x7ff6aed529ca+3365da]
+	chromedriver!GetHandleVerifier [0x7ff6aea4ca55+30665]
+	chromedriver!GetHandleVerifier [0x7ff6aea55bac+397bc]
+	chromedriver!(No symbol) [0x7ff6ae76534a]
+	chromedriver!GetHandleVerifier [0x7ff6aee89888+46d498]
+	KERNEL32!BaseThreadInitThunk [0x7ffd1907e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffd1b26c48c+2c]
+
+2026-03-12 10:00:46,681 - linkedin_extractor - ERROR - Failed to log in to LinkedIn. Exiting.
+2026-03-12 10:00:46,681 - scraper - INFO - Closing browser...
+2026-03-12 10:00:48,880 - linkedin_extractor - INFO - Extraction complete.

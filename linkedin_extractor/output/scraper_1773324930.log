@@ -1,0 +1,18 @@
+2026-03-12 19:45:30,437 [INFO] Log file: logs\scraper_2026-03-12_19-45-30.log
+2026-03-12 19:45:30,437 [INFO] ============================================================
+2026-03-12 19:45:30,437 [INFO] LinkedIn Post Extractor
+2026-03-12 19:45:30,437 [INFO] Keywords: ['google']
+2026-03-12 19:45:30,437 [INFO] Max Posts: 30
+2026-03-12 19:45:30,437 [INFO] Time Range: Last 6 months
+2026-03-12 19:45:30,437 [INFO] Output Directory: ./output
+2026-03-12 19:45:30,438 [INFO] ============================================================
+2026-03-12 19:45:30,438 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 19:45:30,954 [INFO] Found saved session state.
+2026-03-12 19:45:31,180 [INFO] Checking login status...
+2026-03-12 19:45:31,387 [ERROR] Login failed: Page.goto: net::ERR_CONNECTION_RESET at https://www.linkedin.com/feed/
+Call log:
+  - navigating to "https://www.linkedin.com/feed/", waiting until "load"
+
+2026-03-12 19:45:31,485 [INFO] 
+Total posts collected: 0
+2026-03-12 19:45:31,486 [WARNING] No posts collected.

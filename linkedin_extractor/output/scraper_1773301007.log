@@ -1,0 +1,98 @@
+2026-03-12 13:06:48,174 [INFO] Log file: logs\scraper_2026-03-12_13-06-48.log
+2026-03-12 13:06:48,175 [INFO] ============================================================
+2026-03-12 13:06:48,175 [INFO] LinkedIn Post Extractor
+2026-03-12 13:06:48,175 [INFO] Keywords: ['Yutaro']
+2026-03-12 13:06:48,175 [INFO] Max Pages: 10
+2026-03-12 13:06:48,175 [INFO] Time Range: Last 6 months
+2026-03-12 13:06:48,175 [INFO] Output Directory: ./output
+2026-03-12 13:06:48,175 [INFO] ============================================================
+2026-03-12 13:06:49,193 [INFO] Found saved session state.
+2026-03-12 13:06:49,918 [INFO] Checking login status...
+2026-03-12 13:07:06,742 [INFO] Already logged in.
+2026-03-12 13:07:06,743 [INFO] Starting search for: Yutaro
+2026-03-12 13:07:12,374 [INFO] Scrolling page 1/10 for 'Yutaro'...
+2026-03-12 13:07:19,254 [INFO] Extracted post urn:li:activity:7437758344666374144 by Yutaro NishiYutaro Nishi
+2026-03-12 13:07:19,294 [INFO] Extracted post urn:li:activity:7437724799772119040 by Yutaro KohoriYutaro Kohori
+2026-03-12 13:07:19,344 [INFO] Extracted post urn:li:activity:7437701703531085825 by Deyana KhosraviDeyana Khosravi
+2026-03-12 13:07:19,406 [INFO] Extracted post urn:li:activity:7437688733547716608 by Sameeh P.Sameeh P.
+2026-03-12 13:07:19,449 [INFO] Extracted post urn:li:activity:7437619043404083201 by Yutaro Shigeta, CPAYutaro Shigeta, CPA
+2026-03-12 13:07:19,498 [INFO] Extracted post urn:li:activity:7437429652148858880 by Yutaro OnishiYutaro Onishi
+2026-03-12 13:07:19,549 [INFO] Extracted post urn:li:activity:7437365212921602048 by Yutaro SatoYutaro Sato
+2026-03-12 13:07:19,581 [INFO] Extracted post urn:li:activity:7437308835138138112 by ビヨンドアーチパートナーズ株式会社 (Beyond Arch Partners Co., Ltd.)ビヨンドアーチパートナーズ株式会社 (Beyond Arch Partners Co., Ltd.)
+2026-03-12 13:07:19,635 [INFO] Extracted post urn:li:activity:7437303184915722241 by icetana AIicetana AI
+2026-03-12 13:07:22,808 [INFO] Clicked 'Show more' button.
+2026-03-12 13:07:26,855 [INFO] Scrolling page 2/10 for 'Yutaro'...
+2026-03-12 13:07:34,192 [INFO] Extracted post urn:li:activity:7437076426270519296 by DROPSCOM – Hinchables de nueva generaciónDROPSCOM – Hinchables de nueva generación
+2026-03-12 13:07:34,245 [INFO] Extracted post urn:li:activity:7437054167392817152 by Yutaro HayakawaYutaro Hayakawa
+2026-03-12 13:07:34,280 [INFO] Extracted post urn:li:activity:7437011609128112128 by Yutaro OsakaYutaro Osaka
+2026-03-12 13:07:34,327 [INFO] Extracted post urn:li:activity:7436988199324852224 by Yutaro YanoYutaro Yano
+2026-03-12 13:07:34,371 [INFO] Extracted post urn:li:activity:7436938893683306496 by Asian Productivity OrganizationAsian Productivity Organization
+2026-03-12 13:07:34,413 [INFO] Extracted post urn:li:activity:7436865773274525696 by Yutaro KoyanagiYutaro Koyanagi
+2026-03-12 13:07:34,466 [INFO] Extracted post urn:li:activity:7436751854119657472 by Seungseok OhSeungseok Oh
+2026-03-12 13:07:34,517 [INFO] Extracted post urn:li:activity:7436964210690969600 by Yutaro OsakaYutaro Osaka
+2026-03-12 13:07:34,568 [INFO] Extracted post urn:li:activity:7436702389925187585 by Yutaro SatoYutaro Sato
+2026-03-12 13:07:34,647 [INFO] Extracted post urn:li:activity:7436548532679094272 by Yutaro KikuYutaro Kiku
+2026-03-12 13:07:34,680 [INFO] Extracted post urn:li:activity:7436325603349409792 by Yutaro YamaguchiYutaro Yamaguchi
+2026-03-12 13:07:34,732 [INFO] Extracted post urn:li:activity:7436290660426616832 by Jun MatsumotoJun Matsumoto
+2026-03-12 13:07:34,772 [INFO] Extracted post urn:li:activity:7436068692100280320 by Kamali SKamali S
+2026-03-12 13:07:34,813 [INFO] Extracted post urn:li:activity:7436014943675637760 by Yutaro MoriYutaro Mori
+2026-03-12 13:07:34,843 [INFO] Extracted post urn:li:activity:7436315427397595136 by Yutaro KikuYutaro Kiku
+2026-03-12 13:07:34,967 [INFO] Clicked 'Show more' button.
+2026-03-12 13:07:37,774 [INFO] Scrolling page 3/10 for 'Yutaro'...
+2026-03-12 13:07:45,493 [INFO] Extracted post urn:li:activity:7435938971886530560 by Yutaro OgawaYutaro Ogawa
+2026-03-12 13:07:45,552 [INFO] Extracted post urn:li:activity:7435898845240307712 by Yutaro KohoriYutaro Kohori
+2026-03-12 13:07:45,620 [INFO] Extracted post urn:li:activity:7435699410077986817 by Hari prasath.EHari prasath.E
+2026-03-12 13:07:45,687 [INFO] Extracted post urn:li:activity:7435599141084467200 by Yutaro SatoYutaro Sato
+2026-03-12 13:07:45,757 [INFO] Extracted post urn:li:activity:7435867493086244864 by Yutaro MoriYutaro Mori
+2026-03-12 13:07:45,858 [INFO] Extracted post urn:li:activity:7435833853790892032 by Yutaro OgawaYutaro Ogawa
+2026-03-12 13:08:01,237 [INFO] Clicked 'Show more' button.
+2026-03-12 13:08:05,626 [INFO] Scrolling page 4/10 for 'Yutaro'...
+2026-03-12 13:08:14,550 [INFO] Extracted post urn:li:activity:7435537748444266496 by Yutaro OsakaYutaro Osaka
+2026-03-12 13:08:15,087 [INFO] Extracted post urn:li:activity:7435454100521119744 by Yutaro MiyamotoYutaro Miyamoto
+2026-03-12 13:08:15,413 [INFO] Extracted post urn:li:activity:7435253145691160578 by Yutaro Okamoto, MBAYutaro Okamoto, MBA
+2026-03-12 13:08:15,613 [INFO] Extracted post urn:li:activity:7435184136841211904 by Yutarō H.Yutarō H.
+2026-03-12 13:08:15,783 [INFO] Extracted post urn:li:activity:7435159496378953728 by Yutaro NishiYutaro Nishi
+2026-03-12 13:08:16,062 [INFO] Extracted post urn:li:activity:7434929585571639296 by Masahito NAKAISHIMasahito NAKAISHI
+2026-03-12 13:08:16,271 [INFO] Extracted post urn:li:activity:7434921359777996800 by Yutaro AbeYutaro Abe
+2026-03-12 13:08:16,505 [INFO] Extracted post urn:li:activity:7434880160509882368 by Momoka WatanukiMomoka Watanuki
+2026-03-12 13:08:16,861 [INFO] Extracted post urn:li:activity:7434848297531617280 by McKinsey IndiaMcKinsey India
+2026-03-12 13:08:17,334 [INFO] Extracted post urn:li:activity:7434686542285189120 by Headache Journal (Headache: The Journal of Head & Face Pain)Headache Journal (Headache: The Journal of Head & Face Pain)
+2026-03-12 13:08:17,568 [INFO] Extracted post urn:li:activity:7434669372654260224 by Motoki KagamiMotoki Kagami
+2026-03-12 13:08:17,778 [INFO] Extracted post urn:li:activity:7434557458544672768 by Yutaro Ito / 伊藤侑太郎Yutaro Ito / 伊藤侑太郎
+2026-03-12 13:08:17,965 [INFO] Extracted post urn:li:activity:7434536712229416960 by Masahito KatsukiMasahito Katsuki
+2026-03-12 13:08:18,103 [INFO] Extracted post urn:li:activity:7434461670430814208 by Yutaro MoriYutaro Mori
+2026-03-12 13:08:18,280 [INFO] Extracted post urn:li:activity:7434404814496772097 by Yutaro OnoYutaro Ono
+2026-03-12 13:08:18,422 [INFO] Extracted post urn:li:activity:7434321529754214400 by Ashton HoppAshton Hopp
+2026-03-12 13:08:18,533 [INFO] Extracted post urn:li:activity:7434181956541636608 by Yutaro UenoYutaro Ueno
+2026-03-12 13:08:18,692 [INFO] Extracted post urn:li:activity:7434179770495488000 by Yutaro Okamoto, MBAYutaro Okamoto, MBA
+2026-03-12 13:08:18,807 [INFO] Extracted post urn:li:activity:7434172983398539264 by Ar. Beh Ssi CzeAr. Beh Ssi Cze
+2026-03-12 13:08:18,929 [INFO] Extracted post urn:li:activity:7434140403622268928 by McKinsey IndiaMcKinsey India
+2026-03-12 13:08:19,092 [INFO] Extracted post urn:li:activity:7434102671827140608 by SoftBank Robotics AustraliaSoftBank Robotics Australia
+2026-03-12 13:08:19,228 [INFO] Extracted post urn:li:activity:7434004083512090624 by Carmen Keldawy AlouanCarmen Keldawy Alouan
+2026-03-12 13:08:20,142 [INFO] Extracted post urn:li:activity:7433445272749477888 by Yutaro OgawaYutaro Ogawa
+2026-03-12 13:08:20,312 [INFO] Extracted post urn:li:activity:7433398058303934464 by Yuji NereiYuji Nerei
+2026-03-12 13:08:20,460 [INFO] Extracted post urn:li:activity:7433271625803939840 by Clint MadisonClint Madison
+2026-03-12 13:08:20,629 [INFO] Extracted post urn:li:activity:7433001926595874816 by Yutarō H.Yutarō H.
+2026-03-12 13:08:20,764 [INFO] Extracted post urn:li:activity:7433286024660803584 by Yutaro OgawaYutaro Ogawa
+2026-03-12 13:08:21,910 [INFO] Clicked 'Show more' button.
+2026-03-12 13:08:25,441 [ERROR] Error during search for 'Yutaro': Locator.is_visible: Target page, context or browser has been closed
+2026-03-12 13:08:32,435 [INFO] Scraping completed.
+2026-03-12 13:08:32,455 [INFO] 
+Total posts collected: 57
+2026-03-12 13:08:32,476 [INFO] CSV saved: ./output\posts_2026-03-12_13-08-32.csv
+2026-03-12 13:08:32,476 [INFO] JSON saved: ./output\posts_2026-03-12_13-08-32.json
+2026-03-12 13:08:32,476 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 13:08:32,485 [INFO] 
+============================================================
+2026-03-12 13:08:32,485 [INFO] EXTRACTION SUMMARY
+2026-03-12 13:08:32,485 [INFO] Total Posts in DB: 195
+2026-03-12 13:08:32,485 [INFO] Likes: 5,134
+2026-03-12 13:08:32,485 [INFO] Comments: 343
+2026-03-12 13:08:32,485 [INFO] Reposts: 148
+2026-03-12 13:08:32,485 [INFO] Top Authors:
+2026-03-12 13:08:32,485 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 13:08:32,485 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 13:08:32,485 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 13:08:32,485 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 13:08:32,485 [INFO]   - Madhan Kumar MamidalaMadhan Kumar Mamidala: 4 posts
+2026-03-12 13:08:32,485 [INFO] ============================================================

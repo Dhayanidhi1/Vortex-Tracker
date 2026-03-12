@@ -1,0 +1,117 @@
+2026-03-12 09:30:16,372 - linkedin_extractor - INFO - Logging initialized. Log file: logs\scraper_2026-03-12_09-30-16.log
+2026-03-12 09:30:16,372 - linkedin_extractor - INFO - ============================================================
+2026-03-12 09:30:16,372 - linkedin_extractor - INFO - LinkedIn Post Extractor
+2026-03-12 09:30:16,372 - linkedin_extractor - INFO - ============================================================
+2026-03-12 09:30:16,372 - linkedin_extractor - INFO - Keywords: ['Shayak Mazumder', 'Adya AI']
+2026-03-12 09:30:16,372 - linkedin_extractor - INFO - Time Range: Last 6 months
+2026-03-12 09:30:16,372 - linkedin_extractor - INFO - Output Directory: ./output
+2026-03-12 09:30:16,373 - linkedin_extractor - INFO - ============================================================
+2026-03-12 09:30:16,374 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 09:30:16,375 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 09:30:16,375 - scraper - INFO - Starting Chrome browser...
+2026-03-12 09:30:19,158 - scraper - ERROR - Failed to start browser: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Users\dhaya\.cache\selenium\chrome\win64\146.0.7680.72\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6aea310b5+14cc5]
+	chromedriver!GetHandleVerifier [0x7ff6aea31120+14d30]
+	chromedriver!(No symbol) [0x7ff6ae79db6d]
+	chromedriver!(No symbol) [0x7ff6ae7deb7e]
+	chromedriver!(No symbol) [0x7ff6ae7d9c29]
+	chromedriver!(No symbol) [0x7ff6ae82e021]
+	chromedriver!(No symbol) [0x7ff6ae82d886]
+	chromedriver!(No symbol) [0x7ff6ae7e96e8]
+	chromedriver!(No symbol) [0x7ff6ae7ea5d3]
+	chromedriver!GetHandleVerifier [0x7ff6aed35ded+3199fd]
+	chromedriver!GetHandleVerifier [0x7ff6aed304cd+3140dd]
+	chromedriver!GetHandleVerifier [0x7ff6aed529ca+3365da]
+	chromedriver!GetHandleVerifier [0x7ff6aea4ca55+30665]
+	chromedriver!GetHandleVerifier [0x7ff6aea55bac+397bc]
+	chromedriver!GetHandleVerifier [0x7ff6aea3a4d4+1e0e4]
+	chromedriver!GetHandleVerifier [0x7ff6aea3a686+1e296]
+	chromedriver!GetHandleVerifier [0x7ff6aea1ef97+2ba7]
+	KERNEL32!BaseThreadInitThunk [0x7ffd1907e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffd1b26c48c+2c]
+
+2026-03-12 09:30:19,158 - linkedin_extractor - ERROR - Unexpected error: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Users\dhaya\.cache\selenium\chrome\win64\146.0.7680.72\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6aea310b5+14cc5]
+	chromedriver!GetHandleVerifier [0x7ff6aea31120+14d30]
+	chromedriver!(No symbol) [0x7ff6ae79db6d]
+	chromedriver!(No symbol) [0x7ff6ae7deb7e]
+	chromedriver!(No symbol) [0x7ff6ae7d9c29]
+	chromedriver!(No symbol) [0x7ff6ae82e021]
+	chromedriver!(No symbol) [0x7ff6ae82d886]
+	chromedriver!(No symbol) [0x7ff6ae7e96e8]
+	chromedriver!(No symbol) [0x7ff6ae7ea5d3]
+	chromedriver!GetHandleVerifier [0x7ff6aed35ded+3199fd]
+	chromedriver!GetHandleVerifier [0x7ff6aed304cd+3140dd]
+	chromedriver!GetHandleVerifier [0x7ff6aed529ca+3365da]
+	chromedriver!GetHandleVerifier [0x7ff6aea4ca55+30665]
+	chromedriver!GetHandleVerifier [0x7ff6aea55bac+397bc]
+	chromedriver!GetHandleVerifier [0x7ff6aea3a4d4+1e0e4]
+	chromedriver!GetHandleVerifier [0x7ff6aea3a686+1e296]
+	chromedriver!GetHandleVerifier [0x7ff6aea1ef97+2ba7]
+	KERNEL32!BaseThreadInitThunk [0x7ffd1907e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffd1b26c48c+2c]
+Traceback (most recent call last):
+  File "D:\Game\Linkedin_Project\linkedin_extractor\main.py", line 75, in main
+    scraper.start_browser()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\Game\Linkedin_Project\linkedin_extractor\scraper.py", line 93, in start_browser
+    self.driver = webdriver.Chrome(options=options)
+                  ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhaya\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+    ~~~~~~~~~~~~~~~~^
+        browser_name=DesiredCapabilities.CHROME["browserName"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        keep_alive=keep_alive,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\dhaya\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=self.options)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhaya\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\common\webdriver.py", line 25, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhaya\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 271, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\dhaya\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 366, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhaya\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\dhaya\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Users\dhaya\.cache\selenium\chrome\win64\146.0.7680.72\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6aea310b5+14cc5]
+	chromedriver!GetHandleVerifier [0x7ff6aea31120+14d30]
+	chromedriver!(No symbol) [0x7ff6ae79db6d]
+	chromedriver!(No symbol) [0x7ff6ae7deb7e]
+	chromedriver!(No symbol) [0x7ff6ae7d9c29]
+	chromedriver!(No symbol) [0x7ff6ae82e021]
+	chromedriver!(No symbol) [0x7ff6ae82d886]
+	chromedriver!(No symbol) [0x7ff6ae7e96e8]
+	chromedriver!(No symbol) [0x7ff6ae7ea5d3]
+	chromedriver!GetHandleVerifier [0x7ff6aed35ded+3199fd]
+	chromedriver!GetHandleVerifier [0x7ff6aed304cd+3140dd]
+	chromedriver!GetHandleVerifier [0x7ff6aed529ca+3365da]
+	chromedriver!GetHandleVerifier [0x7ff6aea4ca55+30665]
+	chromedriver!GetHandleVerifier [0x7ff6aea55bac+397bc]
+	chromedriver!GetHandleVerifier [0x7ff6aea3a4d4+1e0e4]
+	chromedriver!GetHandleVerifier [0x7ff6aea3a686+1e296]
+	chromedriver!GetHandleVerifier [0x7ff6aea1ef97+2ba7]
+	KERNEL32!BaseThreadInitThunk [0x7ffd1907e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffd1b26c48c+2c]
+
+2026-03-12 09:30:19,170 - linkedin_extractor - INFO - Extraction complete.

@@ -1,0 +1,61 @@
+2026-03-12 17:03:11,573 [INFO] Log file: logs\scraper_2026-03-12_17-03-11.log
+2026-03-12 17:03:11,573 [INFO] ============================================================
+2026-03-12 17:03:11,573 [INFO] LinkedIn Post Extractor
+2026-03-12 17:03:11,573 [INFO] Keywords: ['Shayak Mazumder']
+2026-03-12 17:03:11,573 [INFO] Max Posts: 10
+2026-03-12 17:03:11,573 [INFO] Time Range: Last 6 months
+2026-03-12 17:03:11,573 [INFO] Output Directory: ./output
+2026-03-12 17:03:11,573 [INFO] ============================================================
+2026-03-12 17:03:11,574 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 17:03:12,170 [INFO] Found saved session state.
+2026-03-12 17:03:12,473 [INFO] Checking login status...
+2026-03-12 17:03:19,844 [INFO] Already logged in.
+2026-03-12 17:03:19,844 [INFO] Starting search for: Shayak Mazumder (target: 10 posts)
+2026-03-12 17:03:26,045 [INFO] Target: 10 posts for keyword 'Shayak Mazumder'
+2026-03-12 17:03:26,046 [INFO] Scroll 1/5 for 'Shayak Mazumder' - Collected: 0/10
+2026-03-12 17:03:27,976 [INFO] Extracted post 1/10: urn:li:activity:7436037122630914048 by Neha AnishNeha Anish
+2026-03-12 17:03:27,981 [INFO] Saved post to dashboard: Neha AnishNeha Anish - Total posts: 1
+2026-03-12 17:03:28,741 [INFO] Extracted post 2/10: urn:li:activity:7429142908852895744 by Nishit VermaNishit Verma
+2026-03-12 17:03:28,796 [INFO] Saved post to dashboard: Nishit VermaNishit Verma - Total posts: 2
+2026-03-12 17:03:28,957 [INFO] Extracted post 3/10: urn:li:activity:7437481790203846658 by Sumita JetleySumita Jetley
+2026-03-12 17:03:28,993 [INFO] Saved post to dashboard: Sumita JetleySumita Jetley - Total posts: 3
+2026-03-12 17:03:28,994 [INFO] Scroll 2/5 for 'Shayak Mazumder' - Collected: 3/10
+2026-03-12 17:03:30,859 [INFO] Extracted post 4/10: urn:li:activity:7409079546521649152 by Ashish V MehraAshish V Mehra
+2026-03-12 17:03:30,875 [INFO] Saved post to dashboard: Ashish V MehraAshish V Mehra - Total posts: 4
+2026-03-12 17:03:30,964 [INFO] Extracted post 5/10: urn:li:activity:7436983958078201856 by Sachin kumar RanaSachin kumar Rana
+2026-03-12 17:03:30,987 [INFO] Saved post to dashboard: Sachin kumar RanaSachin kumar Rana - Total posts: 5
+2026-03-12 17:03:31,055 [INFO] Extracted post 6/10: urn:li:activity:7273631599974305794 by Mumbai Educational Trust, MET League of CollegesMumbai Educational Trust, MET League of Colleges
+2026-03-12 17:03:31,072 [INFO] Saved post to dashboard: Mumbai Educational Trust, MET League of CollegesMumbai Educational Trust, MET League of Colleges - Total posts: 6
+2026-03-12 17:03:31,072 [INFO] Scroll 3/5 for 'Shayak Mazumder' - Collected: 6/10
+2026-03-12 17:03:32,875 [INFO] Extracted post 7/10: urn:li:activity:7406685712626044928 by A PriyadharshiniA Priyadharshini
+2026-03-12 17:03:32,896 [INFO] Saved post to dashboard: A PriyadharshiniA Priyadharshini - Total posts: 7
+2026-03-12 17:03:32,957 [INFO] Extracted post 8/10: urn:li:activity:7430164096924172289 by Shayak MazumderShayak Mazumder
+2026-03-12 17:03:32,988 [INFO] Saved post to dashboard: Shayak MazumderShayak Mazumder - Total posts: 8
+2026-03-12 17:03:33,056 [INFO] Extracted post 9/10: urn:li:activity:7394586204085747712 by Mustafa Serdar BoscaMustafa Serdar Bosca
+2026-03-12 17:03:33,081 [INFO] Saved post to dashboard: Mustafa Serdar BoscaMustafa Serdar Bosca - Total posts: 9
+2026-03-12 17:03:33,081 [INFO] Scroll 4/5 for 'Shayak Mazumder' - Collected: 9/10
+2026-03-12 17:03:34,514 [INFO] Clicked 'Show more' button.
+2026-03-12 17:03:35,514 [INFO] Scroll 5/5 for 'Shayak Mazumder' - Collected: 9/10
+2026-03-12 17:03:37,774 [INFO] Extracted post 10/10: urn:li:activity:7437348183447580672 by Sachin kumar RanaSachin kumar Rana
+2026-03-12 17:03:37,791 [INFO] Saved post to dashboard: Sachin kumar RanaSachin kumar Rana - Total posts: 10
+2026-03-12 17:03:37,791 [INFO] Completed search for 'Shayak Mazumder': collected 10 posts
+2026-03-12 17:03:38,509 [INFO] Scraping completed.
+2026-03-12 17:03:38,529 [INFO] 
+Total posts collected: 10
+2026-03-12 17:03:38,553 [INFO] CSV saved: ./output\posts_2026-03-12_17-03-38.csv
+2026-03-12 17:03:38,553 [INFO] JSON saved: ./output\posts_2026-03-12_17-03-38.json
+2026-03-12 17:03:38,553 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 17:03:38,564 [INFO] 
+============================================================
+2026-03-12 17:03:38,566 [INFO] EXTRACTION SUMMARY
+2026-03-12 17:03:38,566 [INFO] Total Posts in DB: 307
+2026-03-12 17:03:38,566 [INFO] Likes: 10,607
+2026-03-12 17:03:38,566 [INFO] Comments: 845
+2026-03-12 17:03:38,566 [INFO] Reposts: 311
+2026-03-12 17:03:38,567 [INFO] Top Authors:
+2026-03-12 17:03:38,567 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 17:03:38,568 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 17:03:38,568 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 17:03:38,568 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 17:03:38,568 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 17:03:38,568 [INFO] ============================================================

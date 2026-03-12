@@ -1,0 +1,58 @@
+2026-03-12 16:36:46,327 [INFO] Log file: logs\scraper_2026-03-12_16-36-46.log
+2026-03-12 16:36:46,328 [INFO] ============================================================
+2026-03-12 16:36:46,328 [INFO] LinkedIn Post Extractor
+2026-03-12 16:36:46,328 [INFO] Keywords: ['Kanishk']
+2026-03-12 16:36:46,328 [INFO] Max Posts: 10
+2026-03-12 16:36:46,328 [INFO] Time Range: Last 6 months
+2026-03-12 16:36:46,328 [INFO] Output Directory: ./output
+2026-03-12 16:36:46,328 [INFO] ============================================================
+2026-03-12 16:36:46,330 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 16:36:47,764 [INFO] Found saved session state.
+2026-03-12 16:36:48,891 [INFO] Checking login status...
+2026-03-12 16:36:56,647 [INFO] Already logged in.
+2026-03-12 16:36:56,649 [INFO] Starting search for: Kanishk (target: 10 posts)
+2026-03-12 16:37:02,385 [INFO] Target: 10 posts for keyword 'Kanishk'
+2026-03-12 16:37:02,385 [INFO] Scroll 1/5 for 'Kanishk' - Collected: 0/10
+2026-03-12 16:37:09,011 [INFO] Extracted post 1/10: urn:li:activity:7429739686203441152 by Ankita KothariAnkita Kothari
+2026-03-12 16:37:09,019 [INFO] Saved post to dashboard: Ankita KothariAnkita Kothari - Total posts: 1
+2026-03-12 16:37:09,856 [INFO] Extracted post 2/10: urn:li:activity:7427648995172491265 by Anju NegiAnju Negi
+2026-03-12 16:37:09,884 [INFO] Saved post to dashboard: Anju NegiAnju Negi - Total posts: 2
+2026-03-12 16:37:10,614 [INFO] Extracted post 3/10: urn:li:activity:7430147998342569984 by Azaz YusufAzaz Yusuf
+2026-03-12 16:37:10,635 [INFO] Saved post to dashboard: Azaz YusufAzaz Yusuf - Total posts: 3
+2026-03-12 16:37:10,635 [INFO] Scroll 2/5 for 'Kanishk' - Collected: 3/10
+2026-03-12 16:37:13,839 [INFO] Extracted post 4/10: urn:li:activity:7437799225993842688 by Dr. Kanishk GaurDr. Kanishk Gaur
+2026-03-12 16:37:13,840 [INFO] Saved post to dashboard: Dr. Kanishk GaurDr. Kanishk Gaur - Total posts: 4
+2026-03-12 16:37:14,116 [INFO] Extracted post 5/10: urn:li:activity:7437791797109747712 by Kanishk KabirajKanishk Kabiraj
+2026-03-12 16:37:14,123 [INFO] Saved post to dashboard: Kanishk KabirajKanishk Kabiraj - Total posts: 5
+2026-03-12 16:37:14,412 [INFO] Extracted post 6/10: urn:li:activity:7437788840184090624 by sportstrendzzsportstrendzz
+2026-03-12 16:37:14,414 [INFO] Saved post to dashboard: sportstrendzzsportstrendzz - Total posts: 6
+2026-03-12 16:37:14,414 [INFO] Scroll 3/5 for 'Kanishk' - Collected: 6/10
+2026-03-12 16:37:16,425 [INFO] Extracted post 7/10: urn:li:activity:7437351596373536768 by Ayush VictorAyush Victor
+2026-03-12 16:37:16,427 [INFO] Saved post to dashboard: Ayush VictorAyush Victor - Total posts: 7
+2026-03-12 16:37:16,493 [INFO] Extracted post 8/10: urn:li:activity:7432628864603963392 by Krish GoenkaKrish Goenka
+2026-03-12 16:37:16,518 [INFO] Saved post to dashboard: Krish GoenkaKrish Goenka - Total posts: 8
+2026-03-12 16:37:16,563 [INFO] Extracted post 9/10: urn:li:activity:7430150225035481088 by Ankita KothariAnkita Kothari
+2026-03-12 16:37:16,565 [INFO] Saved post to dashboard: Ankita KothariAnkita Kothari - Total posts: 9
+2026-03-12 16:37:16,628 [INFO] Extracted post 10/10: urn:li:activity:7437476043265060864 by Kanishk YadavKanishk Yadav
+2026-03-12 16:37:16,678 [INFO] Saved post to dashboard: Kanishk YadavKanishk Yadav - Total posts: 10
+2026-03-12 16:37:16,678 [INFO] Completed search for 'Kanishk': collected 10 posts
+2026-03-12 16:37:17,409 [INFO] Scraping completed.
+2026-03-12 16:37:17,429 [INFO] 
+Total posts collected: 10
+2026-03-12 16:37:17,448 [INFO] CSV saved: ./output\posts_2026-03-12_16-37-17.csv
+2026-03-12 16:37:17,449 [INFO] JSON saved: ./output\posts_2026-03-12_16-37-17.json
+2026-03-12 16:37:17,449 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 16:37:17,462 [INFO] 
+============================================================
+2026-03-12 16:37:17,463 [INFO] EXTRACTION SUMMARY
+2026-03-12 16:37:17,463 [INFO] Total Posts in DB: 283
+2026-03-12 16:37:17,463 [INFO] Likes: 9,347
+2026-03-12 16:37:17,463 [INFO] Comments: 701
+2026-03-12 16:37:17,463 [INFO] Reposts: 298
+2026-03-12 16:37:17,463 [INFO] Top Authors:
+2026-03-12 16:37:17,463 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 16:37:17,463 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 16:37:17,463 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 16:37:17,463 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 16:37:17,463 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 16:37:17,463 [INFO] ============================================================

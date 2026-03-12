@@ -1,0 +1,58 @@
+2026-03-12 14:16:24,978 [INFO] Log file: logs\scraper_2026-03-12_14-16-24.log
+2026-03-12 14:16:24,978 [INFO] ============================================================
+2026-03-12 14:16:24,979 [INFO] LinkedIn Post Extractor
+2026-03-12 14:16:24,979 [INFO] Keywords: ['Dhayanidhi R']
+2026-03-12 14:16:24,979 [INFO] Max Posts: 10
+2026-03-12 14:16:24,979 [INFO] Time Range: Last 6 months
+2026-03-12 14:16:24,979 [INFO] Output Directory: ./output
+2026-03-12 14:16:24,979 [INFO] ============================================================
+2026-03-12 14:16:24,980 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 14:16:25,868 [INFO] Found saved session state.
+2026-03-12 14:16:26,266 [INFO] Checking login status...
+2026-03-12 14:16:31,516 [INFO] Already logged in.
+2026-03-12 14:16:31,517 [INFO] Starting search for: Dhayanidhi R (target: 10 posts)
+2026-03-12 14:16:38,513 [INFO] Target: 10 posts for keyword 'Dhayanidhi R'
+2026-03-12 14:16:38,514 [INFO] Scroll 1/5 for 'Dhayanidhi R' - Collected: 0/10
+2026-03-12 14:16:40,626 [INFO] Extracted post 1/10: urn:li:activity:7407001970001137665 by Dhayanidhi RDhayanidhi R
+2026-03-12 14:16:40,627 [INFO] Saved post to dashboard: Dhayanidhi RDhayanidhi R - Total posts: 1
+2026-03-12 14:16:41,317 [INFO] Extracted post 2/10: urn:li:activity:7394418590440951808 by Harishankar MNHarishankar MN
+2026-03-12 14:16:41,319 [INFO] Saved post to dashboard: Harishankar MNHarishankar MN - Total posts: 2
+2026-03-12 14:16:41,407 [INFO] Extracted post 3/10: urn:li:activity:7363190840984293376 by PRAGADEESHWARAN S SPRAGADEESHWARAN S S
+2026-03-12 14:16:41,425 [INFO] Saved post to dashboard: PRAGADEESHWARAN S SPRAGADEESHWARAN S S - Total posts: 3
+2026-03-12 14:16:41,426 [INFO] Scroll 2/5 for 'Dhayanidhi R' - Collected: 3/10
+2026-03-12 14:16:43,623 [INFO] Extracted post 4/10: urn:li:activity:7331907613242118144 by Divyadevi MohanrajDivyadevi Mohanraj
+2026-03-12 14:16:43,626 [INFO] Saved post to dashboard: Divyadevi MohanrajDivyadevi Mohanraj - Total posts: 4
+2026-03-12 14:16:43,740 [INFO] Extracted post 5/10: urn:li:activity:7344738157872955392 by Dhayanidhi RDhayanidhi R
+2026-03-12 14:16:43,752 [INFO] Saved post to dashboard: Dhayanidhi RDhayanidhi R - Total posts: 5
+2026-03-12 14:16:43,871 [INFO] Extracted post 6/10: urn:li:activity:7325445908437876736 by Civil PSNACETCivil PSNACET
+2026-03-12 14:16:43,874 [INFO] Saved post to dashboard: Civil PSNACETCivil PSNACET - Total posts: 6
+2026-03-12 14:16:43,959 [INFO] Extracted post 7/10: urn:li:activity:7307748536270340098 by Jayakumar KJayakumar K
+2026-03-12 14:16:43,963 [INFO] Saved post to dashboard: Jayakumar KJayakumar K - Total posts: 7
+2026-03-12 14:16:44,052 [INFO] Extracted post 8/10: urn:li:activity:7332366333210218496 by PRAGADEESHWARAN S SPRAGADEESHWARAN S S
+2026-03-12 14:16:44,055 [INFO] Saved post to dashboard: PRAGADEESHWARAN S SPRAGADEESHWARAN S S - Total posts: 8
+2026-03-12 14:16:44,123 [INFO] Extracted post 9/10: urn:li:activity:7343699408665919490 by Dhayanidhi RDhayanidhi R
+2026-03-12 14:16:44,129 [INFO] Saved post to dashboard: Dhayanidhi RDhayanidhi R - Total posts: 9
+2026-03-12 14:16:44,130 [INFO] Scroll 3/5 for 'Dhayanidhi R' - Collected: 9/10
+2026-03-12 14:16:46,655 [INFO] Extracted post 10/10: urn:li:activity:7324847460361609216 by Dhayanidhi RDhayanidhi R
+2026-03-12 14:16:46,659 [INFO] Saved post to dashboard: Dhayanidhi RDhayanidhi R - Total posts: 10
+2026-03-12 14:16:46,659 [INFO] Completed search for 'Dhayanidhi R': collected 10 posts
+2026-03-12 14:16:47,416 [INFO] Scraping completed.
+2026-03-12 14:16:47,441 [INFO] 
+Total posts collected: 10
+2026-03-12 14:16:47,475 [INFO] CSV saved: ./output\posts_2026-03-12_14-16-47.csv
+2026-03-12 14:16:47,480 [INFO] JSON saved: ./output\posts_2026-03-12_14-16-47.json
+2026-03-12 14:16:47,480 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 14:16:47,523 [INFO] 
+============================================================
+2026-03-12 14:16:47,524 [INFO] EXTRACTION SUMMARY
+2026-03-12 14:16:47,524 [INFO] Total Posts in DB: 226
+2026-03-12 14:16:47,524 [INFO] Likes: 5,876
+2026-03-12 14:16:47,530 [INFO] Comments: 382
+2026-03-12 14:16:47,530 [INFO] Reposts: 151
+2026-03-12 14:16:47,530 [INFO] Top Authors:
+2026-03-12 14:16:47,531 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 14:16:47,531 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 14:16:47,531 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 14:16:47,531 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 14:16:47,532 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 14:16:47,532 [INFO] ============================================================

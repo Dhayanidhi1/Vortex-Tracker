@@ -1,0 +1,47 @@
+2026-03-12 14:34:40,718 [INFO] Log file: logs\scraper_2026-03-12_14-34-40.log
+2026-03-12 14:34:40,718 [INFO] ============================================================
+2026-03-12 14:34:40,718 [INFO] LinkedIn Post Extractor
+2026-03-12 14:34:40,718 [INFO] Keywords: ['Yutaro okamoto']
+2026-03-12 14:34:40,718 [INFO] Max Posts: 5
+2026-03-12 14:34:40,719 [INFO] Time Range: Last 6 months
+2026-03-12 14:34:40,719 [INFO] Output Directory: ./output
+2026-03-12 14:34:40,719 [INFO] ============================================================
+2026-03-12 14:34:40,720 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 14:34:41,615 [INFO] Found saved session state.
+2026-03-12 14:34:41,995 [INFO] Checking login status...
+2026-03-12 14:34:46,629 [INFO] Already logged in.
+2026-03-12 14:34:46,629 [INFO] Starting search for: Yutaro okamoto (target: 5 posts)
+2026-03-12 14:34:49,834 [INFO] Target: 5 posts for keyword 'Yutaro okamoto'
+2026-03-12 14:34:49,834 [INFO] Scroll 1/3 for 'Yutaro okamoto' - Collected: 0/5
+2026-03-12 14:34:53,879 [INFO] Extracted post 1/5: urn:li:activity:7436068692100280320 by Kamali SKamali S
+2026-03-12 14:34:53,897 [INFO] Saved post to dashboard: Kamali SKamali S - Total posts: 1
+2026-03-12 14:34:54,498 [INFO] Extracted post 2/5: urn:li:activity:7435699410077986817 by Hari prasath.EHari prasath.E
+2026-03-12 14:34:54,511 [INFO] Saved post to dashboard: Hari prasath.EHari prasath.E - Total posts: 2
+2026-03-12 14:34:54,967 [INFO] Extracted post 3/5: urn:li:activity:7435253145691160578 by Yutaro Okamoto, MBAYutaro Okamoto, MBA
+2026-03-12 14:34:54,972 [INFO] Saved post to dashboard: Yutaro Okamoto, MBAYutaro Okamoto, MBA - Total posts: 3
+2026-03-12 14:34:54,972 [INFO] Scroll 2/3 for 'Yutaro okamoto' - Collected: 3/5
+2026-03-12 14:34:57,950 [INFO] Extracted post 4/5: urn:li:activity:7434880160509882368 by Momoka WatanukiMomoka Watanuki
+2026-03-12 14:34:57,954 [INFO] Saved post to dashboard: Momoka WatanukiMomoka Watanuki - Total posts: 4
+2026-03-12 14:34:58,064 [INFO] Extracted post 5/5: urn:li:activity:7422665190900441089 by HireSmart TechFest JapanHireSmart TechFest Japan
+2026-03-12 14:34:58,073 [INFO] Saved post to dashboard: HireSmart TechFest JapanHireSmart TechFest Japan - Total posts: 5
+2026-03-12 14:34:58,078 [INFO] Completed search for 'Yutaro okamoto': collected 5 posts
+2026-03-12 14:34:59,666 [INFO] Scraping completed.
+2026-03-12 14:34:59,696 [INFO] 
+Total posts collected: 5
+2026-03-12 14:34:59,732 [INFO] CSV saved: ./output\posts_2026-03-12_14-34-59.csv
+2026-03-12 14:34:59,732 [INFO] JSON saved: ./output\posts_2026-03-12_14-34-59.json
+2026-03-12 14:34:59,733 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 14:34:59,756 [INFO] 
+============================================================
+2026-03-12 14:34:59,757 [INFO] EXTRACTION SUMMARY
+2026-03-12 14:34:59,757 [INFO] Total Posts in DB: 231
+2026-03-12 14:34:59,757 [INFO] Likes: 6,084
+2026-03-12 14:34:59,758 [INFO] Comments: 396
+2026-03-12 14:34:59,758 [INFO] Reposts: 156
+2026-03-12 14:34:59,758 [INFO] Top Authors:
+2026-03-12 14:34:59,758 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 14:34:59,758 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 14:34:59,759 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 14:34:59,759 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 14:34:59,759 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 14:34:59,759 [INFO] ============================================================

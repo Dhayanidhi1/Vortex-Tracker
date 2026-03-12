@@ -1,0 +1,131 @@
+2026-03-12 12:34:37,342 [INFO] Log file: logs\scraper_2026-03-12_12-34-37.log
+2026-03-12 12:34:37,342 [INFO] ============================================================
+2026-03-12 12:34:37,342 [INFO] LinkedIn Post Extractor
+2026-03-12 12:34:37,342 [INFO] Keywords: ['Artificial Intelligence', 'Machine Learning', 'OpenAI', 'ChatGPT']
+2026-03-12 12:34:37,342 [INFO] Time Range: Last 6 months
+2026-03-12 12:34:37,342 [INFO] Output Directory: ./output
+2026-03-12 12:34:37,342 [INFO] ============================================================
+2026-03-12 12:34:38,459 [INFO] Found saved session state.
+2026-03-12 12:34:39,267 [INFO] Checking login status...
+2026-03-12 12:35:07,919 [INFO] Already logged in.
+2026-03-12 12:35:07,921 [INFO] Starting search for: Artificial Intelligence
+2026-03-12 12:35:18,779 [INFO] Scrolling page 1/5 for 'Artificial Intelligence'...
+2026-03-12 12:35:26,474 [INFO] Extracted post urn:li:activity:7437750523191046144 by Human Resources OnlineHuman Resources Online
+2026-03-12 12:35:26,506 [INFO] Extracted post urn:li:activity:7437750524554162176 by Agentic BriefAgentic Brief
+2026-03-12 12:35:26,536 [INFO] Extracted post urn:li:activity:7437750516614504449 by Alexis Trecourt - MD, PhDAlexis Trecourt - MD, PhD
+2026-03-12 12:35:26,566 [INFO] Extracted post urn:li:activity:7437750517113569281 by Saud Al-NabhaniSaud Al-Nabhani
+2026-03-12 12:35:26,597 [INFO] Extracted post urn:li:activity:7437750505042247680 by Political MarketerPolitical Marketer
+2026-03-12 12:35:26,631 [INFO] Extracted post urn:li:activity:7437750503263870977 by Towards Food and BeveragesTowards Food and Beverages
+2026-03-12 12:35:26,668 [INFO] Extracted post urn:li:activity:7437750494468653057 by Sven SERSSven SERS
+2026-03-12 12:35:26,694 [INFO] Extracted post urn:li:activity:7437750494766391298 by MIT Sloan Management Review - Middle EastMIT Sloan Management Review - Middle East
+2026-03-12 12:35:26,722 [INFO] Extracted post urn:li:activity:7437750490798604288 by DMG Group™ of Companies c/o Digital Media DMG Pvt LtdDMG Group™ of Companies c/o Digital Media DMG Pvt Ltd
+2026-03-12 12:35:29,487 [INFO] Clicked 'Show more' button.
+2026-03-12 12:35:32,228 [INFO] Scrolling page 2/5 for 'Artificial Intelligence'...
+2026-03-12 12:35:40,455 [INFO] Extracted post urn:li:activity:7437750479780151296 by DMG™ IT Engineering & Multimedia InstituteDMG™ IT Engineering & Multimedia Institute
+2026-03-12 12:35:40,486 [INFO] Extracted post urn:li:activity:7437750479809384448 by Nikul PatelNikul Patel
+2026-03-12 12:35:40,531 [INFO] Extracted post urn:li:activity:7437750459920183296 by Saraswathi Muthamil SelvanSaraswathi Muthamil Selvan
+2026-03-12 12:35:40,601 [INFO] Extracted post urn:li:activity:7437750456308862976 by Tabina SevideenTabina Sevideen
+2026-03-12 12:35:40,679 [INFO] Extracted post urn:li:activity:7437750453611888640 by Sohanur Rahman BhuiyanSohanur Rahman Bhuiyan
+2026-03-12 12:35:40,845 [INFO] Extracted post urn:li:activity:7437750378601009152 by Medi SindhujaMedi Sindhuja
+2026-03-12 12:35:40,876 [INFO] Extracted post urn:li:activity:7437750355582570496 by Lakshmi priyanLakshmi priyan
+2026-03-12 12:35:40,910 [INFO] Extracted post urn:li:activity:7437750357298102272 by pradeep kappapradeep kappa
+2026-03-12 12:35:40,943 [INFO] Extracted post urn:li:activity:7437750326943936512 by Nithya SNithya S
+2026-03-12 12:35:40,974 [INFO] Extracted post urn:li:activity:7437750281708183552 by TeamLease Digital GlobalTeamLease Digital Global
+2026-03-12 12:35:41,001 [INFO] Extracted post urn:li:activity:7437750266852139010 by Overstand Intelligence - Machine Learning e Inteligencia Artificial en Barcelona y MadridOverstand Intelligence - Machine Learning e Inteligencia Artificial en Barcelona y Madrid
+2026-03-12 12:35:41,028 [INFO] Extracted post urn:li:activity:7437750267846201344 by UNDERCODE TESTINGUNDERCODE TESTING
+2026-03-12 12:35:41,056 [INFO] Extracted post urn:li:activity:7437750269561520128 by Konnexions IT & Web SocietyKonnexions IT & Web Society
+2026-03-12 12:35:41,084 [INFO] Extracted post urn:li:activity:7437750232412745728 by Kavin RajKavin Raj
+2026-03-12 12:35:41,114 [INFO] Extracted post urn:li:activity:7437750225106075649 by Wouter Dijkman LLMWouter Dijkman LLM
+2026-03-12 12:35:41,280 [INFO] Clicked 'Show more' button.
+2026-03-12 12:35:44,841 [INFO] Scrolling page 3/5 for 'Artificial Intelligence'...
+2026-03-12 12:35:52,107 [INFO] Extracted post urn:li:activity:7437750177098207232 by Ravi Visvesvaraya Sharada PrasadRavi Visvesvaraya Sharada Prasad
+2026-03-12 12:35:52,143 [INFO] Extracted post urn:li:activity:7437750159582707712 by Akanksha BhoiteAkanksha Bhoite
+2026-03-12 12:35:52,176 [INFO] Extracted post urn:li:activity:7437750155656806400 by KARAN KUMAR KAIBARTAKARAN KUMAR KAIBARTA
+2026-03-12 12:35:52,211 [INFO] Extracted post urn:li:activity:7437750102649286656 by CEDORIASE ACADEMY FOR ARTIFICIAL INTELLIGENCECEDORIASE ACADEMY FOR ARTIFICIAL INTELLIGENCE
+2026-03-12 12:35:52,239 [INFO] Extracted post urn:li:activity:7437750094327595008 by Lidia Anna WielanekLidia Anna Wielanek
+2026-03-12 12:35:52,273 [INFO] Extracted post urn:li:activity:7437750086056669184 by GyaanSetu AI (Artificial Intelligence)GyaanSetu AI (Artificial Intelligence)
+2026-03-12 12:35:52,311 [INFO] Extracted post urn:li:activity:7437750077244485632 by Gotham AnupaGotham Anupa
+2026-03-12 12:35:52,347 [INFO] Extracted post urn:li:activity:7437750074786422784 by Ravi Kumar VermaRavi Kumar Verma
+2026-03-12 12:35:52,380 [INFO] Extracted post urn:li:activity:7437750071099555841 by New South Wales jobs, AustraliaNew South Wales jobs, Australia
+2026-03-12 12:35:52,623 [INFO] Clicked 'Show more' button.
+2026-03-12 12:35:57,104 [INFO] Scrolling page 4/5 for 'Artificial Intelligence'...
+2026-03-12 12:36:04,468 [INFO] Extracted post urn:li:activity:7437750005014351872 by Hrushikesh MohapatroHrushikesh Mohapatro
+2026-03-12 12:36:04,506 [INFO] Extracted post urn:li:activity:7437750079970562048 by GyaanSetu AI (Artificial Intelligence)GyaanSetu AI (Artificial Intelligence)
+2026-03-12 12:36:04,542 [INFO] Extracted post urn:li:activity:7437749984676044801 by Ranking CorporationRanking Corporation
+2026-03-12 12:36:04,579 [INFO] Extracted post urn:li:activity:7437749967823269888 by AI MENA NetworkAI MENA Network
+2026-03-12 12:36:04,620 [INFO] Extracted post urn:li:activity:7437749956150632449 by Chetan AherChetan Aher
+2026-03-12 12:36:04,658 [INFO] Extracted post urn:li:activity:7437749954871214081 by Dr. Jasmin Schmeidler (Docteur en droit, PhD), LLM⛵️DEA🦓DEIDr. Jasmin Schmeidler (Docteur en droit, PhD), LLM⛵️DEA🦓DEI
+2026-03-12 12:36:04,837 [INFO] Clicked 'Show more' button.
+2026-03-12 12:36:09,716 [INFO] Scrolling page 5/5 for 'Artificial Intelligence'...
+2026-03-12 12:36:18,112 [INFO] Extracted post urn:li:activity:7437749909111574529 by World Innovation CongressWorld Innovation Congress
+2026-03-12 12:36:18,197 [INFO] Extracted post urn:li:activity:7437749876513312768 by Bomi HealthBomi Health
+2026-03-12 12:36:18,280 [INFO] Extracted post urn:li:activity:7437749800672063488 by Ankita PatelAnkita Patel
+2026-03-12 12:36:18,371 [INFO] Extracted post urn:li:activity:7437749758514855937 by MALINENI JAHNAVIMALINENI JAHNAVI
+2026-03-12 12:36:18,463 [INFO] Extracted post urn:li:activity:7437749751950958593 by Fav Consulting ServicesFav Consulting Services
+2026-03-12 12:36:18,525 [INFO] Extracted post urn:li:activity:7437749731092570112 by Nishanth MNishanth M
+2026-03-12 12:36:18,726 [INFO] Clicked 'Show more' button.
+2026-03-12 12:36:28,142 [INFO] Starting search for: Machine Learning
+2026-03-12 12:36:36,415 [INFO] Scrolling page 1/5 for 'Machine Learning'...
+2026-03-12 12:36:44,890 [INFO] Extracted post urn:li:activity:7437750857875542016 by Rohit PradhanRohit Pradhan
+2026-03-12 12:36:44,922 [INFO] Extracted post urn:li:activity:7437750828138000384 by Kusumapriya MedaKusumapriya Meda
+2026-03-12 12:36:44,951 [INFO] Extracted post urn:li:activity:7437750817304137728 by Praveen Kumar JPraveen Kumar J
+2026-03-12 12:36:44,983 [INFO] Extracted post urn:li:activity:7437750789395156992 by Thomaskutty RejiThomaskutty Reji
+2026-03-12 12:36:45,011 [INFO] Extracted post urn:li:activity:7437750776782901248 by Rudra Narayan MishraRudra Narayan Mishra
+2026-03-12 12:36:45,037 [INFO] Extracted post urn:li:activity:7437750757866618880 by Priyansh MiyaniPriyansh Miyani
+2026-03-12 12:36:45,063 [INFO] Extracted post urn:li:activity:7437750713725898752 by Sri Abishek Sri BalendranSri Abishek Sri Balendran
+2026-03-12 12:36:45,096 [INFO] Extracted post urn:li:activity:7437750686848700416 by Nishanth MNishanth M
+2026-03-12 12:36:45,243 [INFO] Clicked 'Show more' button.
+2026-03-12 12:36:48,712 [INFO] Scrolling page 2/5 for 'Machine Learning'...
+2026-03-12 12:36:56,871 [INFO] Extracted post urn:li:activity:7437750581693243393 by IndabaX UgandaIndabaX Uganda
+2026-03-12 12:36:56,905 [INFO] Extracted post urn:li:activity:7437750554690461696 by Giorgio IracàGiorgio Iracà
+2026-03-12 12:36:56,942 [INFO] Extracted post urn:li:activity:7437750527825948672 by Simon MelanoSimon Melano
+2026-03-12 12:36:56,980 [INFO] Extracted post urn:li:activity:7437750516593524737 by Pedro BarrenecheaPedro Barrenechea
+2026-03-12 12:36:57,012 [INFO] Extracted post urn:li:activity:7437750506745225216 by Selebogo MolefeSelebogo Molefe
+2026-03-12 12:36:57,045 [INFO] Extracted post urn:li:activity:7437750503524098048 by SkillEase AcademySkillEase Academy
+2026-03-12 12:36:57,255 [INFO] Clicked 'Show more' button.
+2026-03-12 12:36:59,692 [INFO] Scrolling page 3/5 for 'Machine Learning'...
+2026-03-12 12:37:08,185 [INFO] Extracted post urn:li:activity:7437750495299059712 by Youssef Mohamed Saad EldinYoussef Mohamed Saad Eldin
+2026-03-12 12:37:08,218 [INFO] Extracted post urn:li:activity:7437750490798604288 by DMG Group™ of Companies c/o Digital Media DMG Pvt LtdDMG Group™ of Companies c/o Digital Media DMG Pvt Ltd
+2026-03-12 12:37:08,249 [INFO] Extracted post urn:li:activity:7437750484620242944 by Aryaman GoelAryaman Goel
+2026-03-12 12:37:08,280 [INFO] Extracted post urn:li:activity:7437750480170221568 by AboutYouAboutYou
+2026-03-12 12:37:08,322 [INFO] Extracted post urn:li:activity:7437750479780151296 by DMG™ IT Engineering & Multimedia InstituteDMG™ IT Engineering & Multimedia Institute
+2026-03-12 12:37:08,379 [INFO] Extracted post urn:li:activity:7437750479809384448 by Nikul PatelNikul Patel
+2026-03-12 12:37:10,164 [INFO] Clicked 'Show more' button.
+2026-03-12 12:37:12,943 [INFO] Scrolling page 4/5 for 'Machine Learning'...
+2026-03-12 12:37:22,089 [INFO] Extracted post urn:li:activity:7437750471303368704 by Clive RandClive Rand
+2026-03-12 12:37:22,159 [INFO] Extracted post urn:li:activity:7437750459920183296 by Saraswathi Muthamil SelvanSaraswathi Muthamil Selvan
+2026-03-12 12:37:22,232 [INFO] Extracted post urn:li:activity:7437750453611888640 by Sohanur Rahman BhuiyanSohanur Rahman Bhuiyan
+2026-03-12 12:37:22,310 [INFO] Extracted post urn:li:activity:7437750378601009152 by Medi SindhujaMedi Sindhuja
+2026-03-12 12:37:22,398 [INFO] Extracted post urn:li:activity:7437750357298102272 by pradeep kappapradeep kappa
+2026-03-12 12:37:22,475 [INFO] Extracted post urn:li:activity:7437750280307245057 by Tanya LalwaniTanya Lalwani
+2026-03-12 12:37:22,586 [INFO] Extracted post urn:li:activity:7437750266508185600 by Neeraj SharmaNeeraj Sharma
+2026-03-12 12:37:22,652 [INFO] Extracted post urn:li:activity:7437750266852139010 by Overstand Intelligence - Machine Learning e Inteligencia Artificial en Barcelona y MadridOverstand Intelligence - Machine Learning e Inteligencia Artificial en Barcelona y Madrid
+2026-03-12 12:37:22,740 [INFO] Extracted post urn:li:activity:7437750253061046275 by Aman S.Aman S.
+2026-03-12 12:37:22,814 [INFO] Extracted post urn:li:activity:7437750232412745728 by Kavin RajKavin Raj
+2026-03-12 12:37:22,883 [INFO] Extracted post urn:li:activity:7437750218558889984 by Jeetendra KumarJeetendra Kumar
+2026-03-12 12:37:22,955 [INFO] Extracted post urn:li:activity:7437750177282560000 by Anupam ChoudhuryAnupam Choudhury
+2026-03-12 12:37:23,291 [INFO] Clicked 'Show more' button.
+2026-03-12 12:37:27,472 [INFO] Scrolling page 5/5 for 'Machine Learning'...
+2026-03-12 12:37:35,738 [ERROR] Error during search for 'Machine Learning': Locator.all: Target page, context or browser has been closed
+2026-03-12 12:37:44,630 [INFO] Starting search for: OpenAI
+2026-03-12 12:37:44,635 [ERROR] Error during search for 'OpenAI': Page.goto: Target page, context or browser has been closed
+2026-03-12 12:37:51,141 [INFO] Starting search for: ChatGPT
+2026-03-12 12:37:51,145 [ERROR] Error during search for 'ChatGPT': Page.goto: Target page, context or browser has been closed
+2026-03-12 12:38:01,356 [INFO] Scraping completed.
+2026-03-12 12:38:01,381 [INFO] 
+Total posts collected: 77
+2026-03-12 12:38:01,389 [ERROR] Unexpected error: table posts has 14 columns but 12 values were supplied
+Traceback (most recent call last):
+  File "D:\Game\Linkedin_Project\linkedin_extractor\main.py", line 52, in main
+    results = storage.save_all(posts)
+  File "D:\Game\Linkedin_Project\linkedin_extractor\storage.py", line 74, in save_all
+    conn.execute('''
+    ~~~~~~~~~~~~^^^^
+        INSERT INTO posts VALUES (?,?,?,?,?,?,?,?,?,?,?,?)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        json.dumps(p["matched_keywords"]), p["post_type"], p["scraped_at"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ))
+    ^^
+sqlite3.OperationalError: table posts has 14 columns but 12 values were supplied

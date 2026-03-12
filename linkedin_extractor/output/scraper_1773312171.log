@@ -1,0 +1,51 @@
+2026-03-12 16:12:52,438 [INFO] Log file: logs\scraper_2026-03-12_16-12-52.log
+2026-03-12 16:12:52,438 [INFO] ============================================================
+2026-03-12 16:12:52,438 [INFO] LinkedIn Post Extractor
+2026-03-12 16:12:52,438 [INFO] Keywords: ['chennai Institute of tetechnology']
+2026-03-12 16:12:52,438 [INFO] Max Posts: 10
+2026-03-12 16:12:52,438 [INFO] Time Range: Last 6 months
+2026-03-12 16:12:52,438 [INFO] Output Directory: ./output
+2026-03-12 16:12:52,439 [INFO] ============================================================
+2026-03-12 16:12:52,439 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 16:12:53,589 [INFO] Found saved session state.
+2026-03-12 16:12:54,603 [INFO] Checking login status...
+2026-03-12 16:12:59,481 [INFO] Already logged in.
+2026-03-12 16:12:59,482 [INFO] Starting search for: chennai Institute of tetechnology (target: 10 posts)
+2026-03-12 16:13:07,318 [INFO] Target: 10 posts for keyword 'chennai Institute of tetechnology'
+2026-03-12 16:13:07,318 [INFO] Scroll 1/5 for 'chennai Institute of tetechnology' - Collected: 0/10
+2026-03-12 16:13:16,219 [INFO] Extracted post 1/10: urn:li:activity:7437708998008590337 by Chennai Institute of TechnologyChennai Institute of Technology
+2026-03-12 16:13:16,222 [INFO] Saved post to dashboard: Chennai Institute of TechnologyChennai Institute of Technology - Total posts: 1
+2026-03-12 16:13:16,449 [INFO] Extracted post 2/10: urn:li:activity:7436843025403838464 by Dr. Vijay Anand KandaswamyDr. Vijay Anand Kandaswamy
+2026-03-12 16:13:16,452 [INFO] Saved post to dashboard: Dr. Vijay Anand KandaswamyDr. Vijay Anand Kandaswamy - Total posts: 2
+2026-03-12 16:13:16,609 [INFO] Extracted post 3/10: urn:li:activity:7437072703418728449 by Vyshnavi KatasaniVyshnavi Katasani
+2026-03-12 16:13:16,616 [INFO] Saved post to dashboard: Vyshnavi KatasaniVyshnavi Katasani - Total posts: 3
+2026-03-12 16:13:16,616 [INFO] Scroll 2/5 for 'chennai Institute of tetechnology' - Collected: 3/10
+2026-03-12 16:13:20,262 [INFO] Extracted post 4/10: urn:li:activity:7437562569864876033 by Vignesh TamilvananVignesh Tamilvanan
+2026-03-12 16:13:20,265 [INFO] Saved post to dashboard: Vignesh TamilvananVignesh Tamilvanan - Total posts: 4
+2026-03-12 16:13:20,418 [INFO] Extracted post 5/10: urn:li:activity:7437792035199250433 by Debasish Bhattacharyya, FCIM, CMktrDebasish Bhattacharyya, FCIM, CMktr
+2026-03-12 16:13:20,421 [INFO] Saved post to dashboard: Debasish Bhattacharyya, FCIM, CMktrDebasish Bhattacharyya, FCIM, CMktr - Total posts: 5
+2026-03-12 16:13:20,748 [INFO] Extracted post 6/10: urn:li:activity:7437734379449208832 by Dr. TRB RajaaDr. TRB Rajaa
+2026-03-12 16:13:20,751 [INFO] Saved post to dashboard: Dr. TRB RajaaDr. TRB Rajaa - Total posts: 6
+2026-03-12 16:13:20,751 [INFO] Scroll 3/5 for 'chennai Institute of tetechnology' - Collected: 6/10
+2026-03-12 16:13:53,842 [INFO] No new posts found in this scroll, might have reached the end.
+2026-03-12 16:13:53,842 [INFO] Completed search for 'chennai Institute of tetechnology': collected 6 posts
+2026-03-12 16:14:03,446 [INFO] Scraping completed.
+2026-03-12 16:14:03,509 [INFO] 
+Total posts collected: 6
+2026-03-12 16:14:03,630 [INFO] CSV saved: ./output\posts_2026-03-12_16-14-03.csv
+2026-03-12 16:14:03,632 [INFO] JSON saved: ./output\posts_2026-03-12_16-14-03.json
+2026-03-12 16:14:03,634 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 16:14:03,709 [INFO] 
+============================================================
+2026-03-12 16:14:03,710 [INFO] EXTRACTION SUMMARY
+2026-03-12 16:14:03,717 [INFO] Total Posts in DB: 263
+2026-03-12 16:14:03,719 [INFO] Likes: 8,141
+2026-03-12 16:14:03,730 [INFO] Comments: 542
+2026-03-12 16:14:03,732 [INFO] Reposts: 277
+2026-03-12 16:14:03,733 [INFO] Top Authors:
+2026-03-12 16:14:03,734 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 16:14:03,734 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 16:14:03,744 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 16:14:03,744 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 16:14:03,745 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 16:14:03,745 [INFO] ============================================================

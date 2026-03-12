@@ -1,0 +1,59 @@
+2026-03-12 16:48:59,041 [INFO] Log file: logs\scraper_2026-03-12_16-48-59.log
+2026-03-12 16:48:59,041 [INFO] ============================================================
+2026-03-12 16:48:59,041 [INFO] LinkedIn Post Extractor
+2026-03-12 16:48:59,041 [INFO] Keywords: ['google']
+2026-03-12 16:48:59,041 [INFO] Max Posts: 10
+2026-03-12 16:48:59,041 [INFO] Time Range: Last 6 months
+2026-03-12 16:48:59,041 [INFO] Output Directory: ./output
+2026-03-12 16:48:59,041 [INFO] ============================================================
+2026-03-12 16:48:59,042 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 16:48:59,670 [INFO] Found saved session state.
+2026-03-12 16:48:59,991 [INFO] Checking login status...
+2026-03-12 16:49:04,354 [INFO] Already logged in.
+2026-03-12 16:49:04,355 [INFO] Starting search for: google (target: 10 posts)
+2026-03-12 16:49:07,477 [INFO] Target: 10 posts for keyword 'google'
+2026-03-12 16:49:07,477 [INFO] Scroll 1/5 for 'google' - Collected: 0/10
+2026-03-12 16:49:09,703 [INFO] Extracted post 1/10: urn:li:activity:7437785631449047040 by Hamid Umair SaeedHamid Umair Saeed
+2026-03-12 16:49:09,709 [INFO] Saved post to dashboard: Hamid Umair SaeedHamid Umair Saeed - Total posts: 1
+2026-03-12 16:49:10,587 [INFO] Extracted post 2/10: urn:li:activity:7437726882860744704 by Neeshna KumaresanNeeshna Kumaresan
+2026-03-12 16:49:10,605 [INFO] Saved post to dashboard: Neeshna KumaresanNeeshna Kumaresan - Total posts: 2
+2026-03-12 16:49:10,956 [INFO] Extracted post 3/10: urn:li:activity:7437806725027540993 by Neha SahuNeha Sahu
+2026-03-12 16:49:10,980 [INFO] Saved post to dashboard: Neha SahuNeha Sahu - Total posts: 3
+2026-03-12 16:49:10,980 [INFO] Scroll 2/5 for 'google' - Collected: 3/10
+2026-03-12 16:49:12,699 [INFO] Extracted post 4/10: urn:li:activity:7136006465735016448 by Antonio SchenaAntonio Schena
+2026-03-12 16:49:12,720 [INFO] Saved post to dashboard: Antonio SchenaAntonio Schena - Total posts: 4
+2026-03-12 16:49:12,773 [INFO] Extracted post 5/10: urn:li:activity:7132365095346581505 by Fausto FusaroFausto Fusaro
+2026-03-12 16:49:12,791 [INFO] Saved post to dashboard: Fausto FusaroFausto Fusaro - Total posts: 5
+2026-03-12 16:49:12,838 [INFO] Extracted post 6/10: urn:li:activity:7113096569205260289 by CHESTER SWANSON SR.CHESTER SWANSON SR.
+2026-03-12 16:49:12,859 [INFO] Saved post to dashboard: CHESTER SWANSON SR.CHESTER SWANSON SR. - Total posts: 6
+2026-03-12 16:49:12,859 [INFO] Scroll 3/5 for 'google' - Collected: 6/10
+2026-03-12 16:49:14,342 [INFO] Extracted post 7/10: urn:li:activity:7437780934826819584 by Sakshi SinghSakshi Singh
+2026-03-12 16:49:14,363 [INFO] Saved post to dashboard: Sakshi SinghSakshi Singh - Total posts: 7
+2026-03-12 16:49:14,430 [INFO] Extracted post 8/10: urn:li:activity:7437783683140395008 by Mohit KumarMohit Kumar
+2026-03-12 16:49:14,458 [INFO] Saved post to dashboard: Mohit KumarMohit Kumar - Total posts: 8
+2026-03-12 16:49:14,506 [INFO] Extracted post 9/10: urn:li:activity:7437788933448495104 by Ritu S HandaRitu S Handa
+2026-03-12 16:49:14,531 [INFO] Saved post to dashboard: Ritu S HandaRitu S Handa - Total posts: 9
+2026-03-12 16:49:14,532 [INFO] Scroll 4/5 for 'google' - Collected: 9/10
+2026-03-12 16:49:16,033 [INFO] Extracted post 10/10: urn:li:activity:7437735841143320576 by 榎原雅良榎原雅良
+2026-03-12 16:49:16,057 [INFO] Saved post to dashboard: 榎原雅良榎原雅良 - Total posts: 10
+2026-03-12 16:49:16,057 [INFO] Completed search for 'google': collected 10 posts
+2026-03-12 16:49:16,751 [INFO] Scraping completed.
+2026-03-12 16:49:16,773 [INFO] 
+Total posts collected: 10
+2026-03-12 16:49:16,805 [INFO] CSV saved: ./output\posts_2026-03-12_16-49-16.csv
+2026-03-12 16:49:16,805 [INFO] JSON saved: ./output\posts_2026-03-12_16-49-16.json
+2026-03-12 16:49:16,805 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 16:49:16,817 [INFO] 
+============================================================
+2026-03-12 16:49:16,817 [INFO] EXTRACTION SUMMARY
+2026-03-12 16:49:16,817 [INFO] Total Posts in DB: 304
+2026-03-12 16:49:16,818 [INFO] Likes: 9,868
+2026-03-12 16:49:16,818 [INFO] Comments: 837
+2026-03-12 16:49:16,818 [INFO] Reposts: 308
+2026-03-12 16:49:16,818 [INFO] Top Authors:
+2026-03-12 16:49:16,818 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 16:49:16,818 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 16:49:16,818 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 16:49:16,818 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 16:49:16,818 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 16:49:16,818 [INFO] ============================================================

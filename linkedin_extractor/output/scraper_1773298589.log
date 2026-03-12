@@ -1,0 +1,15 @@
+2026-03-12 12:26:30,260 [INFO] Log file: logs\scraper_2026-03-12_12-26-30.log
+2026-03-12 12:26:30,260 [INFO] ============================================================
+2026-03-12 12:26:30,260 [INFO] LinkedIn Post Extractor
+2026-03-12 12:26:30,261 [INFO] Keywords: ['Artificial Intelligence', 'Machine Learning', 'OpenAI', 'ChatGPT']
+2026-03-12 12:26:30,261 [INFO] Time Range: Last 6 months
+2026-03-12 12:26:30,261 [INFO] Output Directory: ./output
+2026-03-12 12:26:30,261 [INFO] ============================================================
+2026-03-12 12:26:31,271 [INFO] Checking login status...
+2026-03-12 12:26:32,986 [INFO] Not logged in. Performing login...
+2026-03-12 12:26:40,632 [WARNING] CAPTCHA, challenge, or manual login detected! Please solve it manually in the browser. Waiting up to 2 minutes...
+2026-03-12 12:28:40,650 [ERROR] Did not reach feed after 2 minutes. Exiting.
+2026-03-12 12:28:40,650 [ERROR] Login failed: Manual CAPTCHA solving required and timed out.
+2026-03-12 12:28:41,164 [INFO] 
+Total posts collected: 0
+2026-03-12 12:28:41,164 [WARNING] No posts collected.

@@ -1,0 +1,51 @@
+2026-03-12 11:15:30,845 - linkedin_extractor - INFO - Logging initialized. Log file: logs\scraper_2026-03-12_11-15-30.log
+2026-03-12 11:15:30,846 - linkedin_extractor - INFO - ============================================================
+2026-03-12 11:15:30,846 - linkedin_extractor - INFO - LinkedIn Post Extractor
+2026-03-12 11:15:30,847 - linkedin_extractor - INFO - ============================================================
+2026-03-12 11:15:30,847 - linkedin_extractor - INFO - Keywords: ['Artificial Intelligence', 'Machine Learning', 'OpenAI', 'ChatGPT']
+2026-03-12 11:15:30,848 - linkedin_extractor - INFO - Time Range: Last 6 months
+2026-03-12 11:15:30,848 - linkedin_extractor - INFO - Output Directory: ./output
+2026-03-12 11:15:30,849 - linkedin_extractor - INFO - ============================================================
+2026-03-12 11:15:30,851 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 11:15:30,852 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 11:15:30,852 - scraper - INFO - Starting Chrome browser...
+2026-03-12 11:15:31,794 - scraper - INFO - Browser started successfully
+2026-03-12 11:15:31,795 - scraper - INFO - Attempting to log in to LinkedIn...
+2026-03-12 11:15:39,589 - scraper - WARNING - ==================================================
+2026-03-12 11:15:39,589 - scraper - WARNING - CAPTCHA DETECTED!
+2026-03-12 11:15:39,589 - scraper - WARNING - Please solve the CAPTCHA manually in the browser.
+2026-03-12 11:15:39,589 - scraper - WARNING - The script will continue once you've solved it.
+2026-03-12 11:15:39,589 - scraper - WARNING - ==================================================
+2026-03-12 11:15:44,604 - scraper - INFO - Waiting for CAPTCHA to be solved... (5s / 300s)
+2026-03-12 11:15:49,620 - scraper - INFO - Waiting for CAPTCHA to be solved... (10s / 300s)
+2026-03-12 11:15:54,645 - scraper - INFO - Waiting for CAPTCHA to be solved... (15s / 300s)
+2026-03-12 11:15:59,671 - scraper - INFO - Waiting for CAPTCHA to be solved... (20s / 300s)
+2026-03-12 11:16:04,690 - scraper - INFO - Waiting for CAPTCHA to be solved... (25s / 300s)
+2026-03-12 11:16:09,703 - scraper - INFO - Waiting for CAPTCHA to be solved... (30s / 300s)
+2026-03-12 11:16:14,720 - scraper - INFO - Waiting for CAPTCHA to be solved... (35s / 300s)
+2026-03-12 11:16:19,737 - scraper - INFO - Waiting for CAPTCHA to be solved... (40s / 300s)
+2026-03-12 11:16:24,750 - scraper - INFO - Waiting for CAPTCHA to be solved... (45s / 300s)
+2026-03-12 11:16:29,781 - scraper - INFO - Waiting for CAPTCHA to be solved... (50s / 300s)
+2026-03-12 11:16:34,607 - scraper - INFO - CAPTCHA solved! Continuing...
+2026-03-12 11:16:41,903 - scraper - INFO - Logged in after CAPTCHA!
+2026-03-12 11:16:42,633 - scraper - INFO - Cookies saved to ./output\linkedin_cookies.json
+2026-03-12 11:16:42,642 - linkedin_extractor - INFO - 
+Starting post extraction...
+2026-03-12 11:16:42,643 - scraper - INFO - 
+==================================================
+2026-03-12 11:16:42,643 - scraper - INFO - Scraping feed for keywords: Artificial Intelligence, Machine Learning, OpenAI, ChatGPT
+2026-03-12 11:16:42,649 - scraper - INFO - ==================================================
+
+2026-03-12 11:16:42,650 - scraper - INFO - Scraping posts for keywords: ['Artificial Intelligence', 'Machine Learning', 'OpenAI', 'ChatGPT']
+2026-03-12 11:16:42,656 - scraper - INFO - Navigating to feed first to verify login...
+2026-03-12 11:16:55,832 - scraper - INFO - Navigating to search URL: https://www.linkedin.com/search/results/content/?keywords=%22Artificial%20Intelligence%22%20OR%20%22Machine%20Learning%22%20OR%20%22OpenAI%22%20OR%20%22ChatGPT%22&sortBy=%22date_posted%22
+2026-03-12 11:17:07,558 - scraper - INFO - Current URL after search navigation: https://www.linkedin.com/search/results/content/?keywords=%22Artificial%20Intelligence%22%20OR%20%22Machine%20Learning%22%20OR%20%22OpenAI%22%20OR%20%22ChatGPT%22&sortBy=%22date_posted%22
+2026-03-12 11:17:07,558 - scraper - INFO - Waiting for posts to load...
+2026-03-12 11:17:22,586 - scraper - WARNING - No posts with data-urn found, trying alternative selectors...
+2026-03-12 11:17:22,595 - scraper - INFO - Page text preview: 
+2026-03-12 11:17:22,655 - scraper - ERROR - No posts found on search page and no CAPTCHA
+2026-03-12 11:17:22,656 - scraper - INFO - 
+Total unique posts collected: 0
+2026-03-12 11:17:22,656 - linkedin_extractor - WARNING - No posts were collected.
+2026-03-12 11:17:22,656 - scraper - INFO - Closing browser...
+2026-03-12 11:17:25,402 - linkedin_extractor - INFO - Extraction complete.

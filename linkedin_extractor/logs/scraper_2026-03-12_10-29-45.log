@@ -1,0 +1,44 @@
+2026-03-12 10:29:45,858 - linkedin_extractor - INFO - Logging initialized. Log file: logs\scraper_2026-03-12_10-29-45.log
+2026-03-12 10:29:45,859 - linkedin_extractor - INFO - ============================================================
+2026-03-12 10:29:45,859 - linkedin_extractor - INFO - LinkedIn Post Extractor
+2026-03-12 10:29:45,859 - linkedin_extractor - INFO - ============================================================
+2026-03-12 10:29:45,859 - linkedin_extractor - INFO - Keywords: ['Artificial Intelligence', 'Machine Learning', 'OpenAI', 'ChatGPT']
+2026-03-12 10:29:45,859 - linkedin_extractor - INFO - Time Range: Last 6 months
+2026-03-12 10:29:45,859 - linkedin_extractor - INFO - Output Directory: ./output
+2026-03-12 10:29:45,859 - linkedin_extractor - INFO - ============================================================
+2026-03-12 10:29:45,861 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 10:29:45,862 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 10:29:45,862 - scraper - INFO - Starting Chrome browser...
+2026-03-12 10:29:47,099 - scraper - INFO - Browser started successfully
+2026-03-12 10:29:47,099 - scraper - INFO - Attempting to log in to LinkedIn...
+2026-03-12 10:29:59,785 - scraper - WARNING - ==================================================
+2026-03-12 10:29:59,786 - scraper - WARNING - CAPTCHA DETECTED!
+2026-03-12 10:29:59,786 - scraper - WARNING - Please solve the CAPTCHA manually in the browser.
+2026-03-12 10:29:59,787 - scraper - WARNING - The script will continue once you've solved it.
+2026-03-12 10:29:59,787 - scraper - WARNING - ==================================================
+2026-03-12 10:30:04,939 - scraper - INFO - Waiting for CAPTCHA to be solved... (5s / 300s)
+2026-03-12 10:30:16,347 - scraper - INFO - CAPTCHA solved! Continuing...
+2026-03-12 10:30:21,791 - scraper - INFO - Logged in after CAPTCHA!
+2026-03-12 10:30:21,808 - scraper - INFO - Cookies saved to ./output\linkedin_cookies.json
+2026-03-12 10:30:21,808 - linkedin_extractor - INFO - 
+Starting post extraction...
+2026-03-12 10:30:21,809 - scraper - INFO - 
+==================================================
+2026-03-12 10:30:21,809 - scraper - INFO - Scraping feed for keywords: Artificial Intelligence, Machine Learning, OpenAI, ChatGPT
+2026-03-12 10:30:21,809 - scraper - INFO - ==================================================
+
+2026-03-12 10:30:21,810 - scraper - INFO - Scraping feed for keywords: ['Artificial Intelligence', 'Machine Learning', 'OpenAI', 'ChatGPT']
+2026-03-12 10:30:23,699 - scraper - INFO - Navigated to feed, waiting for content to load...
+2026-03-12 10:30:32,884 - scraper - INFO - Saved screenshot to output\feed_screenshot.png
+2026-03-12 10:30:32,934 - scraper - INFO - Page source length: 207686 characters
+2026-03-12 10:30:32,934 - scraper - INFO - Starting to scroll through feed...
+2026-03-12 10:30:32,934 - scraper - INFO - Scroll 1/50 - Found 0 matching posts so far
+2026-03-12 10:30:43,301 - scraper - WARNING - Timeout waiting for feed posts on scroll 1
+2026-03-12 10:30:43,329 - scraper - INFO - Current URL: https://www.linkedin.com/feed/
+2026-03-12 10:30:43,401 - scraper - ERROR - No feed elements found with any selector
+2026-03-12 10:30:43,402 - scraper - INFO - Feed scraping complete. Found 0 matching posts
+2026-03-12 10:30:43,402 - scraper - INFO - 
+Total unique posts collected: 0
+2026-03-12 10:30:43,402 - linkedin_extractor - WARNING - No posts were collected.
+2026-03-12 10:30:43,402 - scraper - INFO - Closing browser...
+2026-03-12 10:30:47,609 - linkedin_extractor - INFO - Extraction complete.

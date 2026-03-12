@@ -1,0 +1,161 @@
+2026-03-12 11:57:51,739 - linkedin_extractor - INFO - Logging initialized. Log file: logs\scraper_2026-03-12_11-57-51.log
+2026-03-12 11:57:51,739 - linkedin_extractor - INFO - ============================================================
+2026-03-12 11:57:51,739 - linkedin_extractor - INFO - LinkedIn Post Extractor
+2026-03-12 11:57:51,740 - linkedin_extractor - INFO - ============================================================
+2026-03-12 11:57:51,740 - linkedin_extractor - INFO - Keywords: ['Artificial Intelligence', 'Machine Learning', 'OpenAI', 'ChatGPT']
+2026-03-12 11:57:51,740 - linkedin_extractor - INFO - Time Range: Last 6 months
+2026-03-12 11:57:51,740 - linkedin_extractor - INFO - Output Directory: ./output
+2026-03-12 11:57:51,740 - linkedin_extractor - INFO - ============================================================
+2026-03-12 11:57:51,741 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 11:57:51,743 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 11:57:51,743 - scraper - INFO - Starting Chrome browser...
+2026-03-12 11:57:52,776 - scraper - INFO - Browser started successfully
+2026-03-12 11:57:52,777 - scraper - INFO - Checking login status...
+2026-03-12 11:57:59,332 - scraper - INFO - Cookies loaded successfully
+2026-03-12 11:57:59,332 - scraper - INFO - Navigating to /feed/ to check login state...
+2026-03-12 11:58:14,080 - scraper - INFO - After feed navigation, URL is: https://www.linkedin.com/uas/login?session_redirect=https%3a%2f%2fwww.linkedin.com%2ffeed%2f
+2026-03-12 11:58:14,086 - scraper - INFO - Not logged in, proceeding with manual login...
+2026-03-12 11:58:17,419 - scraper - WARNING - ==================================================
+2026-03-12 11:58:17,419 - scraper - WARNING - CAPTCHA DETECTED!
+2026-03-12 11:58:17,419 - scraper - WARNING - Please solve the CAPTCHA manually in the browser.
+2026-03-12 11:58:17,419 - scraper - WARNING - The script will continue once you've solved it.
+2026-03-12 11:58:17,420 - scraper - WARNING - ==================================================
+2026-03-12 11:58:22,448 - scraper - INFO - Waiting for CAPTCHA to be solved... (5s / 300s)
+2026-03-12 11:58:27,499 - scraper - INFO - Waiting for CAPTCHA to be solved... (10s / 300s)
+2026-03-12 11:58:32,561 - scraper - INFO - Waiting for CAPTCHA to be solved... (15s / 300s)
+2026-03-12 11:58:37,654 - scraper - INFO - Waiting for CAPTCHA to be solved... (20s / 300s)
+2026-03-12 11:58:42,678 - scraper - INFO - Waiting for CAPTCHA to be solved... (25s / 300s)
+2026-03-12 11:58:47,714 - scraper - INFO - Waiting for CAPTCHA to be solved... (30s / 300s)
+2026-03-12 11:58:52,761 - scraper - INFO - Waiting for CAPTCHA to be solved... (35s / 300s)
+2026-03-12 11:58:57,801 - scraper - INFO - Waiting for CAPTCHA to be solved... (40s / 300s)
+2026-03-12 11:59:02,822 - scraper - INFO - Waiting for CAPTCHA to be solved... (45s / 300s)
+2026-03-12 11:59:07,845 - scraper - INFO - Waiting for CAPTCHA to be solved... (50s / 300s)
+2026-03-12 11:59:12,871 - scraper - INFO - Waiting for CAPTCHA to be solved... (55s / 300s)
+2026-03-12 11:59:17,888 - scraper - INFO - Waiting for CAPTCHA to be solved... (60s / 300s)
+2026-03-12 11:59:22,919 - scraper - INFO - Waiting for CAPTCHA to be solved... (65s / 300s)
+2026-03-12 11:59:27,948 - scraper - INFO - Waiting for CAPTCHA to be solved... (70s / 300s)
+2026-03-12 11:59:32,973 - scraper - INFO - Waiting for CAPTCHA to be solved... (75s / 300s)
+2026-03-12 11:59:38,024 - scraper - INFO - Waiting for CAPTCHA to be solved... (80s / 300s)
+2026-03-12 11:59:43,041 - scraper - INFO - Waiting for CAPTCHA to be solved... (85s / 300s)
+2026-03-12 11:59:48,068 - scraper - INFO - Waiting for CAPTCHA to be solved... (90s / 300s)
+2026-03-12 11:59:53,083 - scraper - INFO - Waiting for CAPTCHA to be solved... (95s / 300s)
+2026-03-12 11:59:58,114 - scraper - INFO - Waiting for CAPTCHA to be solved... (100s / 300s)
+2026-03-12 12:00:03,514 - scraper - INFO - CAPTCHA solved! Continuing...
+2026-03-12 12:00:08,444 - scraper - INFO - Looking for email field...
+2026-03-12 12:00:08,651 - scraper - ERROR - Login failed with error: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6aea310b5+14cc5]
+	chromedriver!GetHandleVerifier [0x7ff6aea31120+14d30]
+	chromedriver!(No symbol) [0x7ff6ae79d956]
+	chromedriver!(No symbol) [0x7ff6ae7e8766]
+	chromedriver!(No symbol) [0x7ff6ae820272]
+	chromedriver!(No symbol) [0x7ff6ae81a4d1]
+	chromedriver!(No symbol) [0x7ff6ae819783]
+	chromedriver!(No symbol) [0x7ff6ae766585]
+	chromedriver!GetHandleVerifier [0x7ff6aed35ded+3199fd]
+	chromedriver!GetHandleVerifier [0x7ff6aed304cd+3140dd]
+	chromedriver!GetHandleVerifier [0x7ff6aed529ca+3365da]
+	chromedriver!GetHandleVerifier [0x7ff6aea4ca55+30665]
+	chromedriver!GetHandleVerifier [0x7ff6aea55bac+397bc]
+	chromedriver!(No symbol) [0x7ff6ae76534a]
+	chromedriver!GetHandleVerifier [0x7ff6aee89888+46d498]
+	KERNEL32!BaseThreadInitThunk [0x7ffd1907e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffd1b26c48c+2c]
+
+2026-03-12 12:00:08,654 - linkedin_extractor - ERROR - Unexpected error: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6aea310b5+14cc5]
+	chromedriver!GetHandleVerifier [0x7ff6aea31120+14d30]
+	chromedriver!(No symbol) [0x7ff6ae79d956]
+	chromedriver!(No symbol) [0x7ff6ae7e8766]
+	chromedriver!(No symbol) [0x7ff6ae820272]
+	chromedriver!(No symbol) [0x7ff6ae81a4d1]
+	chromedriver!(No symbol) [0x7ff6ae819783]
+	chromedriver!(No symbol) [0x7ff6ae766585]
+	chromedriver!GetHandleVerifier [0x7ff6aed35ded+3199fd]
+	chromedriver!GetHandleVerifier [0x7ff6aed304cd+3140dd]
+	chromedriver!GetHandleVerifier [0x7ff6aed529ca+3365da]
+	chromedriver!GetHandleVerifier [0x7ff6aea4ca55+30665]
+	chromedriver!GetHandleVerifier [0x7ff6aea55bac+397bc]
+	chromedriver!(No symbol) [0x7ff6ae76534a]
+	chromedriver!GetHandleVerifier [0x7ff6aee89888+46d498]
+	KERNEL32!BaseThreadInitThunk [0x7ffd1907e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffd1b26c48c+2c]
+Traceback (most recent call last):
+  File "D:\Game\Linkedin_Project\linkedin_extractor\scraper.py", line 285, in login
+    email_field = WebDriverWait(self.driver, TIMEOUT).until(
+        EC.presence_of_element_located((By.ID, "username"))
+    )
+  File "C:\Users\dhaya\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\Users\dhaya\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 92, in _predicate
+    return driver.find_element(*locator)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\dhaya\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 816, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhaya\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\dhaya\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6aea310b5+14cc5]
+	chromedriver!GetHandleVerifier [0x7ff6aea31120+14d30]
+	chromedriver!(No symbol) [0x7ff6ae79d956]
+	chromedriver!(No symbol) [0x7ff6ae7e8766]
+	chromedriver!(No symbol) [0x7ff6ae820272]
+	chromedriver!(No symbol) [0x7ff6ae81a4d1]
+	chromedriver!(No symbol) [0x7ff6ae819783]
+	chromedriver!(No symbol) [0x7ff6ae766585]
+	chromedriver!GetHandleVerifier [0x7ff6aed35ded+3199fd]
+	chromedriver!GetHandleVerifier [0x7ff6aed304cd+3140dd]
+	chromedriver!GetHandleVerifier [0x7ff6aed529ca+3365da]
+	chromedriver!GetHandleVerifier [0x7ff6aea4ca55+30665]
+	chromedriver!GetHandleVerifier [0x7ff6aea55bac+397bc]
+	chromedriver!(No symbol) [0x7ff6ae76534a]
+	chromedriver!GetHandleVerifier [0x7ff6aee89888+46d498]
+	KERNEL32!BaseThreadInitThunk [0x7ffd1907e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffd1b26c48c+2c]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Game\Linkedin_Project\linkedin_extractor\main.py", line 78, in main
+    if not scraper.login():
+           ~~~~~~~~~~~~~^^
+  File "D:\Game\Linkedin_Project\linkedin_extractor\scraper.py", line 361, in login
+    logger.error("Current URL: " + self.driver.current_url)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhaya\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 556, in current_url
+    return self.execute(Command.GET_CURRENT_URL)["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhaya\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\dhaya\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6aea310b5+14cc5]
+	chromedriver!GetHandleVerifier [0x7ff6aea31120+14d30]
+	chromedriver!(No symbol) [0x7ff6ae79d956]
+	chromedriver!(No symbol) [0x7ff6ae7e8766]
+	chromedriver!(No symbol) [0x7ff6ae820272]
+	chromedriver!(No symbol) [0x7ff6ae81a4d1]
+	chromedriver!(No symbol) [0x7ff6ae819783]
+	chromedriver!(No symbol) [0x7ff6ae766585]
+	chromedriver!GetHandleVerifier [0x7ff6aed35ded+3199fd]
+	chromedriver!GetHandleVerifier [0x7ff6aed304cd+3140dd]
+	chromedriver!GetHandleVerifier [0x7ff6aed529ca+3365da]
+	chromedriver!GetHandleVerifier [0x7ff6aea4ca55+30665]
+	chromedriver!GetHandleVerifier [0x7ff6aea55bac+397bc]
+	chromedriver!(No symbol) [0x7ff6ae76534a]
+	chromedriver!GetHandleVerifier [0x7ff6aee89888+46d498]
+	KERNEL32!BaseThreadInitThunk [0x7ffd1907e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffd1b26c48c+2c]
+
+2026-03-12 12:00:08,760 - scraper - INFO - Closing browser...
+2026-03-12 12:00:10,921 - linkedin_extractor - INFO - Extraction complete.

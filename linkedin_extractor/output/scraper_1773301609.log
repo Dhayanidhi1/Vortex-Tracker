@@ -1,0 +1,57 @@
+2026-03-12 13:16:50,281 [INFO] Log file: logs\scraper_2026-03-12_13-16-50.log
+2026-03-12 13:16:50,282 [INFO] ============================================================
+2026-03-12 13:16:50,282 [INFO] LinkedIn Post Extractor
+2026-03-12 13:16:50,282 [INFO] Keywords: ['Yutaro']
+2026-03-12 13:16:50,282 [INFO] Max Posts: 10
+2026-03-12 13:16:50,282 [INFO] Time Range: Last 6 months
+2026-03-12 13:16:50,282 [INFO] Output Directory: ./output
+2026-03-12 13:16:50,282 [INFO] ============================================================
+2026-03-12 13:16:50,283 [INFO] Initialized realtime posts file: ./output\realtime_posts.json
+2026-03-12 13:16:51,332 [INFO] Found saved session state.
+2026-03-12 13:16:51,761 [INFO] Checking login status...
+2026-03-12 13:17:10,560 [INFO] Already logged in.
+2026-03-12 13:17:10,560 [INFO] Starting search for: Yutaro (target: 10 posts)
+2026-03-12 13:17:15,986 [INFO] Target: 10 posts for keyword 'Yutaro'
+2026-03-12 13:17:15,987 [INFO] Scroll 1/20 for 'Yutaro' - Collected: 0/10
+2026-03-12 13:17:24,542 [INFO] Extracted post 1/10: urn:li:activity:7437758344666374144 by Yutaro NishiYutaro Nishi
+2026-03-12 13:17:24,544 [INFO] Saved post to realtime file: Yutaro NishiYutaro Nishi
+2026-03-12 13:17:24,572 [INFO] Extracted post 2/10: urn:li:activity:7437724799772119040 by Yutaro KohoriYutaro Kohori
+2026-03-12 13:17:24,586 [INFO] Saved post to realtime file: Yutaro KohoriYutaro Kohori
+2026-03-12 13:17:24,618 [INFO] Extracted post 3/10: urn:li:activity:7437701703531085825 by Deyana KhosraviDeyana Khosravi
+2026-03-12 13:17:24,632 [INFO] Saved post to realtime file: Deyana KhosraviDeyana Khosravi
+2026-03-12 13:17:24,674 [INFO] Extracted post 4/10: urn:li:activity:7437688733547716608 by Sameeh P.Sameeh P.
+2026-03-12 13:17:24,688 [INFO] Saved post to realtime file: Sameeh P.Sameeh P.
+2026-03-12 13:17:24,715 [INFO] Extracted post 5/10: urn:li:activity:7437619043404083201 by Yutaro Shigeta, CPAYutaro Shigeta, CPA
+2026-03-12 13:17:24,727 [INFO] Saved post to realtime file: Yutaro Shigeta, CPAYutaro Shigeta, CPA
+2026-03-12 13:17:24,759 [INFO] Extracted post 6/10: urn:li:activity:7437429652148858880 by Yutaro OnishiYutaro Onishi
+2026-03-12 13:17:24,770 [INFO] Saved post to realtime file: Yutaro OnishiYutaro Onishi
+2026-03-12 13:17:24,802 [INFO] Extracted post 7/10: urn:li:activity:7437365212921602048 by Yutaro SatoYutaro Sato
+2026-03-12 13:17:24,815 [INFO] Saved post to realtime file: Yutaro SatoYutaro Sato
+2026-03-12 13:17:24,851 [INFO] Extracted post 8/10: urn:li:activity:7437308835138138112 by ビヨンドアーチパートナーズ株式会社 (Beyond Arch Partners Co., Ltd.)ビヨンドアーチパートナーズ株式会社 (Beyond Arch Partners Co., Ltd.)
+2026-03-12 13:17:24,866 [INFO] Saved post to realtime file: ビヨンドアーチパートナーズ株式会社 (Beyond Arch Partners Co., Ltd.)ビヨンドアーチパートナーズ株式会社 (Beyond Arch Partners Co., Ltd.)
+2026-03-12 13:17:24,895 [INFO] Extracted post 9/10: urn:li:activity:7437303184915722241 by icetana AIicetana AI
+2026-03-12 13:17:24,906 [INFO] Saved post to realtime file: icetana AIicetana AI
+2026-03-12 13:17:24,906 [INFO] Scroll 2/20 for 'Yutaro' - Collected: 9/10
+2026-03-12 13:17:31,205 [INFO] Extracted post 10/10: urn:li:activity:7437076426270519296 by DROPSCOM – Hinchables de nueva generaciónDROPSCOM – Hinchables de nueva generación
+2026-03-12 13:17:31,221 [INFO] Saved post to realtime file: DROPSCOM – Hinchables de nueva generaciónDROPSCOM – Hinchables de nueva generación
+2026-03-12 13:17:31,222 [INFO] Completed search for 'Yutaro': collected 10 posts
+2026-03-12 13:17:39,181 [INFO] Scraping completed.
+2026-03-12 13:17:39,206 [INFO] 
+Total posts collected: 10
+2026-03-12 13:17:39,234 [INFO] CSV saved: ./output\posts_2026-03-12_13-17-39.csv
+2026-03-12 13:17:39,234 [INFO] JSON saved: ./output\posts_2026-03-12_13-17-39.json
+2026-03-12 13:17:39,234 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 13:17:39,277 [INFO] 
+============================================================
+2026-03-12 13:17:39,278 [INFO] EXTRACTION SUMMARY
+2026-03-12 13:17:39,279 [INFO] Total Posts in DB: 195
+2026-03-12 13:17:39,279 [INFO] Likes: 5,134
+2026-03-12 13:17:39,286 [INFO] Comments: 343
+2026-03-12 13:17:39,287 [INFO] Reposts: 148
+2026-03-12 13:17:39,287 [INFO] Top Authors:
+2026-03-12 13:17:39,287 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 13:17:39,287 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 13:17:39,287 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 13:17:39,287 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 13:17:39,288 [INFO]   - Madhan Kumar MamidalaMadhan Kumar Mamidala: 4 posts
+2026-03-12 13:17:39,288 [INFO] ============================================================

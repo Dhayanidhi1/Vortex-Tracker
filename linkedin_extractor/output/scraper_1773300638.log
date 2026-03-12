@@ -1,0 +1,130 @@
+2026-03-12 13:00:39,175 [INFO] Log file: logs\scraper_2026-03-12_13-00-39.log
+2026-03-12 13:00:39,175 [INFO] ============================================================
+2026-03-12 13:00:39,175 [INFO] LinkedIn Post Extractor
+2026-03-12 13:00:39,176 [INFO] Keywords: ['madhan']
+2026-03-12 13:00:39,176 [INFO] Max Pages: 10
+2026-03-12 13:00:39,176 [INFO] Time Range: Last 6 months
+2026-03-12 13:00:39,176 [INFO] Output Directory: ./output
+2026-03-12 13:00:39,176 [INFO] ============================================================
+2026-03-12 13:00:40,248 [INFO] Found saved session state.
+2026-03-12 13:00:40,933 [INFO] Checking login status...
+2026-03-12 13:00:57,407 [INFO] Already logged in.
+2026-03-12 13:00:57,407 [INFO] Starting search for: madhan
+2026-03-12 13:01:02,285 [INFO] Scrolling page 1/10 for 'madhan'...
+2026-03-12 13:01:09,164 [INFO] Extracted post urn:li:activity:7437756050620985344 by Aashi JariwalaAashi Jariwala
+2026-03-12 13:01:09,214 [INFO] Extracted post urn:li:activity:7437754994289893378 by Madhan SMadhan S
+2026-03-12 13:01:09,261 [INFO] Extracted post urn:li:activity:7437747994940092416 by Madan GoudMadan Goud
+2026-03-12 13:01:09,299 [INFO] Extracted post urn:li:activity:7437747345871630337 by Madhan kumarMadhan kumar
+2026-03-12 13:01:09,348 [INFO] Extracted post urn:li:activity:7437742373545340930 by HARISH BALAKRISHNANHARISH BALAKRISHNAN
+2026-03-12 13:01:09,423 [INFO] Extracted post urn:li:activity:7437733258144092160 by Madhan Kumar AMadhan Kumar A
+2026-03-12 13:01:09,499 [INFO] Extracted post urn:li:activity:7437730274731450368 by Joshuva DanielJoshuva Daniel
+2026-03-12 13:01:09,539 [INFO] Extracted post urn:li:activity:7437729333294632961 by Madhan VadlamudiMadhan Vadlamudi
+2026-03-12 13:01:09,569 [INFO] Extracted post urn:li:activity:7437726556350742528 by Madhan KumarMadhan Kumar
+2026-03-12 13:01:09,670 [INFO] Clicked 'Show more' button.
+2026-03-12 13:01:13,746 [INFO] Scrolling page 2/10 for 'madhan'...
+2026-03-12 13:01:21,515 [INFO] Extracted post urn:li:activity:7437726185754849280 by Madhusudhana GuptaMadhusudhana Gupta
+2026-03-12 13:01:21,584 [INFO] Extracted post urn:li:activity:7437722894027321344 by Madhan BathiniMadhan Bathini
+2026-03-12 13:01:21,655 [INFO] Extracted post urn:li:activity:7437720289536532480 by AARVUN MADHANAARVUN MADHAN
+2026-03-12 13:01:21,722 [INFO] Extracted post urn:li:activity:7437717891434659840 by Umadevi Madhan KumarUmadevi Madhan Kumar
+2026-03-12 13:01:21,793 [INFO] Extracted post urn:li:activity:7437715843863670784 by Madhan Kumar RMadhan Kumar R
+2026-03-12 13:01:21,858 [INFO] Extracted post urn:li:activity:7437707816687063040 by MADHAN M NMADHAN M N
+2026-03-12 13:01:22,020 [INFO] Extracted post urn:li:activity:7437705433907195904 by Tarakesh Jetti (TJ)Tarakesh Jetti (TJ)
+2026-03-12 13:01:22,197 [INFO] Extracted post urn:li:activity:7437702837687574528 by Madhan KumarMadhan Kumar
+2026-03-12 13:01:22,264 [INFO] Extracted post urn:li:activity:7437695984551419905 by Madhan RMadhan R
+2026-03-12 13:01:24,420 [INFO] Clicked 'Show more' button.
+2026-03-12 13:01:28,934 [INFO] Scrolling page 3/10 for 'madhan'...
+2026-03-12 13:01:35,627 [INFO] Extracted post urn:li:activity:7437695723929993216 by Kishore TKishore T
+2026-03-12 13:01:35,703 [INFO] Extracted post urn:li:activity:7437692703015903232 by Madhan RamalingamMadhan Ramalingam
+2026-03-12 13:01:35,776 [INFO] Extracted post urn:li:activity:7437689226365759488 by Madhan SMadhan S
+2026-03-12 13:01:35,851 [INFO] Extracted post urn:li:activity:7437689071939825665 by Lavanya Madhan RajLavanya Madhan Raj
+2026-03-12 13:01:35,922 [INFO] Extracted post urn:li:activity:7437663677547442177 by Madhan Kumar MamidalaMadhan Kumar Mamidala
+2026-03-12 13:01:35,999 [INFO] Extracted post urn:li:activity:7437646617417035777 by Madhan KrishnaswamyMadhan Krishnaswamy
+2026-03-12 13:01:36,088 [INFO] Extracted post urn:li:activity:7437629900859244545 by Madhan VadlamudiMadhan Vadlamudi
+2026-03-12 13:01:36,159 [INFO] Extracted post urn:li:activity:7437614584271663104 by Sofien Kaabar, CFASofien Kaabar, CFA
+2026-03-12 13:01:36,227 [INFO] Extracted post urn:li:activity:7437606579983667200 by madhan madhanmadhan madhan
+2026-03-12 13:01:38,453 [INFO] Clicked 'Show more' button.
+2026-03-12 13:01:41,886 [INFO] Scrolling page 4/10 for 'madhan'...
+2026-03-12 13:01:49,368 [INFO] Extracted post urn:li:activity:7437573080043917313 by Madhan Kumar MamidalaMadhan Kumar Mamidala
+2026-03-12 13:01:49,404 [INFO] Extracted post urn:li:activity:7437567936631840768 by Vithai GuravVithai Gurav
+2026-03-12 13:01:49,446 [INFO] Extracted post urn:li:activity:7437551395966418944 by Madhan GantaMadhan Ganta
+2026-03-12 13:01:49,476 [INFO] Extracted post urn:li:activity:7437539934183280640 by Garaad.orgGaraad.org
+2026-03-12 13:01:49,505 [INFO] Extracted post urn:li:activity:7437534368018984963 by Madhan GopalMadhan Gopal
+2026-03-12 13:01:49,536 [INFO] Extracted post urn:li:activity:7437531921661845504 by Madhan kumar Thangaraj .Madhan kumar Thangaraj .
+2026-03-12 13:01:49,567 [INFO] Extracted post urn:li:activity:7437530931206254592 by MADHAN GMADHAN G
+2026-03-12 13:01:49,602 [INFO] Extracted post urn:li:activity:7437529626085593088 by Madhan KumarMadhan Kumar
+2026-03-12 13:01:49,652 [INFO] Extracted post urn:li:activity:7437529065076539392 by Dr.Geethanjali KrishnanDr.Geethanjali Krishnan
+2026-03-12 13:01:49,890 [INFO] Clicked 'Show more' button.
+2026-03-12 13:01:54,240 [INFO] Scrolling page 5/10 for 'madhan'...
+2026-03-12 13:02:01,392 [INFO] Extracted post urn:li:activity:7437528090668408832 by Madhan babu K GMadhan babu K G
+2026-03-12 13:02:01,424 [INFO] Extracted post urn:li:activity:7437525602246733824 by Sarvananda LetchumanSarvananda Letchuman
+2026-03-12 13:02:01,457 [INFO] Extracted post urn:li:activity:7437525012191891456 by Madhan Kumar MamidalaMadhan Kumar Mamidala
+2026-03-12 13:02:01,491 [INFO] Extracted post urn:li:activity:7437528274366328832 by Madhan KumarMadhan Kumar
+2026-03-12 13:02:01,520 [INFO] Extracted post urn:li:activity:7437522040355651584 by Madhan SMadhan S
+2026-03-12 13:02:01,550 [INFO] Extracted post urn:li:activity:7437517498826248192 by Madhan KumarMadhan Kumar
+2026-03-12 13:02:01,850 [INFO] Clicked 'Show more' button.
+2026-03-12 13:02:06,027 [INFO] Scrolling page 6/10 for 'madhan'...
+2026-03-12 13:02:13,866 [INFO] Extracted post urn:li:activity:7437515228638212097 by Madhan SMadhan S
+2026-03-12 13:02:13,905 [INFO] Extracted post urn:li:activity:7437514459746652160 by Madhan KMadhan K
+2026-03-12 13:02:13,939 [INFO] Extracted post urn:li:activity:7437506052566192128 by Madhan .EMadhan .E
+2026-03-12 13:02:13,985 [INFO] Extracted post urn:li:activity:7437504768660414464 by Madhan kumar Thangaraj .Madhan kumar Thangaraj .
+2026-03-12 13:02:14,024 [INFO] Extracted post urn:li:activity:7437503571924819968 by Rahul .kRahul .k
+2026-03-12 13:02:14,062 [INFO] Extracted post urn:li:activity:7437502960894431232 by Madhan BellamkondaMadhan Bellamkonda
+2026-03-12 13:02:14,345 [INFO] Clicked 'Show more' button.
+2026-03-12 13:02:18,705 [INFO] Scrolling page 7/10 for 'madhan'...
+2026-03-12 13:02:25,488 [INFO] Extracted post urn:li:activity:7437502703217393664 by Kushi Civil Structural consultancy Pvt LtdKushi Civil Structural consultancy Pvt Ltd
+2026-03-12 13:02:25,544 [INFO] Extracted post urn:li:activity:7437489652628082690 by Madhan Mohan MMadhan Mohan M
+2026-03-12 13:02:25,585 [INFO] Extracted post urn:li:activity:7437482509174624257 by Madhan Kumar MamidalaMadhan Kumar Mamidala
+2026-03-12 13:02:25,624 [INFO] Extracted post urn:li:activity:7437503332010663936 by Rahul .kRahul .k
+2026-03-12 13:02:25,677 [INFO] Extracted post urn:li:activity:7437481636021235713 by Yanfeng Plastic Omnium South AfricaYanfeng Plastic Omnium South Africa
+2026-03-12 13:02:25,722 [INFO] Extracted post urn:li:activity:7437480171357589504 by Sai KasireddySai Kasireddy
+2026-03-12 13:02:26,022 [INFO] Clicked 'Show more' button.
+2026-03-12 13:02:29,729 [INFO] Scrolling page 8/10 for 'madhan'...
+2026-03-12 13:02:38,124 [INFO] Extracted post urn:li:activity:7437480021637902336 by Madhan GopalakrishnanMadhan Gopalakrishnan
+2026-03-12 13:02:38,170 [INFO] Extracted post urn:li:activity:7437474929018826752 by Madhan GMadhan G
+2026-03-12 13:02:38,221 [INFO] Extracted post urn:li:activity:7437469293249953792 by Adrenalin.hrAdrenalin.hr
+2026-03-12 13:02:38,263 [INFO] Extracted post urn:li:activity:7437467629805670400 by MadhanKumar ReddyMadhanKumar Reddy
+2026-03-12 13:02:38,308 [INFO] Extracted post urn:li:activity:7437463400571412480 by Sivasubramaniam JayaramanSivasubramaniam Jayaraman
+2026-03-12 13:02:38,356 [INFO] Extracted post urn:li:activity:7437456424810553344 by Madhana Pandiya Rajan MMadhana Pandiya Rajan M
+2026-03-12 13:02:43,231 [INFO] Clicked 'Show more' button.
+2026-03-12 13:02:46,573 [INFO] Scrolling page 9/10 for 'madhan'...
+2026-03-12 13:02:55,333 [INFO] Extracted post urn:li:activity:7437452102135861249 by Madhan BathiniMadhan Bathini
+2026-03-12 13:02:55,445 [INFO] Extracted post urn:li:activity:7437451873072148482 by JAIDEV PURUSHOTHAMANJAIDEV PURUSHOTHAMAN
+2026-03-12 13:02:55,575 [INFO] Extracted post urn:li:activity:7437449407114919936 by Madhan VMadhan V
+2026-03-12 13:02:55,712 [INFO] Extracted post urn:li:activity:7437444888016601088 by S. MadhanS. Madhan
+2026-03-12 13:02:55,820 [INFO] Extracted post urn:li:activity:7437454627215654912 by Madhana Pandiya Rajan MMadhana Pandiya Rajan M
+2026-03-12 13:02:55,878 [INFO] Extracted post urn:li:activity:7437436408019202048 by Madhan SMadhan S
+2026-03-12 13:02:55,947 [INFO] Extracted post urn:li:activity:7437425855313772545 by RecruitingHub.com®RecruitingHub.com®
+2026-03-12 13:02:56,002 [INFO] Extracted post urn:li:activity:7437423413239115776 by Madhan BathiniMadhan Bathini
+2026-03-12 13:02:56,063 [INFO] Extracted post urn:li:activity:7437422614803017728 by Madhan SathishbabuMadhan Sathishbabu
+2026-03-12 13:02:56,124 [INFO] Extracted post urn:li:activity:7437453235340136448 by Madhana Pandiya Rajan MMadhana Pandiya Rajan M
+2026-03-12 13:02:56,221 [INFO] Extracted post urn:li:activity:7437416055460802560 by Anand SubramanianAnand Subramanian
+2026-03-12 13:02:56,283 [INFO] Extracted post urn:li:activity:7437407079096532992 by Bhubaneswar City Knowledge Innovation Cluster FoundationBhubaneswar City Knowledge Innovation Cluster Foundation
+2026-03-12 13:02:56,853 [INFO] Clicked 'Show more' button.
+2026-03-12 13:03:01,880 [INFO] Scrolling page 10/10 for 'madhan'...
+2026-03-12 13:03:09,872 [INFO] Extracted post urn:li:activity:7437419534912794624 by Madhan BathiniMadhan Bathini
+2026-03-12 13:03:09,918 [INFO] Extracted post urn:li:activity:7437401329641324544 by Alka MadhanAlka Madhan
+2026-03-12 13:03:09,962 [INFO] Extracted post urn:li:activity:7437398144482537472 by Madhan Pandian MD., FIPM., CIPS., RMSKMadhan Pandian MD., FIPM., CIPS., RMSK
+2026-03-12 13:03:10,007 [INFO] Extracted post urn:li:activity:7437394948070699008 by Venkatesa Madhan (Madhan)Venkatesa Madhan (Madhan)
+2026-03-12 13:03:10,048 [INFO] Extracted post urn:li:activity:7437394346523582464 by HAMSA REHABHAMSA REHAB
+2026-03-12 13:03:10,100 [INFO] Extracted post urn:li:activity:7437404307894812672 by Madhan BathiniMadhan Bathini
+2026-03-12 13:03:10,644 [INFO] Clicked 'Show more' button.
+2026-03-12 13:03:24,256 [INFO] Scraping completed.
+2026-03-12 13:03:24,280 [INFO] 
+Total posts collected: 78
+2026-03-12 13:03:24,328 [INFO] CSV saved: ./output\posts_2026-03-12_13-03-24.csv
+2026-03-12 13:03:24,328 [INFO] JSON saved: ./output\posts_2026-03-12_13-03-24.json
+2026-03-12 13:03:24,328 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 13:03:24,335 [INFO] 
+============================================================
+2026-03-12 13:03:24,335 [INFO] EXTRACTION SUMMARY
+2026-03-12 13:03:24,335 [INFO] Total Posts in DB: 138
+2026-03-12 13:03:24,336 [INFO] Likes: 3,204
+2026-03-12 13:03:24,336 [INFO] Comments: 186
+2026-03-12 13:03:24,336 [INFO] Reposts: 113
+2026-03-12 13:03:24,336 [INFO] Top Authors:
+2026-03-12 13:03:24,336 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 13:03:24,336 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 13:03:24,336 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 13:03:24,336 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 13:03:24,336 [INFO]   - Madhan Kumar MamidalaMadhan Kumar Mamidala: 4 posts
+2026-03-12 13:03:24,336 [INFO] ============================================================

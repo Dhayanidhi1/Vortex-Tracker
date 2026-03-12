@@ -1,0 +1,18 @@
+2026-03-12 19:23:09,670 [INFO] Log file: logs\scraper_2026-03-12_19-23-09.log
+2026-03-12 19:23:09,670 [INFO] ============================================================
+2026-03-12 19:23:09,670 [INFO] LinkedIn Post Extractor
+2026-03-12 19:23:09,670 [INFO] Keywords: ['Dhaya']
+2026-03-12 19:23:09,670 [INFO] Max Posts: 10
+2026-03-12 19:23:09,670 [INFO] Time Range: Last 6 months
+2026-03-12 19:23:09,670 [INFO] Output Directory: ./output
+2026-03-12 19:23:09,670 [INFO] ============================================================
+2026-03-12 19:23:09,671 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 19:23:10,232 [INFO] Found saved session state.
+2026-03-12 19:23:10,489 [INFO] Checking login status...
+2026-03-12 19:23:10,775 [ERROR] Login failed: Page.goto: net::ERR_CONNECTION_RESET at https://www.linkedin.com/feed/
+Call log:
+  - navigating to "https://www.linkedin.com/feed/", waiting until "load"
+
+2026-03-12 19:23:10,872 [INFO] 
+Total posts collected: 0
+2026-03-12 19:23:10,872 [WARNING] No posts collected.

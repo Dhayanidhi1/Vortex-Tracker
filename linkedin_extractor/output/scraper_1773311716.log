@@ -1,0 +1,60 @@
+2026-03-12 16:05:17,335 [INFO] Log file: logs\scraper_2026-03-12_16-05-17.log
+2026-03-12 16:05:17,336 [INFO] ============================================================
+2026-03-12 16:05:17,336 [INFO] LinkedIn Post Extractor
+2026-03-12 16:05:17,336 [INFO] Keywords: ['kali']
+2026-03-12 16:05:17,336 [INFO] Max Posts: 10
+2026-03-12 16:05:17,336 [INFO] Time Range: Last 6 months
+2026-03-12 16:05:17,336 [INFO] Output Directory: ./output
+2026-03-12 16:05:17,336 [INFO] ============================================================
+2026-03-12 16:05:17,337 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 16:05:18,522 [INFO] Found saved session state.
+2026-03-12 16:05:19,491 [INFO] Checking login status...
+2026-03-12 16:05:49,068 [INFO] Already logged in.
+2026-03-12 16:05:49,068 [INFO] Starting search for: kali (target: 10 posts)
+2026-03-12 16:05:55,685 [INFO] Target: 10 posts for keyword 'kali'
+2026-03-12 16:05:55,686 [INFO] Scroll 1/5 for 'kali' - Collected: 0/10
+2026-03-12 16:05:58,438 [INFO] Extracted post 1/10: urn:li:activity:7437493792728915968 by agentiivagentiiv
+2026-03-12 16:05:58,444 [INFO] Saved post to dashboard: agentiivagentiiv - Total posts: 1
+2026-03-12 16:05:58,694 [INFO] Extracted post 2/10: urn:li:activity:7437484787709349888 by elian sweedelian sweed
+2026-03-12 16:05:58,699 [INFO] Saved post to dashboard: elian sweedelian sweed - Total posts: 2
+2026-03-12 16:05:59,034 [INFO] Extracted post 3/10: urn:li:activity:7436861082255859712 by Raghad H.Raghad H.
+2026-03-12 16:05:59,040 [INFO] Saved post to dashboard: Raghad H.Raghad H. - Total posts: 3
+2026-03-12 16:05:59,040 [INFO] Scroll 2/5 for 'kali' - Collected: 3/10
+2026-03-12 16:06:00,883 [INFO] Extracted post 4/10: urn:li:activity:7437638492064485378 by Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa
+2026-03-12 16:06:00,891 [INFO] Saved post to dashboard: Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa - Total posts: 4
+2026-03-12 16:06:01,046 [INFO] Extracted post 5/10: urn:li:activity:7436645541356204033 by Naif AlsulamiNaif Alsulami
+2026-03-12 16:06:01,052 [INFO] Saved post to dashboard: Naif AlsulamiNaif Alsulami - Total posts: 5
+2026-03-12 16:06:01,160 [INFO] Extracted post 6/10: urn:li:activity:7436292225111769090 by Troy ElliottTroy Elliott
+2026-03-12 16:06:01,213 [INFO] Saved post to dashboard: Troy ElliottTroy Elliott - Total posts: 6
+2026-03-12 16:06:01,214 [INFO] Scroll 3/5 for 'kali' - Collected: 6/10
+2026-03-12 16:06:06,781 [INFO] Clicked 'Show more' button.
+2026-03-12 16:06:07,782 [INFO] Scroll 4/5 for 'kali' - Collected: 6/10
+2026-03-12 16:06:09,208 [INFO] Extracted post 7/10: urn:li:activity:7436428283195375617 by Monika SharmaMonika Sharma
+2026-03-12 16:06:09,212 [INFO] Saved post to dashboard: Monika SharmaMonika Sharma - Total posts: 7
+2026-03-12 16:06:09,339 [INFO] Extracted post 8/10: urn:li:activity:7437781423098347520 by Bethwel KimaruBethwel Kimaru
+2026-03-12 16:06:09,344 [INFO] Saved post to dashboard: Bethwel KimaruBethwel Kimaru - Total posts: 8
+2026-03-12 16:06:09,420 [INFO] Extracted post 9/10: urn:li:activity:7437425019158315008 by Sucuk und Bratwurst GmbHSucuk und Bratwurst GmbH
+2026-03-12 16:06:09,425 [INFO] Saved post to dashboard: Sucuk und Bratwurst GmbHSucuk und Bratwurst GmbH - Total posts: 9
+2026-03-12 16:06:09,494 [INFO] Extracted post 10/10: urn:li:activity:7437140446210072576 by Gurubaran KSGurubaran KS
+2026-03-12 16:06:09,518 [INFO] Saved post to dashboard: Gurubaran KSGurubaran KS - Total posts: 10
+2026-03-12 16:06:09,518 [INFO] Completed search for 'kali': collected 10 posts
+2026-03-12 16:06:11,328 [INFO] Scraping completed.
+2026-03-12 16:06:11,360 [INFO] 
+Total posts collected: 10
+2026-03-12 16:06:11,440 [INFO] CSV saved: ./output\posts_2026-03-12_16-06-11.csv
+2026-03-12 16:06:11,440 [INFO] JSON saved: ./output\posts_2026-03-12_16-06-11.json
+2026-03-12 16:06:11,440 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 16:06:11,488 [INFO] 
+============================================================
+2026-03-12 16:06:11,488 [INFO] EXTRACTION SUMMARY
+2026-03-12 16:06:11,489 [INFO] Total Posts in DB: 244
+2026-03-12 16:06:11,489 [INFO] Likes: 6,902
+2026-03-12 16:06:11,489 [INFO] Comments: 427
+2026-03-12 16:06:11,489 [INFO] Reposts: 259
+2026-03-12 16:06:11,489 [INFO] Top Authors:
+2026-03-12 16:06:11,489 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 16:06:11,490 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 16:06:11,490 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 16:06:11,490 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 16:06:11,490 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 16:06:11,490 [INFO] ============================================================

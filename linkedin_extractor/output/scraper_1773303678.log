@@ -1,0 +1,21 @@
+2026-03-12 13:51:19,321 [INFO] Log file: logs\scraper_2026-03-12_13-51-19.log
+2026-03-12 13:51:19,321 [INFO] ============================================================
+2026-03-12 13:51:19,321 [INFO] LinkedIn Post Extractor
+2026-03-12 13:51:19,322 [INFO] Keywords: ['test']
+2026-03-12 13:51:19,322 [INFO] Max Posts: 2
+2026-03-12 13:51:19,322 [INFO] Time Range: Last 6 months
+2026-03-12 13:51:19,322 [INFO] Output Directory: ./output
+2026-03-12 13:51:19,323 [INFO] ============================================================
+2026-03-12 13:51:19,324 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 13:51:20,227 [INFO] Found saved session state.
+2026-03-12 13:51:20,589 [INFO] Checking login status...
+2026-03-12 13:51:28,735 [INFO] Already logged in.
+2026-03-12 13:51:28,735 [INFO] Starting search for: test (target: 2 posts)
+2026-03-12 13:51:31,974 [INFO] Target: 2 posts for keyword 'test'
+2026-03-12 13:51:31,975 [INFO] Scroll 1/3 for 'test' - Collected: 0/2
+2026-03-12 13:51:33,557 [INFO] Reached end of search results.
+2026-03-12 13:51:33,557 [INFO] Completed search for 'test': collected 0 posts
+2026-03-12 13:51:34,227 [INFO] Scraping completed.
+2026-03-12 13:51:34,247 [INFO] 
+Total posts collected: 0
+2026-03-12 13:51:34,247 [WARNING] No posts collected.

@@ -1,0 +1,50 @@
+2026-03-12 10:37:16,944 - linkedin_extractor - INFO - Logging initialized. Log file: logs\scraper_2026-03-12_10-37-16.log
+2026-03-12 10:37:16,945 - linkedin_extractor - INFO - ============================================================
+2026-03-12 10:37:16,945 - linkedin_extractor - INFO - LinkedIn Post Extractor
+2026-03-12 10:37:16,945 - linkedin_extractor - INFO - ============================================================
+2026-03-12 10:37:16,945 - linkedin_extractor - INFO - Keywords: ['Artificial Intelligence', 'Machine Learning', 'OpenAI', 'ChatGPT']
+2026-03-12 10:37:16,946 - linkedin_extractor - INFO - Time Range: Last 6 months
+2026-03-12 10:37:16,946 - linkedin_extractor - INFO - Output Directory: ./output
+2026-03-12 10:37:16,946 - linkedin_extractor - INFO - ============================================================
+2026-03-12 10:37:16,949 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 10:37:16,950 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 10:37:16,951 - scraper - INFO - Starting Chrome browser...
+2026-03-12 10:37:18,095 - scraper - INFO - Browser started successfully
+2026-03-12 10:37:18,096 - scraper - INFO - Attempting to log in to LinkedIn...
+2026-03-12 10:37:25,853 - scraper - WARNING - ==================================================
+2026-03-12 10:37:25,853 - scraper - WARNING - CAPTCHA DETECTED!
+2026-03-12 10:37:25,853 - scraper - WARNING - Please solve the CAPTCHA manually in the browser.
+2026-03-12 10:37:25,854 - scraper - WARNING - The script will continue once you've solved it.
+2026-03-12 10:37:25,854 - scraper - WARNING - ==================================================
+2026-03-12 10:37:30,871 - scraper - INFO - Waiting for CAPTCHA to be solved... (5s / 300s)
+2026-03-12 10:37:35,889 - scraper - INFO - Waiting for CAPTCHA to be solved... (10s / 300s)
+2026-03-12 10:37:42,054 - scraper - INFO - CAPTCHA solved! Continuing...
+2026-03-12 10:37:46,721 - scraper - INFO - Logged in after CAPTCHA!
+2026-03-12 10:37:46,977 - scraper - INFO - Cookies saved to ./output\linkedin_cookies.json
+2026-03-12 10:37:46,978 - linkedin_extractor - INFO - 
+Starting post extraction...
+2026-03-12 10:37:46,978 - scraper - INFO - 
+==================================================
+2026-03-12 10:37:46,978 - scraper - INFO - Scraping feed for keywords: Artificial Intelligence, Machine Learning, OpenAI, ChatGPT
+2026-03-12 10:37:46,978 - scraper - INFO - ==================================================
+
+2026-03-12 10:37:46,979 - scraper - INFO - Scraping feed for keywords: ['Artificial Intelligence', 'Machine Learning', 'OpenAI', 'ChatGPT']
+2026-03-12 10:37:49,446 - scraper - INFO - Navigated to feed, waiting for content to load...
+2026-03-12 10:38:17,167 - scraper - INFO - Saved screenshot to output\feed_screenshot.png
+2026-03-12 10:38:17,205 - scraper - INFO - Attempting to find feed posts with multiple strategies...
+2026-03-12 10:38:17,217 - scraper - INFO - Strategy 1: Looking for elements with data-urn...
+2026-03-12 10:38:47,255 - scraper - WARNING - Timeout waiting for data-urn elements
+2026-03-12 10:38:47,255 - scraper - INFO - Strategy 2: Looking for post containers...
+2026-03-12 10:38:47,356 - scraper - ERROR - Could not find any post elements with any selector
+2026-03-12 10:38:47,357 - scraper - INFO - Trying to scroll and wait for content to appear...
+2026-03-12 10:38:53,662 - scraper - INFO - Scroll attempt 1/5...
+2026-03-12 10:39:01,885 - scraper - INFO - Scroll attempt 2/5...
+2026-03-12 10:39:08,126 - scraper - INFO - Scroll attempt 3/5...
+2026-03-12 10:39:13,257 - scraper - INFO - Scroll attempt 4/5...
+2026-03-12 10:39:21,007 - scraper - INFO - Scroll attempt 5/5...
+2026-03-12 10:39:21,109 - scraper - ERROR - Still no posts found after scrolling. Feed may be empty or content not loading.
+2026-03-12 10:39:21,109 - scraper - INFO - 
+Total unique posts collected: 0
+2026-03-12 10:39:21,110 - linkedin_extractor - WARNING - No posts were collected.
+2026-03-12 10:39:21,110 - scraper - INFO - Closing browser...
+2026-03-12 10:39:25,205 - linkedin_extractor - INFO - Extraction complete.

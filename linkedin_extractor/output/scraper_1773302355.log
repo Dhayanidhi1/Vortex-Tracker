@@ -1,0 +1,107 @@
+2026-03-12 13:29:16,597 [INFO] Log file: logs\scraper_2026-03-12_13-29-16.log
+2026-03-12 13:29:16,597 [INFO] ============================================================
+2026-03-12 13:29:16,598 [INFO] LinkedIn Post Extractor
+2026-03-12 13:29:16,598 [INFO] Keywords: ['vigneshwara']
+2026-03-12 13:29:16,598 [INFO] Max Posts: 30
+2026-03-12 13:29:16,598 [INFO] Time Range: Last 6 months
+2026-03-12 13:29:16,598 [INFO] Output Directory: ./output
+2026-03-12 13:29:16,598 [INFO] ============================================================
+2026-03-12 13:29:16,598 [INFO] Initialized realtime posts file: ./output\realtime_posts.json
+2026-03-12 13:29:16,599 [INFO] Cleared main posts.json for fresh start
+2026-03-12 13:29:17,671 [INFO] Found saved session state.
+2026-03-12 13:29:18,474 [INFO] Checking login status...
+2026-03-12 13:29:27,436 [INFO] Already logged in.
+2026-03-12 13:29:27,437 [INFO] Starting search for: vigneshwara (target: 30 posts)
+2026-03-12 13:29:38,296 [INFO] Target: 30 posts for keyword 'vigneshwara'
+2026-03-12 13:29:38,296 [INFO] Scroll 1/20 for 'vigneshwara' - Collected: 0/30
+2026-03-12 13:29:45,346 [INFO] Extracted post 1/30: urn:li:activity:7437742730216116226 by karimnagar red brickskarimnagar red bricks
+2026-03-12 13:29:45,348 [INFO] Saved post to dashboard: karimnagar red brickskarimnagar red bricks - Total posts: 1
+2026-03-12 13:29:45,383 [INFO] Extracted post 2/30: urn:li:activity:7437504360768700416 by VIGNESHWARA KVIGNESHWARA K
+2026-03-12 13:29:45,400 [INFO] Saved post to dashboard: VIGNESHWARA KVIGNESHWARA K - Total posts: 2
+2026-03-12 13:29:45,433 [INFO] Extracted post 3/30: urn:li:activity:7437363910464192512 by AJSD Academy | Salesforce Workforce PartnerAJSD Academy | Salesforce Workforce Partner
+2026-03-12 13:29:45,443 [INFO] Saved post to dashboard: AJSD Academy | Salesforce Workforce PartnerAJSD Academy | Salesforce Workforce Partner - Total posts: 3
+2026-03-12 13:29:45,480 [INFO] Extracted post 4/30: urn:li:activity:7437359245190352896 by Vigneshwara R M KarrothuVigneshwara R M Karrothu
+2026-03-12 13:29:45,505 [INFO] Saved post to dashboard: Vigneshwara R M KarrothuVigneshwara R M Karrothu - Total posts: 4
+2026-03-12 13:29:45,562 [INFO] Extracted post 5/30: urn:li:activity:7437108272828116992 by Prakash VelagapudiPrakash Velagapudi
+2026-03-12 13:29:45,579 [INFO] Saved post to dashboard: Prakash VelagapudiPrakash Velagapudi - Total posts: 5
+2026-03-12 13:29:45,624 [INFO] Extracted post 6/30: urn:li:activity:7437460270815506432 by karimnagar red brickskarimnagar red bricks
+2026-03-12 13:29:45,673 [INFO] Saved post to dashboard: karimnagar red brickskarimnagar red bricks - Total posts: 6
+2026-03-12 13:29:45,674 [INFO] Scroll 2/20 for 'vigneshwara' - Collected: 6/30
+2026-03-12 13:29:51,942 [INFO] Extracted post 7/30: urn:li:activity:7436786764494700546 by Vigneshwara SVigneshwara S
+2026-03-12 13:29:51,946 [INFO] Saved post to dashboard: Vigneshwara SVigneshwara S - Total posts: 7
+2026-03-12 13:29:51,990 [INFO] Extracted post 8/30: urn:li:activity:7436574610596225024 by Pavan DhandugulaPavan Dhandugula
+2026-03-12 13:29:52,026 [INFO] Saved post to dashboard: Pavan DhandugulaPavan Dhandugula - Total posts: 8
+2026-03-12 13:29:52,071 [INFO] Extracted post 9/30: urn:li:activity:7436048366758723584 by VIGNESHWARA SVIGNESHWARA S
+2026-03-12 13:29:52,097 [INFO] Saved post to dashboard: VIGNESHWARA SVIGNESHWARA S - Total posts: 9
+2026-03-12 13:29:52,098 [INFO] Scroll 3/20 for 'vigneshwara' - Collected: 9/30
+2026-03-12 13:29:58,515 [INFO] Extracted post 10/30: urn:li:activity:7436015947141971968 by RANJITHKUMAR MRANJITHKUMAR M
+2026-03-12 13:29:58,533 [INFO] Saved post to dashboard: RANJITHKUMAR MRANJITHKUMAR M - Total posts: 10
+2026-03-12 13:29:58,568 [INFO] Extracted post 11/30: urn:li:activity:7437070263470407680 by karimnagar red brickskarimnagar red bricks
+2026-03-12 13:29:58,603 [INFO] Saved post to dashboard: karimnagar red brickskarimnagar red bricks - Total posts: 11
+2026-03-12 13:29:58,663 [INFO] Extracted post 12/30: urn:li:activity:7435963708855541760 by Bipul TiwariBipul Tiwari
+2026-03-12 13:29:58,697 [INFO] Saved post to dashboard: Bipul TiwariBipul Tiwari - Total posts: 12
+2026-03-12 13:29:58,697 [INFO] Scroll 4/20 for 'vigneshwara' - Collected: 12/30
+2026-03-12 13:30:05,133 [INFO] Extracted post 13/30: urn:li:activity:7435769213123829760 by Vigneshwara Balachandar A RVigneshwara Balachandar A R
+2026-03-12 13:30:05,152 [INFO] Saved post to dashboard: Vigneshwara Balachandar A RVigneshwara Balachandar A R - Total posts: 13
+2026-03-12 13:30:05,192 [INFO] Extracted post 14/30: urn:li:activity:7435515724758032385 by RANJITHKUMAR MRANJITHKUMAR M
+2026-03-12 13:30:05,227 [INFO] Saved post to dashboard: RANJITHKUMAR MRANJITHKUMAR M - Total posts: 14
+2026-03-12 13:30:05,273 [INFO] Extracted post 15/30: urn:li:activity:7434894791751958528 by Ramesha CM ColourfulRamesha CM Colourful
+2026-03-12 13:30:05,300 [INFO] Saved post to dashboard: Ramesha CM ColourfulRamesha CM Colourful - Total posts: 15
+2026-03-12 13:30:05,300 [INFO] Scroll 5/20 for 'vigneshwara' - Collected: 15/30
+2026-03-12 13:30:11,795 [INFO] Extracted post 16/30: urn:li:activity:7436652218998640640 by karimnagar red brickskarimnagar red bricks
+2026-03-12 13:30:11,823 [INFO] Saved post to dashboard: karimnagar red brickskarimnagar red bricks - Total posts: 16
+2026-03-12 13:30:11,861 [INFO] Extracted post 17/30: urn:li:activity:7434794473307582464 by VIGNESHWARA KVIGNESHWARA K
+2026-03-12 13:30:11,894 [INFO] Saved post to dashboard: VIGNESHWARA KVIGNESHWARA K - Total posts: 17
+2026-03-12 13:30:11,933 [INFO] Extracted post 18/30: urn:li:activity:7434635121556758528 by Vigneshwara Balachandar A RVigneshwara Balachandar A R
+2026-03-12 13:30:11,987 [INFO] Saved post to dashboard: Vigneshwara Balachandar A RVigneshwara Balachandar A R - Total posts: 18
+2026-03-12 13:30:11,987 [INFO] Scroll 6/20 for 'vigneshwara' - Collected: 18/30
+2026-03-12 13:30:19,992 [INFO] Extracted post 19/30: urn:li:activity:7434432229482823681 by Dr. G.T. Vigneshwara BalajiDr. G.T. Vigneshwara Balaji
+2026-03-12 13:30:20,015 [INFO] Saved post to dashboard: Dr. G.T. Vigneshwara BalajiDr. G.T. Vigneshwara Balaji - Total posts: 19
+2026-03-12 13:30:20,058 [INFO] Extracted post 20/30: urn:li:activity:7435928580800331777 by karimnagar red brickskarimnagar red bricks
+2026-03-12 13:30:20,093 [INFO] Saved post to dashboard: karimnagar red brickskarimnagar red bricks - Total posts: 20
+2026-03-12 13:30:20,093 [INFO] Scroll 7/20 for 'vigneshwara' - Collected: 20/30
+2026-03-12 13:30:29,356 [INFO] Clicked 'Show more' button.
+2026-03-12 13:30:31,993 [INFO] Scroll 8/20 for 'vigneshwara' - Collected: 20/30
+2026-03-12 13:30:38,849 [INFO] Extracted post 21/30: urn:li:activity:7435527084866891776 by Kanaa Boomi Real EstateKanaa Boomi Real Estate
+2026-03-12 13:30:38,869 [INFO] Saved post to dashboard: Kanaa Boomi Real EstateKanaa Boomi Real Estate - Total posts: 21
+2026-03-12 13:30:38,924 [INFO] Extracted post 22/30: urn:li:activity:7433591448270299136 by Arun Kumar RArun Kumar R
+2026-03-12 13:30:38,958 [INFO] Saved post to dashboard: Arun Kumar RArun Kumar R - Total posts: 22
+2026-03-12 13:30:39,021 [INFO] Extracted post 23/30: urn:li:activity:7433588910360023041 by Vigneshwara Raja GanapathyVigneshwara Raja Ganapathy
+2026-03-12 13:30:39,040 [INFO] Saved post to dashboard: Vigneshwara Raja GanapathyVigneshwara Raja Ganapathy - Total posts: 23
+2026-03-12 13:30:39,120 [INFO] Extracted post 24/30: urn:li:activity:7433574261400752128 by Vigneshwara KrishnarajaVigneshwara Krishnaraja
+2026-03-12 13:30:39,139 [INFO] Saved post to dashboard: Vigneshwara KrishnarajaVigneshwara Krishnaraja - Total posts: 24
+2026-03-12 13:30:39,286 [INFO] Extracted post 25/30: urn:li:activity:7435656779432349696 by karimnagar red brickskarimnagar red bricks
+2026-03-12 13:30:39,304 [INFO] Saved post to dashboard: karimnagar red brickskarimnagar red bricks - Total posts: 25
+2026-03-12 13:30:39,360 [INFO] Extracted post 26/30: urn:li:activity:7433476230718423040 by MASTER COACH SATHYA BTAMASTER COACH SATHYA BTA
+2026-03-12 13:30:39,413 [INFO] Saved post to dashboard: MASTER COACH SATHYA BTAMASTER COACH SATHYA BTA - Total posts: 26
+2026-03-12 13:30:39,413 [INFO] Scroll 9/20 for 'vigneshwara' - Collected: 26/30
+2026-03-12 13:30:46,465 [INFO] Extracted post 27/30: urn:li:activity:7433015455713497088 by Vigneshwara KrishnarajaVigneshwara Krishnaraja
+2026-03-12 13:30:46,485 [INFO] Saved post to dashboard: Vigneshwara KrishnarajaVigneshwara Krishnaraja - Total posts: 27
+2026-03-12 13:30:46,537 [INFO] Extracted post 28/30: urn:li:activity:7432637172773519361 by Vigneshwara Raja GanapathyVigneshwara Raja Ganapathy
+2026-03-12 13:30:46,571 [INFO] Saved post to dashboard: Vigneshwara Raja GanapathyVigneshwara Raja Ganapathy - Total posts: 28
+2026-03-12 13:30:46,615 [INFO] Extracted post 29/30: urn:li:activity:7435281039536680978 by karimnagar red brickskarimnagar red bricks
+2026-03-12 13:30:46,641 [INFO] Saved post to dashboard: karimnagar red brickskarimnagar red bricks - Total posts: 29
+2026-03-12 13:30:46,642 [INFO] Scroll 10/20 for 'vigneshwara' - Collected: 29/30
+2026-03-12 13:30:57,457 [INFO] Extracted post 30/30: urn:li:activity:7432458888542814209 by VIGNESHWARA KVIGNESHWARA K
+2026-03-12 13:30:57,478 [INFO] Saved post to dashboard: VIGNESHWARA KVIGNESHWARA K - Total posts: 30
+2026-03-12 13:30:57,478 [INFO] Completed search for 'vigneshwara': collected 30 posts
+2026-03-12 13:31:03,232 [INFO] Scraping completed.
+2026-03-12 13:31:03,255 [INFO] 
+Total posts collected: 30
+2026-03-12 13:31:03,269 [INFO] CSV saved: ./output\posts_2026-03-12_13-31-03.csv
+2026-03-12 13:31:03,270 [INFO] JSON saved: ./output\posts_2026-03-12_13-31-03.json
+2026-03-12 13:31:03,270 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 13:31:03,277 [INFO] 
+============================================================
+2026-03-12 13:31:03,277 [INFO] EXTRACTION SUMMARY
+2026-03-12 13:31:03,277 [INFO] Total Posts in DB: 216
+2026-03-12 13:31:03,277 [INFO] Likes: 5,505
+2026-03-12 13:31:03,277 [INFO] Comments: 356
+2026-03-12 13:31:03,277 [INFO] Reposts: 149
+2026-03-12 13:31:03,278 [INFO] Top Authors:
+2026-03-12 13:31:03,278 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 13:31:03,278 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 13:31:03,278 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 13:31:03,278 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 13:31:03,278 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 13:31:03,278 [INFO] ============================================================

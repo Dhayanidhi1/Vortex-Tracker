@@ -1,0 +1,14 @@
+2026-03-12 13:26:44,479 [INFO] Log file: logs\scraper_2026-03-12_13-26-44.log
+2026-03-12 13:26:44,479 [INFO] ============================================================
+2026-03-12 13:26:44,479 [INFO] LinkedIn Post Extractor
+2026-03-12 13:26:44,479 [INFO] Keywords: ['vigneshwara']
+2026-03-12 13:26:44,479 [INFO] Max Posts: 30
+2026-03-12 13:26:44,479 [INFO] Time Range: Last 6 months
+2026-03-12 13:26:44,479 [INFO] Output Directory: ./output
+2026-03-12 13:26:44,479 [INFO] ============================================================
+2026-03-12 13:26:44,480 [INFO] Initialized realtime posts file: ./output\realtime_posts.json
+2026-03-12 13:26:44,481 [INFO] Cleared main posts.json for fresh start
+2026-03-12 13:26:45,377 [INFO] Found saved session state.
+2026-03-12 13:26:45,820 [INFO] Checking login status...
+2026-03-12 13:27:26,837 [INFO] Already logged in.
+2026-03-12 13:27:26,837 [INFO] Starting search for: vigneshwara (target: 30 posts)

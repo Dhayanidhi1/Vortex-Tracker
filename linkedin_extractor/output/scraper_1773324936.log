@@ -1,0 +1,99 @@
+2026-03-12 19:45:37,254 [INFO] Log file: logs\scraper_2026-03-12_19-45-37.log
+2026-03-12 19:45:37,254 [INFO] ============================================================
+2026-03-12 19:45:37,254 [INFO] LinkedIn Post Extractor
+2026-03-12 19:45:37,254 [INFO] Keywords: ['google']
+2026-03-12 19:45:37,254 [INFO] Max Posts: 30
+2026-03-12 19:45:37,254 [INFO] Time Range: Last 6 months
+2026-03-12 19:45:37,254 [INFO] Output Directory: ./output
+2026-03-12 19:45:37,254 [INFO] ============================================================
+2026-03-12 19:45:37,254 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 19:45:37,746 [INFO] Found saved session state.
+2026-03-12 19:45:37,988 [INFO] Checking login status...
+2026-03-12 19:46:01,618 [INFO] Already logged in.
+2026-03-12 19:46:01,618 [INFO] Starting search for: google (target: 30 posts)
+2026-03-12 19:46:04,685 [INFO] Target: 30 posts for keyword 'google'
+2026-03-12 19:46:04,685 [INFO] Scroll 1/15 for 'google' - Collected: 0/30
+2026-03-12 19:46:06,170 [INFO] Extracted post 1/30: urn:li:activity:7437726882860744704 by Neeshna KumaresanNeeshna Kumaresan
+2026-03-12 19:46:06,173 [INFO] Saved post to dashboard: Neeshna KumaresanNeeshna Kumaresan - Total posts: 1
+2026-03-12 19:46:06,640 [INFO] Extracted post 2/30: urn:li:activity:7437822329688190977 by Joerg RoelJoerg Roel
+2026-03-12 19:46:06,659 [INFO] Saved post to dashboard: Joerg RoelJoerg Roel - Total posts: 2
+2026-03-12 19:46:06,790 [INFO] Extracted post 3/30: urn:li:activity:7437836235735212032 by My Local GuardMy Local Guard
+2026-03-12 19:46:06,811 [INFO] Saved post to dashboard: My Local GuardMy Local Guard - Total posts: 3
+2026-03-12 19:46:06,811 [INFO] Scroll 2/15 for 'google' - Collected: 3/30
+2026-03-12 19:46:08,395 [INFO] Extracted post 4/30: urn:li:activity:7437841048413986816 by Kukami Technology_ HRKukami Technology_ HR
+2026-03-12 19:46:08,407 [INFO] Saved post to dashboard: Kukami Technology_ HRKukami Technology_ HR - Total posts: 4
+2026-03-12 19:46:08,440 [INFO] Extracted post 5/30: urn:li:activity:7437735841143320576 by 榎原雅良榎原雅良
+2026-03-12 19:46:08,454 [INFO] Saved post to dashboard: 榎原雅良榎原雅良 - Total posts: 5
+2026-03-12 19:46:08,487 [INFO] Extracted post 6/30: urn:li:activity:7437843360276492288 by Aisha .Aisha .
+2026-03-12 19:46:08,505 [INFO] Saved post to dashboard: Aisha .Aisha . - Total posts: 6
+2026-03-12 19:46:08,505 [INFO] Scroll 3/15 for 'google' - Collected: 6/30
+2026-03-12 19:46:09,815 [INFO] Extracted post 7/30: urn:li:activity:7436845646067929089 by Live social Automation AccountLive social Automation Account
+2026-03-12 19:46:09,831 [INFO] Saved post to dashboard: Live social Automation AccountLive social Automation Account - Total posts: 7
+2026-03-12 19:46:09,867 [INFO] Extracted post 8/30: urn:li:activity:7437842122717683712 by Ankit ShahAnkit Shah
+2026-03-12 19:46:09,882 [INFO] Saved post to dashboard: Ankit ShahAnkit Shah - Total posts: 8
+2026-03-12 19:46:09,912 [INFO] Extracted post 9/30: urn:li:activity:7437837322274103296 by Amit JainAmit Jain
+2026-03-12 19:46:09,928 [INFO] Saved post to dashboard: Amit JainAmit Jain - Total posts: 9
+2026-03-12 19:46:09,964 [INFO] Extracted post 10/30: urn:li:activity:7437433564020998144 by Kriangsak ChanchaingamKriangsak Chanchaingam
+2026-03-12 19:46:09,978 [INFO] Saved post to dashboard: Kriangsak ChanchaingamKriangsak Chanchaingam - Total posts: 10
+2026-03-12 19:46:10,007 [INFO] Extracted post 11/30: urn:li:activity:7437826897914519552 by Nishant AnandNishant Anand
+2026-03-12 19:46:10,023 [INFO] Saved post to dashboard: Nishant AnandNishant Anand - Total posts: 11
+2026-03-12 19:46:10,059 [INFO] Extracted post 12/30: urn:li:activity:7437461145579417600 by ScoopWhoopScoopWhoop
+2026-03-12 19:46:10,075 [INFO] Saved post to dashboard: ScoopWhoopScoopWhoop - Total posts: 12
+2026-03-12 19:46:10,075 [INFO] Scroll 4/15 for 'google' - Collected: 12/30
+2026-03-12 19:46:11,355 [INFO] Extracted post 13/30: urn:li:activity:7437305574880440320 by YUH-REY ChenYUH-REY Chen
+2026-03-12 19:46:11,371 [INFO] Saved post to dashboard: YUH-REY ChenYUH-REY Chen - Total posts: 13
+2026-03-12 19:46:11,404 [INFO] Extracted post 14/30: urn:li:activity:7437485803087237121 by Kathy Kiyomi (Katt) TsuyemuraKathy Kiyomi (Katt) Tsuyemura
+2026-03-12 19:46:11,419 [INFO] Saved post to dashboard: Kathy Kiyomi (Katt) TsuyemuraKathy Kiyomi (Katt) Tsuyemura - Total posts: 14
+2026-03-12 19:46:11,443 [INFO] Extracted post 15/30: urn:li:activity:7437773138454786048 by Janis N.Janis N.
+2026-03-12 19:46:11,460 [INFO] Saved post to dashboard: Janis N.Janis N. - Total posts: 15
+2026-03-12 19:46:11,460 [INFO] Scroll 5/15 for 'google' - Collected: 15/30
+2026-03-12 19:46:12,776 [INFO] Extracted post 16/30: urn:li:activity:7437839228123897856 by Naveen BansalNaveen Bansal
+2026-03-12 19:46:12,792 [INFO] Saved post to dashboard: Naveen BansalNaveen Bansal - Total posts: 16
+2026-03-12 19:46:12,818 [INFO] Extracted post 17/30: urn:li:activity:7437771344395628544 by Chie TakizawaChie Takizawa
+2026-03-12 19:46:12,834 [INFO] Saved post to dashboard: Chie TakizawaChie Takizawa - Total posts: 17
+2026-03-12 19:46:12,861 [INFO] Extracted post 18/30: urn:li:activity:7437483589006499840 by Adrian BorgAdrian Borg
+2026-03-12 19:46:12,875 [INFO] Saved post to dashboard: Adrian BorgAdrian Borg - Total posts: 18
+2026-03-12 19:46:12,876 [INFO] Scroll 6/15 for 'google' - Collected: 18/30
+2026-03-12 19:46:14,194 [INFO] Extracted post 19/30: urn:li:activity:7437173141614813184 by Kathy Kiyomi (Katt) TsuyemuraKathy Kiyomi (Katt) Tsuyemura
+2026-03-12 19:46:14,205 [INFO] Saved post to dashboard: Kathy Kiyomi (Katt) TsuyemuraKathy Kiyomi (Katt) Tsuyemura - Total posts: 19
+2026-03-12 19:46:14,245 [INFO] Extracted post 20/30: urn:li:activity:7437844480973729792 by Rama SivaRama Siva
+2026-03-12 19:46:14,261 [INFO] Saved post to dashboard: Rama SivaRama Siva - Total posts: 20
+2026-03-12 19:46:14,287 [INFO] Extracted post 21/30: urn:li:activity:7437349516888125440 by Web RynosWeb Rynos
+2026-03-12 19:46:14,303 [INFO] Saved post to dashboard: Web RynosWeb Rynos - Total posts: 21
+2026-03-12 19:46:14,303 [INFO] Scroll 7/15 for 'google' - Collected: 21/30
+2026-03-12 19:46:15,772 [INFO] Extracted post 22/30: urn:li:activity:7437493016124248064 by Abhinay GadiAbhinay Gadi
+2026-03-12 19:46:15,783 [INFO] Saved post to dashboard: Abhinay GadiAbhinay Gadi - Total posts: 22
+2026-03-12 19:46:15,803 [INFO] Extracted post 23/30: urn:li:activity:7437448661548298240 by matan shlomomatan shlomo
+2026-03-12 19:46:15,822 [INFO] Saved post to dashboard: matan shlomomatan shlomo - Total posts: 23
+2026-03-12 19:46:15,850 [INFO] Extracted post 24/30: urn:li:activity:7436992458997231616 by Kathy Kiyomi (Katt) TsuyemuraKathy Kiyomi (Katt) Tsuyemura
+2026-03-12 19:46:15,864 [INFO] Saved post to dashboard: Kathy Kiyomi (Katt) TsuyemuraKathy Kiyomi (Katt) Tsuyemura - Total posts: 24
+2026-03-12 19:46:15,864 [INFO] Scroll 8/15 for 'google' - Collected: 24/30
+2026-03-12 19:46:17,607 [INFO] Extracted post 25/30: urn:li:activity:7437830617674809344 by RUTUJA KSHIRSAGARRUTUJA KSHIRSAGAR
+2026-03-12 19:46:17,617 [INFO] Saved post to dashboard: RUTUJA KSHIRSAGARRUTUJA KSHIRSAGAR - Total posts: 25
+2026-03-12 19:46:17,660 [INFO] Extracted post 26/30: urn:li:activity:7437807282169704448 by RUBADHARSINI SRUBADHARSINI S
+2026-03-12 19:46:17,692 [INFO] Saved post to dashboard: RUBADHARSINI SRUBADHARSINI S - Total posts: 26
+2026-03-12 19:46:17,729 [INFO] Extracted post 27/30: urn:li:activity:7437834731389505536 by Arathi AbhilashArathi Abhilash
+2026-03-12 19:46:17,747 [INFO] Saved post to dashboard: Arathi AbhilashArathi Abhilash - Total posts: 27
+2026-03-12 19:46:17,747 [INFO] Scroll 9/15 for 'google' - Collected: 27/30
+2026-03-12 19:46:19,242 [INFO] No new posts found in this scroll, might have reached the end.
+2026-03-12 19:46:19,242 [INFO] Completed search for 'google': collected 27 posts
+2026-03-12 19:46:19,892 [INFO] Scraping completed.
+2026-03-12 19:46:19,906 [INFO] 
+Total posts collected: 27
+2026-03-12 19:46:19,922 [INFO] CSV saved: ./output\posts_2026-03-12_19-46-19.csv
+2026-03-12 19:46:19,922 [INFO] JSON saved: ./output\posts_2026-03-12_19-46-19.json
+2026-03-12 19:46:19,922 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 19:46:19,935 [INFO] 
+============================================================
+2026-03-12 19:46:19,936 [INFO] EXTRACTION SUMMARY
+2026-03-12 19:46:19,936 [INFO] Total Posts in DB: 463
+2026-03-12 19:46:19,936 [INFO] Likes: 25,585
+2026-03-12 19:46:19,936 [INFO] Comments: 1,841
+2026-03-12 19:46:19,936 [INFO] Reposts: 466
+2026-03-12 19:46:19,936 [INFO] Top Authors:
+2026-03-12 19:46:19,936 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 19:46:19,936 [INFO]   - Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa: 8 posts
+2026-03-12 19:46:19,936 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 19:46:19,936 [INFO]   - Kanishk DawarKanishk Dawar: 6 posts
+2026-03-12 19:46:19,936 [INFO]   - Vivek Chandra AwasthiVivek Chandra Awasthi: 6 posts
+2026-03-12 19:46:19,936 [INFO] ============================================================

@@ -1,0 +1,71 @@
+2026-03-12 12:44:16,092 [INFO] Log file: logs\scraper_2026-03-12_12-44-16.log
+2026-03-12 12:44:16,092 [INFO] ============================================================
+2026-03-12 12:44:16,092 [INFO] LinkedIn Post Extractor
+2026-03-12 12:44:16,092 [INFO] Keywords: ['Shayak Mazumder']
+2026-03-12 12:44:16,092 [INFO] Time Range: Last 6 months
+2026-03-12 12:44:16,092 [INFO] Output Directory: ./output
+2026-03-12 12:44:16,092 [INFO] ============================================================
+2026-03-12 12:44:17,156 [INFO] Found saved session state.
+2026-03-12 12:44:17,840 [INFO] Checking login status...
+2026-03-12 12:44:52,209 [INFO] Already logged in.
+2026-03-12 12:44:52,209 [INFO] Starting search for: Shayak Mazumder
+2026-03-12 12:44:59,816 [INFO] Scrolling page 1/5 for 'Shayak Mazumder'...
+2026-03-12 12:45:07,045 [INFO] Extracted post urn:li:activity:7437750672193703936 by Sivagami RadhakrishnanSivagami Radhakrishnan
+2026-03-12 12:45:07,083 [INFO] Extracted post urn:li:activity:7437725226441875456 by Shayak MazumderShayak Mazumder
+2026-03-12 12:45:07,133 [INFO] Extracted post urn:li:activity:7437722585397669888 by Praveen DornaPraveen Dorna
+2026-03-12 12:45:07,198 [INFO] Extracted post urn:li:activity:7437163809569542145 by ADC-Spark-Job-OpportunitiesADC-Spark-Job-Opportunities
+2026-03-12 12:45:07,244 [INFO] Extracted post urn:li:activity:7437127654455148544 by AdyaAdya
+2026-03-12 12:45:07,284 [INFO] Extracted post urn:li:activity:7437087949797732352 by Dharshika D.SDharshika D.S
+2026-03-12 12:45:09,320 [INFO] Clicked 'Show more' button.
+2026-03-12 12:45:13,147 [INFO] Scrolling page 2/5 for 'Shayak Mazumder'...
+2026-03-12 12:45:21,263 [INFO] Extracted post urn:li:activity:7437094938820886528 by Shayak MazumderShayak Mazumder
+2026-03-12 12:45:21,301 [INFO] Extracted post urn:li:activity:7437006836446294016 by Jency IrinJency Irin
+2026-03-12 12:45:21,346 [INFO] Extracted post urn:li:activity:7436813211204734976 by Ajitha IAjitha I
+2026-03-12 12:45:21,389 [INFO] Extracted post urn:li:activity:7436735170596093952 by AdyaAdya
+2026-03-12 12:45:21,429 [INFO] Extracted post urn:li:activity:7436433721999704064 by Charumathi SCharumathi S
+2026-03-12 12:45:21,468 [INFO] Extracted post urn:li:activity:7436417675901157376 by Hemanth SHemanth S
+2026-03-12 12:45:23,349 [INFO] Clicked 'Show more' button.
+2026-03-12 12:45:26,798 [INFO] Scrolling page 3/5 for 'Shayak Mazumder'...
+2026-03-12 12:45:34,037 [INFO] Extracted post urn:li:activity:7436410266231296000 by Ramasamy TRamasamy T
+2026-03-12 12:45:34,071 [INFO] Extracted post urn:li:activity:7436095474538881024 by Prem pPrem p
+2026-03-12 12:45:34,110 [INFO] Extracted post urn:li:activity:7436094714010972160 by Sowraj MSowraj M
+2026-03-12 12:45:34,146 [INFO] Extracted post urn:li:activity:7436085291867828224 by Praveen RPraveen R
+2026-03-12 12:45:34,189 [INFO] Extracted post urn:li:activity:7436064898775703552 by Diya VinodDiya Vinod
+2026-03-12 12:45:34,230 [INFO] Extracted post urn:li:activity:7436048010582720513 by AdyaAdya
+2026-03-12 12:45:34,268 [INFO] Extracted post urn:li:activity:7436037122630914048 by Neha AnishNeha Anish
+2026-03-12 12:45:34,306 [INFO] Extracted post urn:li:activity:7436024124164165632 by A AkshayA Akshay
+2026-03-12 12:45:34,399 [INFO] Extracted post urn:li:activity:7436020828082933760 by Dhinesh WaranDhinesh Waran
+2026-03-12 12:45:36,448 [INFO] Clicked 'Show more' button.
+2026-03-12 12:45:40,460 [INFO] Scrolling page 4/5 for 'Shayak Mazumder'...
+2026-03-12 12:45:47,781 [INFO] Extracted post urn:li:activity:7436014061680615424 by Shayak MazumderShayak Mazumder
+2026-03-12 12:45:47,844 [INFO] Extracted post urn:li:activity:7436011925362155520 by Aswin NAswin N
+2026-03-12 12:45:47,888 [INFO] Extracted post urn:li:activity:7435640366873100288 by AdyaAdya
+2026-03-12 12:45:49,118 [INFO] Clicked 'Show more' button.
+2026-03-12 12:45:53,404 [INFO] Scrolling page 5/5 for 'Shayak Mazumder'...
+2026-03-12 12:46:01,738 [INFO] Extracted post urn:li:activity:7435231786672140288 by Arun Pandit ®Arun Pandit ®
+2026-03-12 12:46:01,790 [INFO] Extracted post urn:li:activity:7435226701913206784 by Sainik School Sujanpur TiraSainik School Sujanpur Tira
+2026-03-12 12:46:01,837 [INFO] Extracted post urn:li:activity:7434135139380711424 by Prathamesh AmbokarPrathamesh Ambokar
+2026-03-12 12:46:01,899 [INFO] Extracted post urn:li:activity:7433335920432422913 by Kamal JainKamal Jain
+2026-03-12 12:46:01,953 [INFO] Extracted post urn:li:activity:7434213424617709568 by AdyaAdya
+2026-03-12 12:46:02,026 [INFO] Extracted post urn:li:activity:7433274479772037121 by Robert MaciejkoRobert Maciejko
+2026-03-12 12:46:04,095 [INFO] Clicked 'Show more' button.
+2026-03-12 12:46:19,951 [INFO] Scraping completed.
+2026-03-12 12:46:19,981 [INFO] 
+Total posts collected: 30
+2026-03-12 12:46:20,048 [INFO] CSV saved: ./output\posts_2026-03-12_12-46-19.csv
+2026-03-12 12:46:20,051 [INFO] JSON saved: ./output\posts_2026-03-12_12-46-19.json
+2026-03-12 12:46:20,051 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 12:46:20,089 [INFO] 
+============================================================
+2026-03-12 12:46:20,089 [INFO] EXTRACTION SUMMARY
+2026-03-12 12:46:20,089 [INFO] Total Posts in DB: 30
+2026-03-12 12:46:20,089 [INFO] Likes: 1,453
+2026-03-12 12:46:20,089 [INFO] Comments: 51
+2026-03-12 12:46:20,089 [INFO] Reposts: 36
+2026-03-12 12:46:20,090 [INFO] Top Authors:
+2026-03-12 12:46:20,090 [INFO]   - AdyaAdya: 5 posts
+2026-03-12 12:46:20,090 [INFO]   - Shayak MazumderShayak Mazumder: 3 posts
+2026-03-12 12:46:20,090 [INFO]   - Praveen DornaPraveen Dorna: 1 posts
+2026-03-12 12:46:20,090 [INFO]   - Sivagami RadhakrishnanSivagami Radhakrishnan: 1 posts
+2026-03-12 12:46:20,090 [INFO]   - ADC-Spark-Job-OpportunitiesADC-Spark-Job-Opportunities: 1 posts
+2026-03-12 12:46:20,090 [INFO] ============================================================

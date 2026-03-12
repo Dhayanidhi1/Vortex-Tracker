@@ -1,0 +1,44 @@
+2026-03-12 12:52:51,588 [INFO] Log file: logs\scraper_2026-03-12_12-52-51.log
+2026-03-12 12:52:51,589 [INFO] ============================================================
+2026-03-12 12:52:51,589 [INFO] LinkedIn Post Extractor
+2026-03-12 12:52:51,589 [INFO] Keywords: ['vigneshwara']
+2026-03-12 12:52:51,589 [INFO] Max Pages: 10
+2026-03-12 12:52:51,589 [INFO] Time Range: Last 6 months
+2026-03-12 12:52:51,589 [INFO] Output Directory: ./output
+2026-03-12 12:52:51,589 [INFO] ============================================================
+2026-03-12 12:52:52,619 [INFO] Found saved session state.
+2026-03-12 12:52:53,443 [INFO] Checking login status...
+2026-03-12 12:53:01,932 [INFO] Already logged in.
+2026-03-12 12:53:01,933 [INFO] Starting search for: vigneshwara
+2026-03-12 12:53:14,091 [INFO] Scrolling page 1/10 for 'vigneshwara'...
+2026-03-12 12:53:22,958 [INFO] Extracted post urn:li:activity:7437742730216116226 by karimnagar red brickskarimnagar red bricks
+2026-03-12 12:53:23,032 [INFO] Extracted post urn:li:activity:7437504360768700416 by VIGNESHWARA KVIGNESHWARA K
+2026-03-12 12:53:23,109 [INFO] Extracted post urn:li:activity:7437363910464192512 by AJSD Academy | Salesforce Workforce PartnerAJSD Academy | Salesforce Workforce Partner
+2026-03-12 12:53:23,177 [INFO] Extracted post urn:li:activity:7437359245190352896 by Vigneshwara R M KarrothuVigneshwara R M Karrothu
+2026-03-12 12:53:23,249 [INFO] Extracted post urn:li:activity:7437108272828116992 by Prakash VelagapudiPrakash Velagapudi
+2026-03-12 12:53:23,388 [INFO] Extracted post urn:li:activity:7437460270815506432 by karimnagar red brickskarimnagar red bricks
+2026-03-12 12:53:23,485 [INFO] Extracted post urn:li:activity:7436786764494700546 by Vigneshwara SVigneshwara S
+2026-03-12 12:53:23,554 [INFO] Extracted post urn:li:activity:7436574610596225024 by Pavan DhandugulaPavan Dhandugula
+2026-03-12 12:53:23,659 [INFO] Extracted post urn:li:activity:7436048366758723584 by VIGNESHWARA SVIGNESHWARA S
+2026-03-12 12:53:56,073 [INFO] Scrolling page 2/10 for 'vigneshwara'...
+2026-03-12 12:54:03,931 [ERROR] Error during search for 'vigneshwara': Locator.all: Target page, context or browser has been closed
+2026-03-12 12:54:10,049 [INFO] Scraping completed.
+2026-03-12 12:54:10,072 [INFO] 
+Total posts collected: 9
+2026-03-12 12:54:10,128 [INFO] CSV saved: ./output\posts_2026-03-12_12-54-10.csv
+2026-03-12 12:54:10,128 [INFO] JSON saved: ./output\posts_2026-03-12_12-54-10.json
+2026-03-12 12:54:10,128 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 12:54:10,147 [INFO] 
+============================================================
+2026-03-12 12:54:10,147 [INFO] EXTRACTION SUMMARY
+2026-03-12 12:54:10,148 [INFO] Total Posts in DB: 60
+2026-03-12 12:54:10,148 [INFO] Likes: 2,556
+2026-03-12 12:54:10,148 [INFO] Comments: 116
+2026-03-12 12:54:10,148 [INFO] Reposts: 68
+2026-03-12 12:54:10,148 [INFO] Top Authors:
+2026-03-12 12:54:10,148 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 12:54:10,148 [INFO]   - Shayak MazumderShayak Mazumder: 4 posts
+2026-03-12 12:54:10,149 [INFO]   - Charu JainCharu Jain: 2 posts
+2026-03-12 12:54:10,149 [INFO]   - karimnagar red brickskarimnagar red bricks: 2 posts
+2026-03-12 12:54:10,149 [INFO]   - STPI - Software Technology Parks of IndiaSTPI - Software Technology Parks of India: 2 posts
+2026-03-12 12:54:10,149 [INFO] ============================================================

@@ -1,0 +1,17 @@
+2026-03-12 12:53:53,941 [INFO] Log file: logs\scraper_2026-03-12_12-53-53.log
+2026-03-12 12:53:53,941 [INFO] ============================================================
+2026-03-12 12:53:53,941 [INFO] LinkedIn Post Extractor
+2026-03-12 12:53:53,941 [INFO] Keywords: ['vigneshwara']
+2026-03-12 12:53:53,941 [INFO] Max Pages: 10
+2026-03-12 12:53:53,941 [INFO] Time Range: Last 6 months
+2026-03-12 12:53:53,941 [INFO] Output Directory: ./output
+2026-03-12 12:53:53,942 [INFO] ============================================================
+2026-03-12 12:53:55,063 [INFO] Found saved session state.
+2026-03-12 12:53:56,023 [INFO] Checking login status...
+2026-03-12 12:54:01,938 [ERROR] Login failed: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.linkedin.com/feed/", waiting until "load"
+
+2026-03-12 12:54:02,488 [INFO] 
+Total posts collected: 0
+2026-03-12 12:54:02,489 [WARNING] No posts collected.

@@ -1,0 +1,60 @@
+2026-03-12 19:26:07,037 [INFO] Log file: logs\scraper_2026-03-12_19-26-07.log
+2026-03-12 19:26:07,037 [INFO] ============================================================
+2026-03-12 19:26:07,038 [INFO] LinkedIn Post Extractor
+2026-03-12 19:26:07,038 [INFO] Keywords: ['Versia Sri A']
+2026-03-12 19:26:07,038 [INFO] Max Posts: 10
+2026-03-12 19:26:07,038 [INFO] Time Range: Last 6 months
+2026-03-12 19:26:07,038 [INFO] Output Directory: ./output
+2026-03-12 19:26:07,038 [INFO] ============================================================
+2026-03-12 19:26:07,039 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 19:26:07,552 [INFO] Found saved session state.
+2026-03-12 19:26:07,779 [INFO] Checking login status...
+2026-03-12 19:26:12,120 [INFO] Already logged in.
+2026-03-12 19:26:12,120 [INFO] Starting search for: Versia Sri A (target: 10 posts)
+2026-03-12 19:26:14,687 [INFO] Target: 10 posts for keyword 'Versia Sri A'
+2026-03-12 19:26:14,687 [INFO] Scroll 1/5 for 'Versia Sri A' - Collected: 0/10
+2026-03-12 19:26:16,864 [INFO] Extracted post 1/10: urn:li:activity:7246603090349477888 by Aolad HossainAolad Hossain
+2026-03-12 19:26:16,867 [INFO] Saved post to dashboard: Aolad HossainAolad Hossain - Total posts: 1
+2026-03-12 19:26:17,520 [INFO] Extracted post 2/10: urn:li:activity:6731256266318073856 by Achilles HekimoglouAchilles Hekimoglou
+2026-03-12 19:26:17,547 [INFO] Saved post to dashboard: Achilles HekimoglouAchilles Hekimoglou - Total posts: 2
+2026-03-12 19:26:17,784 [INFO] Extracted post 3/10: urn:li:activity:7437336315047649281 by Valentina DuboisValentina Dubois
+2026-03-12 19:26:17,798 [INFO] Saved post to dashboard: Valentina DuboisValentina Dubois - Total posts: 3
+2026-03-12 19:26:17,798 [INFO] Scroll 2/5 for 'Versia Sri A' - Collected: 3/10
+2026-03-12 19:26:19,236 [INFO] Extracted post 4/10: urn:li:activity:7435247816530116610 by TiresiasTiresias
+2026-03-12 19:26:19,250 [INFO] Saved post to dashboard: TiresiasTiresias - Total posts: 4
+2026-03-12 19:26:19,290 [INFO] Extracted post 5/10: urn:li:activity:7271431248722448384 by Vishnukumar RavichandranVishnukumar Ravichandran
+2026-03-12 19:26:19,304 [INFO] Saved post to dashboard: Vishnukumar RavichandranVishnukumar Ravichandran - Total posts: 5
+2026-03-12 19:26:19,346 [INFO] Extracted post 6/10: urn:li:activity:7255371388482408448 by Aolad HossainAolad Hossain
+2026-03-12 19:26:19,360 [INFO] Saved post to dashboard: Aolad HossainAolad Hossain - Total posts: 6
+2026-03-12 19:26:19,361 [INFO] Scroll 3/5 for 'Versia Sri A' - Collected: 6/10
+2026-03-12 19:26:21,297 [INFO] Clicked 'Show more' button.
+2026-03-12 19:26:22,298 [INFO] Scroll 4/5 for 'Versia Sri A' - Collected: 6/10
+2026-03-12 19:26:23,605 [INFO] Extracted post 7/10: urn:li:activity:7319050549889323008 by Mithul PranavMithul Pranav
+2026-03-12 19:26:23,622 [INFO] Saved post to dashboard: Mithul PranavMithul Pranav - Total posts: 7
+2026-03-12 19:26:23,661 [INFO] Extracted post 8/10: urn:li:activity:7279888462051229696 by CreatiVoices LabsCreatiVoices Labs
+2026-03-12 19:26:23,675 [INFO] Saved post to dashboard: CreatiVoices LabsCreatiVoices Labs - Total posts: 8
+2026-03-12 19:26:23,705 [INFO] Extracted post 9/10: urn:li:activity:7437455375353872401 by Seán Ó CoistealbhaSeán Ó Coistealbha
+2026-03-12 19:26:23,719 [INFO] Saved post to dashboard: Seán Ó CoistealbhaSeán Ó Coistealbha - Total posts: 9
+2026-03-12 19:26:23,754 [INFO] Extracted post 10/10: urn:li:activity:7437216059579080705 by Nina TseplyaevaNina Tseplyaeva
+2026-03-12 19:26:23,768 [INFO] Saved post to dashboard: Nina TseplyaevaNina Tseplyaeva - Total posts: 10
+2026-03-12 19:26:23,768 [INFO] Completed search for 'Versia Sri A': collected 10 posts
+2026-03-12 19:26:24,444 [INFO] Scraping completed.
+2026-03-12 19:26:24,462 [INFO] 
+Total posts collected: 10
+2026-03-12 19:26:24,484 [INFO] CSV saved: ./output\posts_2026-03-12_19-26-24.csv
+2026-03-12 19:26:24,484 [INFO] JSON saved: ./output\posts_2026-03-12_19-26-24.json
+2026-03-12 19:26:24,484 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 19:26:24,498 [INFO] 
+============================================================
+2026-03-12 19:26:24,499 [INFO] EXTRACTION SUMMARY
+2026-03-12 19:26:24,499 [INFO] Total Posts in DB: 345
+2026-03-12 19:26:24,499 [INFO] Likes: 23,791
+2026-03-12 19:26:24,499 [INFO] Comments: 1,467
+2026-03-12 19:26:24,499 [INFO] Reposts: 410
+2026-03-12 19:26:24,499 [INFO] Top Authors:
+2026-03-12 19:26:24,499 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 19:26:24,499 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 19:26:24,499 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 19:26:24,499 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 19:26:24,499 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 19:26:24,499 [INFO] ============================================================

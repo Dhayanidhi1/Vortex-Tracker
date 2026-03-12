@@ -1,0 +1,27 @@
+2026-03-12 09:19:48,762 - linkedin_extractor - INFO - Logging initialized. Log file: logs\scraper_2026-03-12_09-19-48.log
+2026-03-12 09:19:48,762 - linkedin_extractor - INFO - ============================================================
+2026-03-12 09:19:48,762 - linkedin_extractor - INFO - LinkedIn Post Extractor
+2026-03-12 09:19:48,763 - linkedin_extractor - INFO - ============================================================
+2026-03-12 09:19:48,763 - linkedin_extractor - INFO - Keywords: ['Shayak Mazumder', 'Adya AI']
+2026-03-12 09:19:48,763 - linkedin_extractor - INFO - Time Range: Last 6 months
+2026-03-12 09:19:48,763 - linkedin_extractor - INFO - Output Directory: ./output
+2026-03-12 09:19:48,764 - linkedin_extractor - INFO - ============================================================
+2026-03-12 09:19:48,766 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 09:19:48,767 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 09:19:48,767 - scraper - INFO - Starting Chrome browser...
+2026-03-12 09:19:49,763 - scraper - INFO - Browser started successfully
+2026-03-12 09:19:49,763 - scraper - INFO - Attempting to log in to LinkedIn...
+2026-03-12 09:19:56,906 - scraper - WARNING - ==================================================
+2026-03-12 09:19:56,906 - scraper - WARNING - CAPTCHA DETECTED!
+2026-03-12 09:19:56,906 - scraper - WARNING - Please solve the CAPTCHA manually in the browser.
+2026-03-12 09:19:56,907 - scraper - WARNING - The script will continue once you've solved it.
+2026-03-12 09:19:56,907 - scraper - WARNING - ==================================================
+2026-03-12 09:20:01,914 - scraper - INFO - Waiting for CAPTCHA to be solved...
+2026-03-12 09:20:06,925 - scraper - INFO - Waiting for CAPTCHA to be solved...
+2026-03-12 09:20:11,936 - scraper - INFO - Waiting for CAPTCHA to be solved...
+2026-03-12 09:20:16,945 - scraper - INFO - Waiting for CAPTCHA to be solved...
+2026-03-12 09:20:19,863 - scraper - INFO - CAPTCHA solved! Continuing...
+2026-03-12 09:20:54,521 - scraper - ERROR - Login timed out
+2026-03-12 09:20:54,521 - linkedin_extractor - ERROR - Failed to log in to LinkedIn. Exiting.
+2026-03-12 09:20:54,521 - scraper - INFO - Closing browser...
+2026-03-12 09:21:01,624 - linkedin_extractor - INFO - Extraction complete.

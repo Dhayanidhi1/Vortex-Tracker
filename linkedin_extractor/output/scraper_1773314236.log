@@ -1,0 +1,61 @@
+2026-03-12 16:47:19,835 [INFO] Log file: logs\scraper_2026-03-12_16-47-19.log
+2026-03-12 16:47:19,836 [INFO] ============================================================
+2026-03-12 16:47:19,836 [INFO] LinkedIn Post Extractor
+2026-03-12 16:47:19,836 [INFO] Keywords: ['Adya Ai']
+2026-03-12 16:47:19,837 [INFO] Max Posts: 10
+2026-03-12 16:47:19,837 [INFO] Time Range: Last 6 months
+2026-03-12 16:47:19,837 [INFO] Output Directory: ./output
+2026-03-12 16:47:19,837 [INFO] ============================================================
+2026-03-12 16:47:19,840 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 16:47:30,532 [INFO] Found saved session state.
+2026-03-12 16:47:31,019 [INFO] Checking login status...
+2026-03-12 16:47:47,009 [INFO] Already logged in.
+2026-03-12 16:47:47,009 [INFO] Starting search for: Adya Ai (target: 10 posts)
+2026-03-12 16:47:49,929 [INFO] Target: 10 posts for keyword 'Adya Ai'
+2026-03-12 16:47:49,929 [INFO] Scroll 1/5 for 'Adya Ai' - Collected: 0/10
+2026-03-12 16:47:52,985 [INFO] Extracted post 1/10: urn:li:activity:7437565103287373825 by Dale LaszigDale Laszig
+2026-03-12 16:47:52,988 [INFO] Saved post to dashboard: Dale LaszigDale Laszig - Total posts: 1
+2026-03-12 16:47:53,420 [INFO] Extracted post 2/10: urn:li:activity:7437356119628574720 by Dean YehDean Yeh
+2026-03-12 16:47:53,447 [INFO] Saved post to dashboard: Dean YehDean Yeh - Total posts: 2
+2026-03-12 16:47:53,787 [INFO] Extracted post 3/10: urn:li:activity:7416497800114405376 by Hariharan KrishnamurthyHariharan Krishnamurthy
+2026-03-12 16:47:53,810 [INFO] Saved post to dashboard: Hariharan KrishnamurthyHariharan Krishnamurthy - Total posts: 3
+2026-03-12 16:47:53,810 [INFO] Scroll 2/5 for 'Adya Ai' - Collected: 3/10
+2026-03-12 16:47:55,292 [INFO] Extracted post 4/10: urn:li:activity:7437789474564018176 by DSL DirectDSL Direct
+2026-03-12 16:47:55,314 [INFO] Saved post to dashboard: DSL DirectDSL Direct - Total posts: 4
+2026-03-12 16:47:55,394 [INFO] Extracted post 5/10: urn:li:activity:7437750672193703936 by Sivagami RadhakrishnanSivagami Radhakrishnan
+2026-03-12 16:47:55,423 [INFO] Saved post to dashboard: Sivagami RadhakrishnanSivagami Radhakrishnan - Total posts: 5
+2026-03-12 16:47:55,501 [INFO] Extracted post 6/10: urn:li:activity:7437725226441875456 by Shayak MazumderShayak Mazumder
+2026-03-12 16:47:55,530 [INFO] Saved post to dashboard: Shayak MazumderShayak Mazumder - Total posts: 6
+2026-03-12 16:47:55,530 [INFO] Scroll 3/5 for 'Adya Ai' - Collected: 6/10
+2026-03-12 16:47:57,655 [INFO] Extracted post 7/10: urn:li:activity:7437493176048914432 by Ajay jaiswal ..Ajay jaiswal ..
+2026-03-12 16:47:57,685 [INFO] Saved post to dashboard: Ajay jaiswal ..Ajay jaiswal .. - Total posts: 7
+2026-03-12 16:47:57,806 [INFO] Extracted post 8/10: urn:li:activity:7403790561889169408 by Ayushi AggarwalAyushi Aggarwal
+2026-03-12 16:47:57,834 [INFO] Saved post to dashboard: Ayushi AggarwalAyushi Aggarwal - Total posts: 8
+2026-03-12 16:47:57,925 [INFO] Extracted post 9/10: urn:li:activity:7342778706735611904 by Siddharth BaligaSiddharth Baliga
+2026-03-12 16:47:57,956 [INFO] Saved post to dashboard: Siddharth BaligaSiddharth Baliga - Total posts: 9
+2026-03-12 16:47:57,956 [INFO] Scroll 4/5 for 'Adya Ai' - Collected: 9/10
+2026-03-12 16:47:59,998 [INFO] Clicked 'Show more' button.
+2026-03-12 16:48:00,999 [INFO] Scroll 5/5 for 'Adya Ai' - Collected: 9/10
+2026-03-12 16:48:03,039 [INFO] Extracted post 10/10: urn:li:activity:7406685712626044928 by A PriyadharshiniA Priyadharshini
+2026-03-12 16:48:03,059 [INFO] Saved post to dashboard: A PriyadharshiniA Priyadharshini - Total posts: 10
+2026-03-12 16:48:03,059 [INFO] Completed search for 'Adya Ai': collected 10 posts
+2026-03-12 16:48:03,897 [INFO] Scraping completed.
+2026-03-12 16:48:03,933 [INFO] 
+Total posts collected: 10
+2026-03-12 16:48:04,022 [INFO] CSV saved: ./output\posts_2026-03-12_16-48-03.csv
+2026-03-12 16:48:04,022 [INFO] JSON saved: ./output\posts_2026-03-12_16-48-03.json
+2026-03-12 16:48:04,022 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 16:48:04,075 [INFO] 
+============================================================
+2026-03-12 16:48:04,075 [INFO] EXTRACTION SUMMARY
+2026-03-12 16:48:04,075 [INFO] Total Posts in DB: 294
+2026-03-12 16:48:04,076 [INFO] Likes: 9,483
+2026-03-12 16:48:04,076 [INFO] Comments: 713
+2026-03-12 16:48:04,076 [INFO] Reposts: 301
+2026-03-12 16:48:04,076 [INFO] Top Authors:
+2026-03-12 16:48:04,076 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 16:48:04,076 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 16:48:04,076 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 16:48:04,076 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 16:48:04,076 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 16:48:04,076 [INFO] ============================================================

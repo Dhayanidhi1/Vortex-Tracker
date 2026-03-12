@@ -1,0 +1,18 @@
+2026-03-12 10:02:02,762 - linkedin_extractor - INFO - Logging initialized. Log file: logs\scraper_2026-03-12_10-02-02.log
+2026-03-12 10:02:02,762 - linkedin_extractor - INFO - ============================================================
+2026-03-12 10:02:02,762 - linkedin_extractor - INFO - LinkedIn Post Extractor
+2026-03-12 10:02:02,762 - linkedin_extractor - INFO - ============================================================
+2026-03-12 10:02:02,762 - linkedin_extractor - INFO - Keywords: ['Artificial Intelligence', 'Machine Learning', 'OpenAI', 'ChatGPT']
+2026-03-12 10:02:02,762 - linkedin_extractor - INFO - Time Range: Last 6 months
+2026-03-12 10:02:02,762 - linkedin_extractor - INFO - Output Directory: ./output
+2026-03-12 10:02:02,763 - linkedin_extractor - INFO - ============================================================
+2026-03-12 10:02:02,764 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 10:02:02,765 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 10:02:02,765 - scraper - INFO - Starting Chrome browser...
+2026-03-12 10:02:03,692 - scraper - INFO - Browser started successfully
+2026-03-12 10:02:03,692 - scraper - INFO - Attempting to log in to LinkedIn...
+2026-03-12 10:02:09,701 - scraper - INFO - Cookies loaded successfully
+2026-03-12 10:02:55,844 - scraper - ERROR - Login timed out
+2026-03-12 10:02:55,844 - linkedin_extractor - ERROR - Failed to log in to LinkedIn. Exiting.
+2026-03-12 10:02:55,844 - scraper - INFO - Closing browser...
+2026-03-12 10:02:58,877 - linkedin_extractor - INFO - Extraction complete.

@@ -1,0 +1,19 @@
+2026-03-12 11:21:17,879 - linkedin_extractor - INFO - Logging initialized. Log file: logs\scraper_2026-03-12_11-21-17.log
+2026-03-12 11:21:17,879 - linkedin_extractor - INFO - ============================================================
+2026-03-12 11:21:17,880 - linkedin_extractor - INFO - LinkedIn Post Extractor
+2026-03-12 11:21:17,880 - linkedin_extractor - INFO - ============================================================
+2026-03-12 11:21:17,880 - linkedin_extractor - INFO - Keywords: ['Artificial Intelligence', 'Machine Learning', 'OpenAI', 'ChatGPT']
+2026-03-12 11:21:17,880 - linkedin_extractor - INFO - Time Range: Last 6 months
+2026-03-12 11:21:17,881 - linkedin_extractor - INFO - Output Directory: ./output
+2026-03-12 11:21:17,881 - linkedin_extractor - INFO - ============================================================
+2026-03-12 11:21:17,883 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 11:21:17,884 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 11:21:17,884 - scraper - INFO - Starting Chrome browser...
+2026-03-12 11:21:20,727 - scraper - INFO - Browser started successfully
+2026-03-12 11:21:20,727 - scraper - INFO - Attempting to log in to LinkedIn...
+2026-03-12 11:21:26,744 - scraper - INFO - Looking for email field...
+2026-03-12 11:21:56,764 - scraper - ERROR - Login timed out - could not find login fields
+2026-03-12 11:21:56,771 - scraper - ERROR - Current URL: https://www.linkedin.com/feed/
+2026-03-12 11:21:56,772 - linkedin_extractor - ERROR - Failed to log in to LinkedIn. Exiting.
+2026-03-12 11:21:56,774 - scraper - INFO - Closing browser...
+2026-03-12 11:21:59,598 - linkedin_extractor - INFO - Extraction complete.

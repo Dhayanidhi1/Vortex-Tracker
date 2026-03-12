@@ -1,0 +1,61 @@
+2026-03-12 16:10:31,560 [INFO] Log file: logs\scraper_2026-03-12_16-10-31.log
+2026-03-12 16:10:31,560 [INFO] ============================================================
+2026-03-12 16:10:31,560 [INFO] LinkedIn Post Extractor
+2026-03-12 16:10:31,560 [INFO] Keywords: ['LAKSHMAN M']
+2026-03-12 16:10:31,560 [INFO] Max Posts: 10
+2026-03-12 16:10:31,560 [INFO] Time Range: Last 6 months
+2026-03-12 16:10:31,560 [INFO] Output Directory: ./output
+2026-03-12 16:10:31,560 [INFO] ============================================================
+2026-03-12 16:10:31,562 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 16:10:32,626 [INFO] Found saved session state.
+2026-03-12 16:10:33,090 [INFO] Checking login status...
+2026-03-12 16:10:43,759 [INFO] Already logged in.
+2026-03-12 16:10:43,759 [INFO] Starting search for: LAKSHMAN M (target: 10 posts)
+2026-03-12 16:10:47,600 [INFO] Target: 10 posts for keyword 'LAKSHMAN M'
+2026-03-12 16:10:47,601 [INFO] Scroll 1/5 for 'LAKSHMAN M' - Collected: 0/10
+2026-03-12 16:10:49,481 [INFO] Extracted post 1/10: urn:li:activity:7437638491917930496 by Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa
+2026-03-12 16:10:49,483 [INFO] Saved post to dashboard: Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa - Total posts: 1
+2026-03-12 16:10:49,826 [INFO] Extracted post 2/10: urn:li:activity:7383520038458163200 by Lakshman MLakshman M
+2026-03-12 16:10:49,827 [INFO] Saved post to dashboard: Lakshman MLakshman M - Total posts: 2
+2026-03-12 16:10:49,891 [INFO] Extracted post 3/10: urn:li:activity:7432468616492539904 by Dr. S. GomathiDr. S. Gomathi
+2026-03-12 16:10:49,909 [INFO] Saved post to dashboard: Dr. S. GomathiDr. S. Gomathi - Total posts: 3
+2026-03-12 16:10:49,909 [INFO] Scroll 2/5 for 'LAKSHMAN M' - Collected: 3/10
+2026-03-12 16:10:51,462 [INFO] Extracted post 4/10: urn:li:activity:7437550532895916032 by Dr. Hasmitha LakshmanDr. Hasmitha Lakshman
+2026-03-12 16:10:51,464 [INFO] Saved post to dashboard: Dr. Hasmitha LakshmanDr. Hasmitha Lakshman - Total posts: 4
+2026-03-12 16:10:51,518 [INFO] Extracted post 5/10: urn:li:activity:7437535329781366785 by Ashish GakreyAshish Gakrey
+2026-03-12 16:10:51,539 [INFO] Saved post to dashboard: Ashish GakreyAshish Gakrey - Total posts: 5
+2026-03-12 16:10:51,540 [INFO] Scroll 3/5 for 'LAKSHMAN M' - Collected: 5/10
+2026-03-12 16:10:52,904 [INFO] Extracted post 6/10: urn:li:activity:7437527389414313984 by Yedukondalu AregalaYedukondalu Aregala
+2026-03-12 16:10:52,907 [INFO] Saved post to dashboard: Yedukondalu AregalaYedukondalu Aregala - Total posts: 6
+2026-03-12 16:10:52,907 [INFO] Scroll 4/5 for 'LAKSHMAN M' - Collected: 6/10
+2026-03-12 16:10:54,689 [INFO] Clicked 'Show more' button.
+2026-03-12 16:10:55,690 [INFO] Scroll 5/5 for 'LAKSHMAN M' - Collected: 6/10
+2026-03-12 16:10:57,250 [INFO] Extracted post 7/10: urn:li:activity:7325845743288635392 by Manoj Kumar MManoj Kumar M
+2026-03-12 16:10:57,253 [INFO] Saved post to dashboard: Manoj Kumar MManoj Kumar M - Total posts: 7
+2026-03-12 16:10:57,291 [INFO] Extracted post 8/10: urn:li:activity:7328104971952881664 by Ashok Babu MarthuAshok Babu Marthu
+2026-03-12 16:10:57,308 [INFO] Saved post to dashboard: Ashok Babu MarthuAshok Babu Marthu - Total posts: 8
+2026-03-12 16:10:57,358 [INFO] Extracted post 9/10: urn:li:activity:7403238678711750656 by Siva ArumugamSiva Arumugam
+2026-03-12 16:10:57,363 [INFO] Saved post to dashboard: Siva ArumugamSiva Arumugam - Total posts: 9
+2026-03-12 16:10:57,416 [INFO] Extracted post 10/10: urn:li:activity:7437187643676774400 by Manoj Kumar SinghManoj Kumar Singh
+2026-03-12 16:10:57,418 [INFO] Saved post to dashboard: Manoj Kumar SinghManoj Kumar Singh - Total posts: 10
+2026-03-12 16:10:57,419 [INFO] Completed search for 'LAKSHMAN M': collected 10 posts
+2026-03-12 16:10:58,077 [INFO] Scraping completed.
+2026-03-12 16:10:58,096 [INFO] 
+Total posts collected: 10
+2026-03-12 16:10:58,109 [INFO] CSV saved: ./output\posts_2026-03-12_16-10-58.csv
+2026-03-12 16:10:58,109 [INFO] JSON saved: ./output\posts_2026-03-12_16-10-58.json
+2026-03-12 16:10:58,109 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 16:10:58,118 [INFO] 
+============================================================
+2026-03-12 16:10:58,118 [INFO] EXTRACTION SUMMARY
+2026-03-12 16:10:58,118 [INFO] Total Posts in DB: 257
+2026-03-12 16:10:58,118 [INFO] Likes: 7,807
+2026-03-12 16:10:58,118 [INFO] Comments: 537
+2026-03-12 16:10:58,118 [INFO] Reposts: 271
+2026-03-12 16:10:58,118 [INFO] Top Authors:
+2026-03-12 16:10:58,118 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 16:10:58,119 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 16:10:58,119 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 16:10:58,119 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 16:10:58,119 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 16:10:58,119 [INFO] ============================================================

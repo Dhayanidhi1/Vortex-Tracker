@@ -1,0 +1,42 @@
+2026-03-12 13:56:45,831 [INFO] Log file: logs\scraper_2026-03-12_13-56-45.log
+2026-03-12 13:56:45,831 [INFO] ============================================================
+2026-03-12 13:56:45,831 [INFO] LinkedIn Post Extractor
+2026-03-12 13:56:45,831 [INFO] Keywords: ['vigneshwara']
+2026-03-12 13:56:45,831 [INFO] Max Posts: 3
+2026-03-12 13:56:45,831 [INFO] Time Range: Last 6 months
+2026-03-12 13:56:45,831 [INFO] Output Directory: ./output
+2026-03-12 13:56:45,831 [INFO] ============================================================
+2026-03-12 13:56:45,832 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 13:56:46,785 [INFO] Found saved session state.
+2026-03-12 13:56:47,156 [INFO] Checking login status...
+2026-03-12 13:56:53,935 [INFO] Already logged in.
+2026-03-12 13:56:53,935 [INFO] Starting search for: vigneshwara (target: 3 posts)
+2026-03-12 13:57:12,486 [INFO] Target: 3 posts for keyword 'vigneshwara'
+2026-03-12 13:57:12,487 [INFO] Scroll 1/3 for 'vigneshwara' - Collected: 0/3
+2026-03-12 13:57:14,231 [INFO] Extracted post 1/3: urn:li:activity:7437742730216116226 by karimnagar red brickskarimnagar red bricks
+2026-03-12 13:57:14,233 [INFO] Saved post to dashboard: karimnagar red brickskarimnagar red bricks - Total posts: 1
+2026-03-12 13:57:14,264 [INFO] Extracted post 2/3: urn:li:activity:7437504360768700416 by VIGNESHWARA KVIGNESHWARA K
+2026-03-12 13:57:14,287 [INFO] Saved post to dashboard: VIGNESHWARA KVIGNESHWARA K - Total posts: 2
+2026-03-12 13:57:14,317 [INFO] Extracted post 3/3: urn:li:activity:7437363910464192512 by AJSD Academy | Salesforce Workforce PartnerAJSD Academy | Salesforce Workforce Partner
+2026-03-12 13:57:14,331 [INFO] Saved post to dashboard: AJSD Academy | Salesforce Workforce PartnerAJSD Academy | Salesforce Workforce Partner - Total posts: 3
+2026-03-12 13:57:14,331 [INFO] Completed search for 'vigneshwara': collected 3 posts
+2026-03-12 13:57:15,097 [INFO] Scraping completed.
+2026-03-12 13:57:15,117 [INFO] 
+Total posts collected: 3
+2026-03-12 13:57:15,128 [INFO] CSV saved: ./output\posts_2026-03-12_13-57-15.csv
+2026-03-12 13:57:15,128 [INFO] JSON saved: ./output\posts_2026-03-12_13-57-15.json
+2026-03-12 13:57:15,128 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 13:57:15,134 [INFO] 
+============================================================
+2026-03-12 13:57:15,134 [INFO] EXTRACTION SUMMARY
+2026-03-12 13:57:15,134 [INFO] Total Posts in DB: 216
+2026-03-12 13:57:15,134 [INFO] Likes: 5,505
+2026-03-12 13:57:15,134 [INFO] Comments: 356
+2026-03-12 13:57:15,135 [INFO] Reposts: 149
+2026-03-12 13:57:15,135 [INFO] Top Authors:
+2026-03-12 13:57:15,135 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 13:57:15,135 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 13:57:15,135 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 13:57:15,135 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 13:57:15,135 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 13:57:15,135 [INFO] ============================================================

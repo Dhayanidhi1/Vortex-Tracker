@@ -1,0 +1,285 @@
+2026-03-12 19:36:27,943 [INFO] Log file: logs\scraper_2026-03-12_19-36-27.log
+2026-03-12 19:36:27,944 [INFO] ============================================================
+2026-03-12 19:36:27,944 [INFO] LinkedIn Post Extractor
+2026-03-12 19:36:27,944 [INFO] Keywords: ['Kanishk SP']
+2026-03-12 19:36:27,944 [INFO] Max Posts: 100
+2026-03-12 19:36:27,944 [INFO] Time Range: Last 6 months
+2026-03-12 19:36:27,944 [INFO] Output Directory: ./output
+2026-03-12 19:36:27,944 [INFO] ============================================================
+2026-03-12 19:36:27,944 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 19:36:28,518 [INFO] Found saved session state.
+2026-03-12 19:36:28,841 [INFO] Checking login status...
+2026-03-12 19:36:46,469 [INFO] Already logged in.
+2026-03-12 19:36:46,469 [INFO] Starting search for: Kanishk SP (target: 100 posts)
+2026-03-12 19:36:49,259 [INFO] Target: 100 posts for keyword 'Kanishk SP'
+2026-03-12 19:36:49,259 [INFO] Scroll 1/50 for 'Kanishk SP' - Collected: 0/100
+2026-03-12 19:36:50,752 [INFO] Extracted post 1/100: urn:li:activity:7437348183447580672 by Sachin kumar RanaSachin kumar Rana
+2026-03-12 19:36:50,755 [INFO] Saved post to dashboard: Sachin kumar RanaSachin kumar Rana - Total posts: 1
+2026-03-12 19:36:51,760 [INFO] Extracted post 2/100: urn:li:activity:7429422631512342528 by Muskan BajajMuskan Bajaj
+2026-03-12 19:36:51,789 [INFO] Saved post to dashboard: Muskan BajajMuskan Bajaj - Total posts: 2
+2026-03-12 19:36:52,234 [INFO] Extracted post 3/100: urn:li:activity:7437592295400480768 by Ubaid Ahmad bhatUbaid Ahmad bhat
+2026-03-12 19:36:52,262 [INFO] Saved post to dashboard: Ubaid Ahmad bhatUbaid Ahmad bhat - Total posts: 3
+2026-03-12 19:36:52,262 [INFO] Scroll 2/50 for 'Kanishk SP' - Collected: 3/100
+2026-03-12 19:36:53,647 [INFO] Extracted post 4/100: urn:li:activity:7437307078920261632 by Srishti ShuklaSrishti Shukla
+2026-03-12 19:36:53,660 [INFO] Saved post to dashboard: Srishti ShuklaSrishti Shukla - Total posts: 4
+2026-03-12 19:36:53,708 [INFO] Extracted post 5/100: urn:li:activity:7437335265985265665 by Abhishek AnandAbhishek Anand
+2026-03-12 19:36:53,721 [INFO] Saved post to dashboard: Abhishek AnandAbhishek Anand - Total posts: 5
+2026-03-12 19:36:53,755 [INFO] Extracted post 6/100: urn:li:activity:7437056029491650560 by Dr Krishna SinghDr Krishna Singh
+2026-03-12 19:36:53,768 [INFO] Saved post to dashboard: Dr Krishna SinghDr Krishna Singh - Total posts: 6
+2026-03-12 19:36:53,768 [INFO] Scroll 3/50 for 'Kanishk SP' - Collected: 6/100
+2026-03-12 19:36:55,297 [INFO] Extracted post 7/100: urn:li:activity:7433487708502585344 by Kanishk DawarKanishk Dawar
+2026-03-12 19:36:55,308 [INFO] Saved post to dashboard: Kanishk DawarKanishk Dawar - Total posts: 7
+2026-03-12 19:36:55,363 [INFO] Extracted post 8/100: urn:li:activity:7437638491620036608 by Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa
+2026-03-12 19:36:55,374 [INFO] Saved post to dashboard: Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa - Total posts: 8
+2026-03-12 19:36:55,419 [INFO] Extracted post 9/100: urn:li:activity:7437843092994654209 by Prakash Seshadri aka Corporate Sage PrakashPrakash Seshadri aka Corporate Sage Prakash
+2026-03-12 19:36:55,429 [INFO] Saved post to dashboard: Prakash Seshadri aka Corporate Sage PrakashPrakash Seshadri aka Corporate Sage Prakash - Total posts: 9
+2026-03-12 19:36:55,429 [INFO] Scroll 4/50 for 'Kanishk SP' - Collected: 9/100
+2026-03-12 19:36:57,100 [INFO] Extracted post 10/100: urn:li:activity:7437120220533567488 by india newsindia news
+2026-03-12 19:36:57,113 [INFO] Saved post to dashboard: india newsindia news - Total posts: 10
+2026-03-12 19:36:57,164 [INFO] Extracted post 11/100: urn:li:activity:7436957421438144512 by कश्यप राजपूत शिक्षा सभाकश्यप राजपूत शिक्षा सभा
+2026-03-12 19:36:57,175 [INFO] Saved post to dashboard: कश्यप राजपूत शिक्षा सभाकश्यप राजपूत शिक्षा सभा - Total posts: 11
+2026-03-12 19:36:57,207 [INFO] Extracted post 12/100: urn:li:activity:7437495713506361345 by Arvind Kumar RajpootArvind Kumar Rajpoot
+2026-03-12 19:36:57,220 [INFO] Saved post to dashboard: Arvind Kumar RajpootArvind Kumar Rajpoot - Total posts: 12
+2026-03-12 19:36:57,220 [INFO] Scroll 5/50 for 'Kanishk SP' - Collected: 12/100
+2026-03-12 19:36:58,651 [INFO] Clicked 'Show more' button.
+2026-03-12 19:36:59,652 [INFO] Scroll 6/50 for 'Kanishk SP' - Collected: 12/100
+2026-03-12 19:37:01,484 [INFO] Extracted post 13/100: urn:li:activity:7437638487408844801 by Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa
+2026-03-12 19:37:01,494 [INFO] Saved post to dashboard: Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa - Total posts: 13
+2026-03-12 19:37:01,531 [INFO] Extracted post 14/100: urn:li:activity:7437164560471609344 by Abdul RaoufAbdul Raouf
+2026-03-12 19:37:01,542 [INFO] Saved post to dashboard: Abdul RaoufAbdul Raouf - Total posts: 14
+2026-03-12 19:37:01,578 [INFO] Extracted post 15/100: urn:li:activity:7437322299269140481 by naressh kumar saininaressh kumar saini
+2026-03-12 19:37:01,589 [INFO] Saved post to dashboard: naressh kumar saininaressh kumar saini - Total posts: 15
+2026-03-12 19:37:01,630 [INFO] Extracted post 16/100: urn:li:activity:7437012615530459136 by Ramakrushna DakuaRamakrushna Dakua
+2026-03-12 19:37:01,642 [INFO] Saved post to dashboard: Ramakrushna DakuaRamakrushna Dakua - Total posts: 16
+2026-03-12 19:37:01,685 [INFO] Extracted post 17/100: urn:li:activity:7437119967029882880 by Swadesh JyotiSwadesh Jyoti
+2026-03-12 19:37:01,696 [INFO] Saved post to dashboard: Swadesh JyotiSwadesh Jyoti - Total posts: 17
+2026-03-12 19:37:01,738 [INFO] Extracted post 18/100: urn:li:activity:7419557999117086720 by Pt. SANTOSH BHARDWAJPt. SANTOSH BHARDWAJ
+2026-03-12 19:37:01,750 [INFO] Saved post to dashboard: Pt. SANTOSH BHARDWAJPt. SANTOSH BHARDWAJ - Total posts: 18
+2026-03-12 19:37:01,750 [INFO] Scroll 7/50 for 'Kanishk SP' - Collected: 18/100
+2026-03-12 19:37:03,259 [INFO] Clicked 'Show more' button.
+2026-03-12 19:37:04,260 [INFO] Scroll 8/50 for 'Kanishk SP' - Collected: 18/100
+2026-03-12 19:37:05,848 [INFO] Extracted post 19/100: urn:li:activity:7437378412404563968 by Bangar MahadeoBangar Mahadeo
+2026-03-12 19:37:05,857 [INFO] Saved post to dashboard: Bangar MahadeoBangar Mahadeo - Total posts: 19
+2026-03-12 19:37:05,902 [INFO] Extracted post 20/100: urn:li:activity:7394771286549413888 by Kanishk KumarKanishk Kumar
+2026-03-12 19:37:05,912 [INFO] Saved post to dashboard: Kanishk KumarKanishk Kumar - Total posts: 20
+2026-03-12 19:37:05,957 [INFO] Extracted post 21/100: urn:li:activity:7437638492064485378 by Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa
+2026-03-12 19:37:05,969 [INFO] Saved post to dashboard: Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa - Total posts: 21
+2026-03-12 19:37:05,969 [INFO] Scroll 9/50 for 'Kanishk SP' - Collected: 21/100
+2026-03-12 19:37:07,445 [INFO] Extracted post 22/100: urn:li:activity:7437099131535245312 by Nibhi Kumar KaushikNibhi Kumar Kaushik
+2026-03-12 19:37:07,458 [INFO] Saved post to dashboard: Nibhi Kumar KaushikNibhi Kumar Kaushik - Total posts: 22
+2026-03-12 19:37:07,509 [INFO] Extracted post 23/100: urn:li:activity:7437541014418063360 by Ransher Bahadur SinghRansher Bahadur Singh
+2026-03-12 19:37:07,524 [INFO] Saved post to dashboard: Ransher Bahadur SinghRansher Bahadur Singh - Total posts: 23
+2026-03-12 19:37:07,569 [INFO] Extracted post 24/100: urn:li:activity:7437711656224247808 by Piyush SainiPiyush Saini
+2026-03-12 19:37:07,581 [INFO] Saved post to dashboard: Piyush SainiPiyush Saini - Total posts: 24
+2026-03-12 19:37:07,581 [INFO] Scroll 10/50 for 'Kanishk SP' - Collected: 24/100
+2026-03-12 19:37:09,081 [INFO] Clicked 'Show more' button.
+2026-03-12 19:37:10,082 [INFO] Scroll 11/50 for 'Kanishk SP' - Collected: 24/100
+2026-03-12 19:37:12,395 [INFO] Extracted post 25/100: urn:li:activity:7404059529191092225 by Kanishk KumarKanishk Kumar
+2026-03-12 19:37:12,410 [INFO] Saved post to dashboard: Kanishk KumarKanishk Kumar - Total posts: 25
+2026-03-12 19:37:12,648 [INFO] Extracted post 26/100: urn:li:activity:7421518930755674113 by Kanishk DawarKanishk Dawar
+2026-03-12 19:37:12,664 [INFO] Saved post to dashboard: Kanishk DawarKanishk Dawar - Total posts: 26
+2026-03-12 19:37:12,763 [INFO] Extracted post 27/100: urn:li:activity:7437276103737491456 by Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa
+2026-03-12 19:37:12,779 [INFO] Saved post to dashboard: Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa - Total posts: 27
+2026-03-12 19:37:12,779 [INFO] Scroll 12/50 for 'Kanishk SP' - Collected: 27/100
+2026-03-12 19:37:15,044 [INFO] Extracted post 28/100: urn:li:activity:7436946934034169856 by Naveen jhaNaveen jha
+2026-03-12 19:37:15,057 [INFO] Saved post to dashboard: Naveen jhaNaveen jha - Total posts: 28
+2026-03-12 19:37:15,099 [INFO] Extracted post 29/100: urn:li:activity:7437417655134973952 by TAUR THE ASIAN UNION OF REGIMENTSTAUR THE ASIAN UNION OF REGIMENTS
+2026-03-12 19:37:15,112 [INFO] Saved post to dashboard: TAUR THE ASIAN UNION OF REGIMENTSTAUR THE ASIAN UNION OF REGIMENTS - Total posts: 29
+2026-03-12 19:37:15,153 [INFO] Extracted post 30/100: urn:li:activity:7437122750315421696 by Afroza Siddiqua LuckyAfroza Siddiqua Lucky
+2026-03-12 19:37:15,165 [INFO] Saved post to dashboard: Afroza Siddiqua LuckyAfroza Siddiqua Lucky - Total posts: 30
+2026-03-12 19:37:15,214 [INFO] Extracted post 31/100: urn:li:activity:7374343088280035328 by Kanishk DawarKanishk Dawar
+2026-03-12 19:37:15,227 [INFO] Saved post to dashboard: Kanishk DawarKanishk Dawar - Total posts: 31
+2026-03-12 19:37:15,280 [INFO] Extracted post 32/100: urn:li:activity:7437638491792048128 by Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa
+2026-03-12 19:37:15,292 [INFO] Saved post to dashboard: Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa - Total posts: 32
+2026-03-12 19:37:15,292 [INFO] Scroll 13/50 for 'Kanishk SP' - Collected: 32/100
+2026-03-12 19:37:17,141 [INFO] Clicked 'Show more' button.
+2026-03-12 19:37:18,141 [INFO] Scroll 14/50 for 'Kanishk SP' - Collected: 32/100
+2026-03-12 19:37:19,888 [INFO] Extracted post 33/100: urn:li:activity:7437434109024636929 by GreyBrainerGreyBrainer
+2026-03-12 19:37:19,901 [INFO] Saved post to dashboard: GreyBrainerGreyBrainer - Total posts: 33
+2026-03-12 19:37:19,945 [INFO] Extracted post 34/100: urn:li:activity:7437288142124113920 by Vivek Chandra AwasthiVivek Chandra Awasthi
+2026-03-12 19:37:19,958 [INFO] Saved post to dashboard: Vivek Chandra AwasthiVivek Chandra Awasthi - Total posts: 34
+2026-03-12 19:37:20,013 [INFO] Extracted post 35/100: urn:li:activity:7437454012301385728 by Mufti Mohtasham AliMufti Mohtasham Ali
+2026-03-12 19:37:20,031 [INFO] Saved post to dashboard: Mufti Mohtasham AliMufti Mohtasham Ali - Total posts: 35
+2026-03-12 19:37:20,031 [INFO] Scroll 15/50 for 'Kanishk SP' - Collected: 35/100
+2026-03-12 19:37:22,582 [INFO] Extracted post 36/100: urn:li:activity:7437638491607502849 by Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa
+2026-03-12 19:37:22,603 [INFO] Saved post to dashboard: Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa - Total posts: 36
+2026-03-12 19:37:22,665 [INFO] Extracted post 37/100: urn:li:activity:7437785281212170240 by Dainik SarokarDainik Sarokar
+2026-03-12 19:37:22,681 [INFO] Saved post to dashboard: Dainik SarokarDainik Sarokar - Total posts: 37
+2026-03-12 19:37:22,729 [INFO] Extracted post 38/100: urn:li:activity:7394247748650373121 by Nalanda IAS AcademyNalanda IAS Academy
+2026-03-12 19:37:22,744 [INFO] Saved post to dashboard: Nalanda IAS AcademyNalanda IAS Academy - Total posts: 38
+2026-03-12 19:37:22,744 [INFO] Scroll 16/50 for 'Kanishk SP' - Collected: 38/100
+2026-03-12 19:37:25,482 [INFO] Clicked 'Show more' button.
+2026-03-12 19:37:26,483 [INFO] Scroll 17/50 for 'Kanishk SP' - Collected: 38/100
+2026-03-12 19:37:28,573 [INFO] Extracted post 39/100: urn:li:activity:7401918877687021568 by Kanishk KumarKanishk Kumar
+2026-03-12 19:37:28,589 [INFO] Saved post to dashboard: Kanishk KumarKanishk Kumar - Total posts: 39
+2026-03-12 19:37:28,639 [INFO] Extracted post 40/100: urn:li:activity:7437815672937586688 by Swadesh JyotiSwadesh Jyoti
+2026-03-12 19:37:28,652 [INFO] Saved post to dashboard: Swadesh JyotiSwadesh Jyoti - Total posts: 40
+2026-03-12 19:37:28,701 [INFO] Extracted post 41/100: urn:li:activity:7437276103943090176 by Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa
+2026-03-12 19:37:28,713 [INFO] Saved post to dashboard: Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa - Total posts: 41
+2026-03-12 19:37:28,767 [INFO] Extracted post 42/100: urn:li:activity:6970622506999181314 by Priyanka RoutPriyanka Rout
+2026-03-12 19:37:28,779 [INFO] Saved post to dashboard: Priyanka RoutPriyanka Rout - Total posts: 42
+2026-03-12 19:37:28,826 [INFO] Extracted post 43/100: urn:li:activity:7390456776841707520 by Kanishk DawarKanishk Dawar
+2026-03-12 19:37:28,840 [INFO] Saved post to dashboard: Kanishk DawarKanishk Dawar - Total posts: 43
+2026-03-12 19:37:28,897 [INFO] Extracted post 44/100: urn:li:activity:7437687080597712896 by Vivek Chandra AwasthiVivek Chandra Awasthi
+2026-03-12 19:37:28,911 [INFO] Saved post to dashboard: Vivek Chandra AwasthiVivek Chandra Awasthi - Total posts: 44
+2026-03-12 19:37:28,911 [INFO] Scroll 18/50 for 'Kanishk SP' - Collected: 44/100
+2026-03-12 19:37:31,584 [INFO] Extracted post 45/100: urn:li:activity:7437771709807497216 by Gaurav GautamGaurav Gautam
+2026-03-12 19:37:31,601 [INFO] Saved post to dashboard: Gaurav GautamGaurav Gautam - Total posts: 45
+2026-03-12 19:37:31,673 [INFO] Extracted post 46/100: urn:li:activity:7437464016811143168 by Ministry of Rural Development, GoIMinistry of Rural Development, GoI
+2026-03-12 19:37:31,688 [INFO] Saved post to dashboard: Ministry of Rural Development, GoIMinistry of Rural Development, GoI - Total posts: 46
+2026-03-12 19:37:31,802 [INFO] Extracted post 47/100: urn:li:activity:7385997806781718528 by Kanishk KumarKanishk Kumar
+2026-03-12 19:37:31,819 [INFO] Saved post to dashboard: Kanishk KumarKanishk Kumar - Total posts: 47
+2026-03-12 19:37:31,819 [INFO] Scroll 19/50 for 'Kanishk SP' - Collected: 47/100
+2026-03-12 19:37:33,809 [INFO] Clicked 'Show more' button.
+2026-03-12 19:37:34,810 [INFO] Scroll 20/50 for 'Kanishk SP' - Collected: 47/100
+2026-03-12 19:37:37,081 [INFO] Extracted post 48/100: urn:li:activity:7437705025981952000 by Tania SinhaTania Sinha
+2026-03-12 19:37:37,094 [INFO] Saved post to dashboard: Tania SinhaTania Sinha - Total posts: 48
+2026-03-12 19:37:37,144 [INFO] Extracted post 49/100: urn:li:activity:7437295822473502720 by Vivek Chandra AwasthiVivek Chandra Awasthi
+2026-03-12 19:37:37,156 [INFO] Saved post to dashboard: Vivek Chandra AwasthiVivek Chandra Awasthi - Total posts: 49
+2026-03-12 19:37:37,200 [INFO] Extracted post 50/100: urn:li:activity:7437135775919603712 by Adrishy Apaar FoundationAdrishy Apaar Foundation
+2026-03-12 19:37:37,212 [INFO] Saved post to dashboard: Adrishy Apaar FoundationAdrishy Apaar Foundation - Total posts: 50
+2026-03-12 19:37:37,212 [INFO] Scroll 21/50 for 'Kanishk SP' - Collected: 50/100
+2026-03-12 19:37:39,526 [INFO] Extracted post 51/100: urn:li:activity:7317343336825069569 by Find WizardFind Wizard
+2026-03-12 19:37:39,546 [INFO] Saved post to dashboard: Find WizardFind Wizard - Total posts: 51
+2026-03-12 19:37:39,615 [INFO] Extracted post 52/100: urn:li:activity:7437429634524237824 by Mohd AasifMohd Aasif
+2026-03-12 19:37:39,651 [INFO] Saved post to dashboard: Mohd AasifMohd Aasif - Total posts: 52
+2026-03-12 19:37:39,707 [INFO] Extracted post 53/100: urn:li:activity:7437762995382005760 by Swadesh JyotiSwadesh Jyoti
+2026-03-12 19:37:39,727 [INFO] Saved post to dashboard: Swadesh JyotiSwadesh Jyoti - Total posts: 53
+2026-03-12 19:37:39,728 [INFO] Scroll 22/50 for 'Kanishk SP' - Collected: 53/100
+2026-03-12 19:37:42,401 [INFO] Clicked 'Show more' button.
+2026-03-12 19:37:43,402 [INFO] Scroll 23/50 for 'Kanishk SP' - Collected: 53/100
+2026-03-12 19:37:46,391 [INFO] Extracted post 54/100: urn:li:activity:7437546511510478848 by Indu Bhushan SinhaIndu Bhushan Sinha
+2026-03-12 19:37:46,414 [INFO] Saved post to dashboard: Indu Bhushan SinhaIndu Bhushan Sinha - Total posts: 54
+2026-03-12 19:37:46,502 [INFO] Extracted post 55/100: urn:li:activity:7437332930047148034 by Manu S NairManu S Nair
+2026-03-12 19:37:46,532 [INFO] Saved post to dashboard: Manu S NairManu S Nair - Total posts: 55
+2026-03-12 19:37:46,644 [INFO] Extracted post 56/100: urn:li:activity:7272677315535413249 by Kashish Chibber SharmaKashish Chibber Sharma
+2026-03-12 19:37:46,659 [INFO] Saved post to dashboard: Kashish Chibber SharmaKashish Chibber Sharma - Total posts: 56
+2026-03-12 19:37:46,659 [INFO] Scroll 24/50 for 'Kanishk SP' - Collected: 56/100
+2026-03-12 19:37:50,936 [INFO] Clicked 'Show more' button.
+2026-03-12 19:37:51,937 [INFO] Scroll 25/50 for 'Kanishk SP' - Collected: 56/100
+2026-03-12 19:37:58,163 [INFO] Extracted post 57/100: urn:li:activity:7146840714188832768 by Atul Kant 🇮🇳🦸🌐Atul Kant 🇮🇳🦸🌐
+2026-03-12 19:37:58,193 [INFO] Saved post to dashboard: Atul Kant 🇮🇳🦸🌐Atul Kant 🇮🇳🦸🌐 - Total posts: 57
+2026-03-12 19:37:58,324 [INFO] Extracted post 58/100: urn:li:activity:7437046376980570112 by Piyush GoyalPiyush Goyal
+2026-03-12 19:37:58,350 [INFO] Saved post to dashboard: Piyush GoyalPiyush Goyal - Total posts: 58
+2026-03-12 19:37:58,461 [INFO] Extracted post 59/100: urn:li:activity:7437846690004430848 by Kasyapa Veda Research FoundationKasyapa Veda Research Foundation
+2026-03-12 19:37:58,482 [INFO] Saved post to dashboard: Kasyapa Veda Research FoundationKasyapa Veda Research Foundation - Total posts: 59
+2026-03-12 19:37:58,617 [INFO] Extracted post 60/100: urn:li:activity:7437424328494755840 by ✧ ANIL ADHIKARI ✧✧ ANIL ADHIKARI ✧
+2026-03-12 19:37:58,648 [INFO] Saved post to dashboard: ✧ ANIL ADHIKARI ✧✧ ANIL ADHIKARI ✧ - Total posts: 60
+2026-03-12 19:37:58,748 [INFO] Extracted post 61/100: urn:li:activity:7327267318244220928 by Motivational Quotes BDMotivational Quotes BD
+2026-03-12 19:37:58,769 [INFO] Saved post to dashboard: Motivational Quotes BDMotivational Quotes BD - Total posts: 61
+2026-03-12 19:37:58,840 [INFO] Extracted post 62/100: urn:li:activity:6904727379869077504 by Junior Achievement BulgariaJunior Achievement Bulgaria
+2026-03-12 19:37:58,863 [INFO] Saved post to dashboard: Junior Achievement BulgariaJunior Achievement Bulgaria - Total posts: 62
+2026-03-12 19:37:58,863 [INFO] Scroll 26/50 for 'Kanishk SP' - Collected: 62/100
+2026-03-12 19:38:02,621 [INFO] Extracted post 63/100: urn:li:activity:7333171390990168064 by Kanishk KumarKanishk Kumar
+2026-03-12 19:38:02,637 [INFO] Saved post to dashboard: Kanishk KumarKanishk Kumar - Total posts: 63
+2026-03-12 19:38:02,726 [INFO] Extracted post 64/100: urn:li:activity:7006989475188801536 by IMI KolkataIMI Kolkata
+2026-03-12 19:38:02,746 [INFO] Saved post to dashboard: IMI KolkataIMI Kolkata - Total posts: 64
+2026-03-12 19:38:02,833 [INFO] Extracted post 65/100: urn:li:activity:7437328547343441920 by Vivek Chandra AwasthiVivek Chandra Awasthi
+2026-03-12 19:38:02,849 [INFO] Saved post to dashboard: Vivek Chandra AwasthiVivek Chandra Awasthi - Total posts: 65
+2026-03-12 19:38:02,849 [INFO] Scroll 27/50 for 'Kanishk SP' - Collected: 65/100
+2026-03-12 19:38:05,450 [INFO] Extracted post 66/100: urn:li:activity:7437110122763530241 by Kasyapa Veda Research FoundationKasyapa Veda Research Foundation
+2026-03-12 19:38:05,470 [INFO] Saved post to dashboard: Kasyapa Veda Research FoundationKasyapa Veda Research Foundation - Total posts: 66
+2026-03-12 19:38:05,572 [INFO] Extracted post 67/100: urn:li:activity:6985187985793191936 by Sama Creative & Production HouseSama Creative & Production House
+2026-03-12 19:38:05,589 [INFO] Saved post to dashboard: Sama Creative & Production HouseSama Creative & Production House - Total posts: 67
+2026-03-12 19:38:05,675 [INFO] Extracted post 68/100: urn:li:activity:7437379408526675969 by Dayashankar SharmaDayashankar Sharma
+2026-03-12 19:38:05,696 [INFO] Saved post to dashboard: Dayashankar SharmaDayashankar Sharma - Total posts: 68
+2026-03-12 19:38:05,696 [INFO] Scroll 28/50 for 'Kanishk SP' - Collected: 68/100
+2026-03-12 19:38:09,401 [INFO] Clicked 'Show more' button.
+2026-03-12 19:38:10,402 [INFO] Scroll 29/50 for 'Kanishk SP' - Collected: 68/100
+2026-03-12 19:38:13,031 [INFO] Extracted post 69/100: urn:li:activity:7180448027218702336 by Ramoji GowdaRamoji Gowda
+2026-03-12 19:38:13,047 [INFO] Saved post to dashboard: Ramoji GowdaRamoji Gowda - Total posts: 69
+2026-03-12 19:38:13,106 [INFO] Extracted post 70/100: urn:li:activity:7437523859177910273 by Khim Lal DevkotaKhim Lal Devkota
+2026-03-12 19:38:13,122 [INFO] Saved post to dashboard: Khim Lal DevkotaKhim Lal Devkota - Total posts: 70
+2026-03-12 19:38:13,186 [INFO] Extracted post 71/100: urn:li:activity:6966753752431169536 by Asavi®Asavi®
+2026-03-12 19:38:13,202 [INFO] Saved post to dashboard: Asavi®Asavi® - Total posts: 71
+2026-03-12 19:38:13,267 [INFO] Extracted post 72/100: urn:li:activity:7437476823913037824 by Ishita TavadiaIshita Tavadia
+2026-03-12 19:38:13,283 [INFO] Saved post to dashboard: Ishita TavadiaIshita Tavadia - Total posts: 72
+2026-03-12 19:38:13,338 [INFO] Extracted post 73/100: urn:li:activity:7281285730050392065 by Thenkailai ParvathamThenkailai Parvatham
+2026-03-12 19:38:13,354 [INFO] Saved post to dashboard: Thenkailai ParvathamThenkailai Parvatham - Total posts: 73
+2026-03-12 19:38:13,452 [INFO] Extracted post 74/100: urn:li:activity:7437112524099203072 by Inturi harika DeviInturi harika Devi
+2026-03-12 19:38:13,475 [INFO] Saved post to dashboard: Inturi harika DeviInturi harika Devi - Total posts: 74
+2026-03-12 19:38:13,476 [INFO] Scroll 30/50 for 'Kanishk SP' - Collected: 74/100
+2026-03-12 19:38:17,113 [INFO] Extracted post 75/100: urn:li:activity:7437099049935151104 by Vivek Chandra AwasthiVivek Chandra Awasthi
+2026-03-12 19:38:17,134 [INFO] Saved post to dashboard: Vivek Chandra AwasthiVivek Chandra Awasthi - Total posts: 75
+2026-03-12 19:38:17,205 [INFO] Extracted post 76/100: urn:li:activity:7271093673168138241 by ProductPlan.ir | پروداکت پلنProductPlan.ir | پروداکت پلن
+2026-03-12 19:38:17,222 [INFO] Saved post to dashboard: ProductPlan.ir | پروداکت پلنProductPlan.ir | پروداکت پلن - Total posts: 76
+2026-03-12 19:38:17,277 [INFO] Extracted post 77/100: urn:li:activity:7437312532656123904 by Aalok KumarAalok Kumar
+2026-03-12 19:38:17,293 [INFO] Saved post to dashboard: Aalok KumarAalok Kumar - Total posts: 77
+2026-03-12 19:38:17,293 [INFO] Scroll 31/50 for 'Kanishk SP' - Collected: 77/100
+2026-03-12 19:38:22,150 [INFO] Clicked 'Show more' button.
+2026-03-12 19:38:23,150 [INFO] Scroll 32/50 for 'Kanishk SP' - Collected: 77/100
+2026-03-12 19:38:27,704 [INFO] Extracted post 78/100: urn:li:activity:7275132719242600450 by Thenkailai ParvathamThenkailai Parvatham
+2026-03-12 19:38:27,726 [INFO] Saved post to dashboard: Thenkailai ParvathamThenkailai Parvatham - Total posts: 78
+2026-03-12 19:38:27,819 [INFO] Extracted post 79/100: urn:li:activity:7437006574369370112 by Swati PanchalSwati Panchal
+2026-03-12 19:38:27,840 [INFO] Saved post to dashboard: Swati PanchalSwati Panchal - Total posts: 79
+2026-03-12 19:38:27,943 [INFO] Extracted post 80/100: urn:li:activity:7437524815386746880 by Vivek Chandra AwasthiVivek Chandra Awasthi
+2026-03-12 19:38:27,959 [INFO] Saved post to dashboard: Vivek Chandra AwasthiVivek Chandra Awasthi - Total posts: 80
+2026-03-12 19:38:28,036 [INFO] Extracted post 81/100: urn:li:activity:7437846856719568896 by Sankar KrishnaswamySankar Krishnaswamy
+2026-03-12 19:38:28,053 [INFO] Saved post to dashboard: Sankar KrishnaswamySankar Krishnaswamy - Total posts: 81
+2026-03-12 19:38:28,141 [INFO] Extracted post 82/100: urn:li:activity:7437430607913132032 by Clean Pune SankalpClean Pune Sankalp
+2026-03-12 19:38:28,165 [INFO] Saved post to dashboard: Clean Pune SankalpClean Pune Sankalp - Total posts: 82
+2026-03-12 19:38:28,240 [INFO] Extracted post 83/100: urn:li:activity:7437824253753995264 by The QuintThe Quint
+2026-03-12 19:38:28,257 [INFO] Saved post to dashboard: The QuintThe Quint - Total posts: 83
+2026-03-12 19:38:28,257 [INFO] Scroll 33/50 for 'Kanishk SP' - Collected: 83/100
+2026-03-12 19:38:30,872 [INFO] Extracted post 84/100: urn:li:activity:7437838107888214017 by Daily LankaDaily Lanka
+2026-03-12 19:38:30,886 [INFO] Saved post to dashboard: Daily LankaDaily Lanka - Total posts: 84
+2026-03-12 19:38:30,951 [INFO] Extracted post 85/100: urn:li:activity:7320436563727855617 by Rizwana UmerRizwana Umer
+2026-03-12 19:38:30,970 [INFO] Saved post to dashboard: Rizwana UmerRizwana Umer - Total posts: 85
+2026-03-12 19:38:31,036 [INFO] Extracted post 86/100: urn:li:activity:7437633868641243136 by OBAT HelpersOBAT Helpers
+2026-03-12 19:38:31,054 [INFO] Saved post to dashboard: OBAT HelpersOBAT Helpers - Total posts: 86
+2026-03-12 19:38:31,054 [INFO] Scroll 34/50 for 'Kanishk SP' - Collected: 86/100
+2026-03-12 19:38:35,356 [INFO] Clicked 'Show more' button.
+2026-03-12 19:38:36,357 [INFO] Scroll 35/50 for 'Kanishk SP' - Collected: 86/100
+2026-03-12 19:38:40,045 [INFO] Extracted post 87/100: urn:li:activity:7437699578138865664 by Dr.Shatrughan SinghDr.Shatrughan Singh
+2026-03-12 19:38:40,065 [INFO] Saved post to dashboard: Dr.Shatrughan SinghDr.Shatrughan Singh - Total posts: 87
+2026-03-12 19:38:40,166 [INFO] Extracted post 88/100: urn:li:activity:7283446689498112000 by BITO VoiceBITO Voice
+2026-03-12 19:38:40,188 [INFO] Saved post to dashboard: BITO VoiceBITO Voice - Total posts: 88
+2026-03-12 19:38:40,268 [INFO] Extracted post 89/100: urn:li:activity:6968497029991849984 by Thriving SkillsThriving Skills
+2026-03-12 19:38:40,288 [INFO] Saved post to dashboard: Thriving SkillsThriving Skills - Total posts: 89
+2026-03-12 19:38:40,370 [INFO] Extracted post 90/100: urn:li:activity:7282040048965861377 by Nilok FoundationNilok Foundation
+2026-03-12 19:38:40,398 [INFO] Saved post to dashboard: Nilok FoundationNilok Foundation - Total posts: 90
+2026-03-12 19:38:40,479 [INFO] Extracted post 91/100: urn:li:activity:7394768272505761792 by Kanishk DawarKanishk Dawar
+2026-03-12 19:38:40,501 [INFO] Saved post to dashboard: Kanishk DawarKanishk Dawar - Total posts: 91
+2026-03-12 19:38:40,502 [INFO] Scroll 36/50 for 'Kanishk SP' - Collected: 91/100
+2026-03-12 19:38:44,673 [INFO] Extracted post 92/100: urn:li:activity:7282039822184017921 by BITO VoiceBITO Voice
+2026-03-12 19:38:44,695 [INFO] Saved post to dashboard: BITO VoiceBITO Voice - Total posts: 92
+2026-03-12 19:38:44,798 [INFO] Extracted post 93/100: urn:li:activity:7142390489852301313 by Brilliance CollegeBrilliance College
+2026-03-12 19:38:44,814 [INFO] Saved post to dashboard: Brilliance CollegeBrilliance College - Total posts: 93
+2026-03-12 19:38:44,906 [INFO] Extracted post 94/100: urn:li:activity:6970980949371097088 by Mudita Wellness Clinic by Dr. Shivani KhetanMudita Wellness Clinic by Dr. Shivani Khetan
+2026-03-12 19:38:44,925 [INFO] Saved post to dashboard: Mudita Wellness Clinic by Dr. Shivani KhetanMudita Wellness Clinic by Dr. Shivani Khetan - Total posts: 94
+2026-03-12 19:38:44,926 [INFO] Scroll 37/50 for 'Kanishk SP' - Collected: 94/100
+2026-03-12 19:38:53,891 [INFO] Clicked 'Show more' button.
+2026-03-12 19:38:54,891 [INFO] Scroll 38/50 for 'Kanishk SP' - Collected: 94/100
+2026-03-12 19:38:58,467 [INFO] Extracted post 95/100: urn:li:activity:7250350655318441985 by Dr. Kanishk GaurDr. Kanishk Gaur
+2026-03-12 19:38:58,486 [INFO] Saved post to dashboard: Dr. Kanishk GaurDr. Kanishk Gaur - Total posts: 95
+2026-03-12 19:38:58,555 [INFO] Extracted post 96/100: urn:li:activity:7436990243574067200 by Vinita PandeyVinita Pandey
+2026-03-12 19:38:58,574 [INFO] Saved post to dashboard: Vinita PandeyVinita Pandey - Total posts: 96
+2026-03-12 19:38:58,633 [INFO] Extracted post 97/100: urn:li:activity:7308869476823851009 by Sairam B JSairam B J
+2026-03-12 19:38:58,650 [INFO] Saved post to dashboard: Sairam B JSairam B J - Total posts: 97
+2026-03-12 19:38:58,719 [INFO] Extracted post 98/100: urn:li:activity:7404170588811866114 by Kanav GargKanav Garg
+2026-03-12 19:38:58,743 [INFO] Saved post to dashboard: Kanav GargKanav Garg - Total posts: 98
+2026-03-12 19:38:58,824 [INFO] Extracted post 99/100: urn:li:activity:7356299341042495489 by Kanishk DawarKanishk Dawar
+2026-03-12 19:38:58,841 [INFO] Saved post to dashboard: Kanishk DawarKanishk Dawar - Total posts: 99
+2026-03-12 19:38:58,915 [INFO] Extracted post 100/100: urn:li:activity:7396052866097938432 by Lakshay ChhabraLakshay Chhabra
+2026-03-12 19:38:58,940 [INFO] Saved post to dashboard: Lakshay ChhabraLakshay Chhabra - Total posts: 100
+2026-03-12 19:38:58,941 [INFO] Completed search for 'Kanishk SP': collected 100 posts
+2026-03-12 19:38:59,638 [INFO] Scraping completed.
+2026-03-12 19:38:59,661 [INFO] 
+Total posts collected: 100
+2026-03-12 19:38:59,703 [INFO] CSV saved: ./output\posts_2026-03-12_19-38-59.csv
+2026-03-12 19:38:59,703 [INFO] JSON saved: ./output\posts_2026-03-12_19-38-59.json
+2026-03-12 19:38:59,703 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 19:38:59,714 [INFO] 
+============================================================
+2026-03-12 19:38:59,714 [INFO] EXTRACTION SUMMARY
+2026-03-12 19:38:59,714 [INFO] Total Posts in DB: 438
+2026-03-12 19:38:59,714 [INFO] Likes: 25,435
+2026-03-12 19:38:59,714 [INFO] Comments: 1,825
+2026-03-12 19:38:59,714 [INFO] Reposts: 463
+2026-03-12 19:38:59,714 [INFO] Top Authors:
+2026-03-12 19:38:59,715 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 19:38:59,715 [INFO]   - Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa: 8 posts
+2026-03-12 19:38:59,715 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 19:38:59,715 [INFO]   - Kanishk DawarKanishk Dawar: 6 posts
+2026-03-12 19:38:59,715 [INFO]   - Vivek Chandra AwasthiVivek Chandra Awasthi: 6 posts
+2026-03-12 19:38:59,715 [INFO] ============================================================

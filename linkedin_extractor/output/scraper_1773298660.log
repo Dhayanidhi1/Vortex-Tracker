@@ -1,0 +1,215 @@
+2026-03-12 12:27:41,318 [INFO] Log file: logs\scraper_2026-03-12_12-27-41.log
+2026-03-12 12:27:41,318 [INFO] ============================================================
+2026-03-12 12:27:41,319 [INFO] LinkedIn Post Extractor
+2026-03-12 12:27:41,319 [INFO] Keywords: ['Artificial Intelligence', 'Machine Learning', 'OpenAI', 'ChatGPT']
+2026-03-12 12:27:41,320 [INFO] Time Range: Last 6 months
+2026-03-12 12:27:41,320 [INFO] Output Directory: ./output
+2026-03-12 12:27:41,320 [INFO] ============================================================
+2026-03-12 12:27:42,956 [INFO] Checking login status...
+2026-03-12 12:27:49,110 [INFO] Not logged in. Performing login...
+2026-03-12 12:27:57,877 [WARNING] CAPTCHA, challenge, or manual login detected! Please solve it manually in the browser. Waiting up to 2 minutes...
+2026-03-12 12:28:11,397 [INFO] Login successful. State saved.
+2026-03-12 12:28:11,397 [INFO] Starting search for: Artificial Intelligence
+2026-03-12 12:28:17,724 [INFO] Scrolling page 1/30 for 'Artificial Intelligence'...
+2026-03-12 12:28:24,744 [INFO] Extracted post urn:li:activity:7437748761206067200 by AISSMS IOIT ACM Student ChapterAISSMS IOIT ACM Student Chapter
+2026-03-12 12:28:24,783 [INFO] Extracted post urn:li:activity:7437748748782379008 by Research and Education For Environmental Foundation(REEF)Research and Education For Environmental Foundation(REEF)
+2026-03-12 12:28:24,826 [INFO] Extracted post urn:li:activity:7437748673867894784 by Ravi Visvesvaraya Sharada PrasadRavi Visvesvaraya Sharada Prasad
+2026-03-12 12:28:24,858 [INFO] Extracted post urn:li:activity:7437748640322007040 by Akhona NdlunguaneAkhona Ndlunguane
+2026-03-12 12:28:24,894 [INFO] Extracted post urn:li:activity:7437748615986675712 by Industry Capability Network - VictoriaIndustry Capability Network - Victoria
+2026-03-12 12:28:24,928 [INFO] Extracted post urn:li:activity:7437748606390120448 by Ma. Cecilia TamuraMa. Cecilia Tamura
+2026-03-12 12:28:26,418 [INFO] Clicked 'Show more' button.
+2026-03-12 12:28:29,215 [INFO] Scrolling page 2/30 for 'Artificial Intelligence'...
+2026-03-12 12:28:36,356 [INFO] Extracted post urn:li:activity:7437748541210468352 by Aravind MAravind M
+2026-03-12 12:28:36,394 [INFO] Extracted post urn:li:activity:7437748535263100928 by Madhu Krishna MaddeboinaMadhu Krishna Maddeboina
+2026-03-12 12:28:36,441 [INFO] Extracted post urn:li:activity:7437748531420979200 by Tooba RaniTooba Rani
+2026-03-12 12:28:36,481 [INFO] Extracted post urn:li:activity:7437748522004787200 by Viktoriia BoichenkoViktoriia Boichenko
+2026-03-12 12:28:36,520 [INFO] Extracted post urn:li:activity:7437748516405374976 by Imtiaz UddoullaImtiaz Uddoulla
+2026-03-12 12:28:36,559 [INFO] Extracted post urn:li:activity:7437748505181470720 by Mihai FilipMihai Filip
+2026-03-12 12:28:36,589 [INFO] Extracted post urn:li:activity:7437748473015230464 by Divya BoseDivya Bose
+2026-03-12 12:28:36,620 [INFO] Extracted post urn:li:activity:7437748470586712064 by ReveevReveev
+2026-03-12 12:28:36,659 [INFO] Extracted post urn:li:activity:7437748459849371648 by Precise Intellectual Property LLCPrecise Intellectual Property LLC
+2026-03-12 12:28:40,972 [INFO] Clicked 'Show more' button.
+2026-03-12 12:28:43,389 [INFO] Scrolling page 3/30 for 'Artificial Intelligence'...
+2026-03-12 12:28:49,957 [INFO] Extracted post urn:li:activity:7437748448893886464 by Mata Sahib Kaur College of NursingMata Sahib Kaur College of Nursing
+2026-03-12 12:28:50,054 [INFO] Extracted post urn:li:activity:7437748430585688064 by M.Mohamed AnsarM.Mohamed Ansar
+2026-03-12 12:28:50,139 [INFO] Extracted post urn:li:activity:7437748403029102593 by Rajan SinghRajan Singh
+2026-03-12 12:28:50,221 [INFO] Extracted post urn:li:activity:7437748388835799040 by GyaanSetu AI (Artificial Intelligence)GyaanSetu AI (Artificial Intelligence)
+2026-03-12 12:28:50,321 [INFO] Extracted post urn:li:activity:7437748383198650369 by Tehreem RaufTehreem Rauf
+2026-03-12 12:28:50,389 [INFO] Extracted post urn:li:activity:7437748353293250560 by Victoria (Hwa-Young) Lee, CPAVictoria (Hwa-Young) Lee, CPA
+2026-03-12 12:28:50,486 [INFO] Extracted post urn:li:activity:7437748349069602816 by Gopal DheerGopal Dheer
+2026-03-12 12:28:50,569 [INFO] Extracted post urn:li:activity:7437748317377224704 by CEDORIASE ACADEMY FOR ARTIFICIAL INTELLIGENCECEDORIASE ACADEMY FOR ARTIFICIAL INTELLIGENCE
+2026-03-12 12:28:50,650 [INFO] Extracted post urn:li:activity:7437748383014060032 by GyaanSetu AI (Artificial Intelligence)GyaanSetu AI (Artificial Intelligence)
+2026-03-12 12:28:50,722 [INFO] Extracted post urn:li:activity:7437748301178978304 by アメリカ人事　Norikazu Yamaguchi, MBA, SHRM-SCPアメリカ人事　Norikazu Yamaguchi, MBA, SHRM-SCP
+2026-03-12 12:28:50,840 [INFO] Extracted post urn:li:activity:7437748236041338880 by Qum NewsQum News
+2026-03-12 12:28:50,909 [INFO] Extracted post urn:li:activity:7437748198665842688 by Victoria (Hwa-Young) Lee, CPAVictoria (Hwa-Young) Lee, CPA
+2026-03-12 12:28:54,255 [INFO] Clicked 'Show more' button.
+2026-03-12 12:28:57,173 [INFO] Scrolling page 4/30 for 'Artificial Intelligence'...
+2026-03-12 12:29:05,272 [INFO] Extracted post urn:li:activity:7437748192231763969 by Safi Rani ThayalSafi Rani Thayal
+2026-03-12 12:29:05,320 [INFO] Extracted post urn:li:activity:7437748377490083841 by GyaanSetu AI (Artificial Intelligence)GyaanSetu AI (Artificial Intelligence)
+2026-03-12 12:29:05,363 [INFO] Extracted post urn:li:activity:7437748194186436609 by Abdus samad ShaikhAbdus samad Shaikh
+2026-03-12 12:29:05,403 [INFO] Extracted post urn:li:activity:7437748162200547328 by Monisha A.Monisha A.
+2026-03-12 12:29:05,441 [INFO] Extracted post urn:li:activity:7437748162313977856 by MedTransitMedTransit
+2026-03-12 12:29:05,474 [INFO] Extracted post urn:li:activity:7437748130357600257 by Mohd BilalMohd Bilal
+2026-03-12 12:29:05,519 [INFO] Extracted post urn:li:activity:7437748372846841856 by GyaanSetu AI (Artificial Intelligence)GyaanSetu AI (Artificial Intelligence)
+2026-03-12 12:29:05,565 [INFO] Extracted post urn:li:activity:7437748018692583425 by Pedro BarrenecheaPedro Barrenechea
+2026-03-12 12:29:05,610 [INFO] Extracted post urn:li:activity:7437748003475607552 by Sridhivya MSridhivya M
+2026-03-12 12:29:07,334 [INFO] Clicked 'Show more' button.
+2026-03-12 12:29:10,899 [INFO] Scrolling page 5/30 for 'Artificial Intelligence'...
+2026-03-12 12:29:18,999 [INFO] Extracted post urn:li:activity:7437747996441804800 by Thodime RajagopalreddyThodime Rajagopalreddy
+2026-03-12 12:29:19,043 [INFO] Extracted post urn:li:activity:7437747906968768512 by Artificial Intelligence Developers For HireArtificial Intelligence Developers For Hire
+2026-03-12 12:29:19,077 [INFO] Extracted post urn:li:activity:7437747880603557888 by Nurgül DURMUŞ ŞENYAPARNurgül DURMUŞ ŞENYAPAR
+2026-03-12 12:29:19,125 [INFO] Extracted post urn:li:activity:7437747865684279297 by Pi Green Innovations Pvt. Ltd.Pi Green Innovations Pvt. Ltd.
+2026-03-12 12:29:19,157 [INFO] Extracted post urn:li:activity:7437747863729692672 by FinperformFinperform
+2026-03-12 12:29:19,198 [INFO] Extracted post urn:li:activity:7437747820197007360 by Sivagiri SSivagiri S
+2026-03-12 12:29:20,334 [INFO] Clicked 'Show more' button.
+2026-03-12 12:29:24,724 [INFO] Scrolling page 6/30 for 'Artificial Intelligence'...
+2026-03-12 12:29:31,470 [INFO] Extracted post urn:li:activity:7437747814530707457 by Supriya NarayanSupriya Narayan
+2026-03-12 12:29:31,526 [INFO] Extracted post urn:li:activity:7437747725275811840 by Dept. Of Artificial Intelligence And Machine Learning -Dr.AITDept. Of Artificial Intelligence And Machine Learning -Dr.AIT
+2026-03-12 12:29:31,572 [INFO] Extracted post urn:li:activity:7437747685119639552 by Pedro BarrenecheaPedro Barrenechea
+2026-03-12 12:29:31,613 [INFO] Extracted post urn:li:activity:7437747650336231424 by Fahye MalanoFahye Malano
+2026-03-12 12:29:31,665 [INFO] Extracted post urn:li:activity:7437747635345629184 by Nishi ShafeeqNishi Shafeeq
+2026-03-12 12:29:31,709 [INFO] Extracted post urn:li:activity:7437747550545244161 by QUEN JECYKHA YANEZ-ESTRERAQUEN JECYKHA YANEZ-ESTRERA
+2026-03-12 12:29:33,179 [INFO] Clicked 'Show more' button.
+2026-03-12 12:29:36,444 [INFO] Scrolling page 7/30 for 'Artificial Intelligence'...
+2026-03-12 12:29:44,366 [INFO] Extracted post urn:li:activity:7437747502658994177 by Logiq GenLogiq Gen
+2026-03-12 12:29:44,423 [INFO] Extracted post urn:li:activity:7437747470639448064 by Shreya patelShreya patel
+2026-03-12 12:29:44,478 [INFO] Extracted post urn:li:activity:7437747460854370304 by CEDORIASE ACADEMY FOR ARTIFICIAL INTELLIGENCECEDORIASE ACADEMY FOR ARTIFICIAL INTELLIGENCE
+2026-03-12 12:29:44,523 [INFO] Extracted post urn:li:activity:7437747451375267840 by jennibeth tistonjennibeth tiston
+2026-03-12 12:29:44,573 [INFO] Extracted post urn:li:activity:7437747440071438336 by Malaysian Association of Science and Engineering TechnologyMalaysian Association of Science and Engineering Technology
+2026-03-12 12:29:44,622 [INFO] Extracted post urn:li:activity:7437747366256078848 by SkillActzSkillActz
+2026-03-12 12:29:46,256 [INFO] Clicked 'Show more' button.
+2026-03-12 12:29:50,850 [INFO] Scrolling page 8/30 for 'Artificial Intelligence'...
+2026-03-12 12:29:58,815 [INFO] Extracted post urn:li:activity:7437747363038793729 by Jitendra Narayan GuptaJitendra Narayan Gupta
+2026-03-12 12:29:58,854 [INFO] Extracted post urn:li:activity:7437747316138127360 by Abhay NeekhraAbhay Neekhra
+2026-03-12 12:29:58,898 [INFO] Extracted post urn:li:activity:7437747290553061376 by ETBFSIETBFSI
+2026-03-12 12:29:58,944 [INFO] Extracted post urn:li:activity:7437747275105234945 by Bouzidi OussamaBouzidi Oussama
+2026-03-12 12:29:58,987 [INFO] Extracted post urn:li:activity:7437747236106768384 by Kristy van HorckKristy van Horck
+2026-03-12 12:29:59,040 [INFO] Extracted post urn:li:activity:7437747125238546432 by Narendra Singh KushwahaNarendra Singh Kushwaha
+2026-03-12 12:29:59,097 [INFO] Extracted post urn:li:activity:7437747117508681728 by Indian Broadcasting WorldIndian Broadcasting World
+2026-03-12 12:29:59,154 [INFO] Extracted post urn:li:activity:7437747120813621249 by Sathya NarayananSathya Narayanan
+2026-03-12 12:29:59,198 [INFO] Extracted post urn:li:activity:7437747057492344832 by AYESHA AVIPSA SWAINAYESHA AVIPSA SWAIN
+2026-03-12 12:29:59,661 [INFO] Clicked 'Show more' button.
+2026-03-12 12:30:03,255 [INFO] Scrolling page 9/30 for 'Artificial Intelligence'...
+2026-03-12 12:30:11,476 [INFO] Extracted post urn:li:activity:7437747048067670017 by Rashmi K. SinghRashmi K. Singh
+2026-03-12 12:30:11,531 [INFO] Extracted post urn:li:activity:7437747030896275457 by Michael DarbyMichael Darby
+2026-03-12 12:30:11,589 [INFO] Extracted post urn:li:activity:7437747018552295424 by Trinity SkillWorks Private LimitedTrinity SkillWorks Private Limited
+2026-03-12 12:30:11,637 [INFO] Extracted post urn:li:activity:7437746995278229504 by Sayuri MoodliarSayuri Moodliar
+2026-03-12 12:30:11,679 [INFO] Extracted post urn:li:activity:7437746988667793408 by Musab Wali KhanMusab Wali Khan
+2026-03-12 12:30:11,721 [INFO] Extracted post urn:li:activity:7437746977200734208 by STAVRIDIS GROUPSTAVRIDIS GROUP
+2026-03-12 12:30:11,768 [INFO] Extracted post urn:li:activity:7437746956392640512 by Rowen Pillai CA (SA), MBA (Cum Laude), BIDA™, PD (SA), Lean-AI ExpertRowen Pillai CA (SA), MBA (Cum Laude), BIDA™, PD (SA), Lean-AI Expert
+2026-03-12 12:30:11,816 [INFO] Extracted post urn:li:activity:7437746944430477312 by kata Lakshmi srijakata Lakshmi srija
+2026-03-12 12:30:11,860 [INFO] Extracted post urn:li:activity:7437746890160459776 by AibiztechnologiesAibiztechnologies
+2026-03-12 12:30:12,420 [INFO] Clicked 'Show more' button.
+2026-03-12 12:30:16,936 [INFO] Scrolling page 10/30 for 'Artificial Intelligence'...
+2026-03-12 12:30:24,415 [INFO] Extracted post urn:li:activity:7437746832790728704 by Chattu SrilakshmiChattu Srilakshmi
+2026-03-12 12:30:24,455 [INFO] Extracted post urn:li:activity:7437746824695701504 by Brussels SignalBrussels Signal
+2026-03-12 12:30:24,496 [INFO] Extracted post urn:li:activity:7437746791623831552 by Janice Marie Collins, Ph.D.Janice Marie Collins, Ph.D.
+2026-03-12 12:30:24,539 [INFO] Extracted post urn:li:activity:7437746780789825536 by Terrell Hull, MSIM, PMPTerrell Hull, MSIM, PMP
+2026-03-12 12:30:24,586 [INFO] Extracted post urn:li:activity:7437746777597992960 by Global Information Technology Artificial Intelligence LeadershipGlobal Information Technology Artificial Intelligence Leadership
+2026-03-12 12:30:24,625 [INFO] Extracted post urn:li:activity:7437746764553551872 by University of Liverpool, BengaluruUniversity of Liverpool, Bengaluru
+2026-03-12 12:30:24,886 [INFO] Clicked 'Show more' button.
+2026-03-12 12:30:28,731 [INFO] Scrolling page 11/30 for 'Artificial Intelligence'...
+2026-03-12 12:30:36,899 [INFO] Extracted post urn:li:activity:7437746751748476928 by Advanced Technologies & Treatments for Diabetes (ATTD)Advanced Technologies & Treatments for Diabetes (ATTD)
+2026-03-12 12:30:36,951 [INFO] Extracted post urn:li:activity:7437746736015515648 by Laskenta Technologies LimitedLaskenta Technologies Limited
+2026-03-12 12:30:36,997 [INFO] Extracted post urn:li:activity:7437746732370837504 by Ekemini SamuelEkemini Samuel
+2026-03-12 12:30:37,043 [INFO] Extracted post urn:li:activity:7437746729208143873 by Naison MarufuNaison Marufu
+2026-03-12 12:30:37,090 [INFO] Extracted post urn:li:activity:7437746729522778112 by Lester Limjoco, CLDPLester Limjoco, CLDP
+2026-03-12 12:30:37,139 [INFO] Extracted post urn:li:activity:7437746729535320064 by Faith AlabiFaith Alabi
+2026-03-12 12:31:00,884 [INFO] Clicked 'Show more' button.
+2026-03-12 12:31:04,017 [INFO] Scrolling page 12/30 for 'Artificial Intelligence'...
+2026-03-12 12:31:14,197 [INFO] Extracted post urn:li:activity:7437746723512496128 by TechArenaTechArena
+2026-03-12 12:31:14,262 [INFO] Extracted post urn:li:activity:7437746719628361728 by Code Vibe InnovationCode Vibe Innovation
+2026-03-12 12:31:14,330 [INFO] Extracted post urn:li:activity:7437746714792566785 by Alexandre MARTIN ✨ Modernity as a means of survival 🤖Alexandre MARTIN ✨ Modernity as a means of survival 🤖
+2026-03-12 12:31:14,395 [INFO] Extracted post urn:li:activity:7437746715467653120 by Suhas RameshSuhas Ramesh
+2026-03-12 12:31:14,462 [INFO] Extracted post urn:li:activity:7437746707708338178 by Muhammad ZainulabdeenMuhammad Zainulabdeen
+2026-03-12 12:31:14,528 [INFO] Extracted post urn:li:activity:7437746703304224768 by ANJUMA PATANANJUMA PATAN
+2026-03-12 12:31:14,590 [INFO] Extracted post urn:li:activity:7437746705116123136 by code vibe innovationcode vibe innovation
+2026-03-12 12:31:14,664 [INFO] Extracted post urn:li:activity:7437746705313468416 by Michaël LEBRETONMichaël LEBRETON
+2026-03-12 12:31:14,723 [INFO] Extracted post urn:li:activity:7437746706072391680 by Vertiv AsiaVertiv Asia
+2026-03-12 12:31:14,782 [INFO] Extracted post urn:li:activity:7437746653241106432 by Pernas ResearchPernas Research
+2026-03-12 12:31:14,850 [INFO] Extracted post urn:li:activity:7437746654230929408 by Ashish ShindeAshish Shinde
+2026-03-12 12:31:14,927 [INFO] Extracted post urn:li:activity:7437746648337977344 by Zorawar PurohitZorawar Purohit
+2026-03-12 12:31:14,993 [INFO] Extracted post urn:li:activity:7437746632714067969 by The Research World (Threws)The Research World (Threws)
+2026-03-12 12:31:15,058 [INFO] Extracted post urn:li:activity:7437746622228365312 by CEDORIASE ACADEMY FOR ARTIFICIAL INTELLIGENCECEDORIASE ACADEMY FOR ARTIFICIAL INTELLIGENCE
+2026-03-12 12:31:15,137 [INFO] Extracted post urn:li:activity:7437746565571788801 by Aryan GaurAryan Gaur
+2026-03-12 12:31:15,198 [INFO] Extracted post urn:li:activity:7437746502292340736 by Kateel Ashok Pai Memorial College - KAPMCKateel Ashok Pai Memorial College - KAPMC
+2026-03-12 12:31:15,262 [INFO] Extracted post urn:li:activity:7437746502623535104 by Biswanath SutarBiswanath Sutar
+2026-03-12 12:31:15,335 [INFO] Extracted post urn:li:activity:7437746469862006784 by Beryl JohnBeryl John
+2026-03-12 12:31:15,392 [INFO] Extracted post urn:li:activity:7437746448818974720 by Andrian SulistyonoAndrian Sulistyono
+2026-03-12 12:31:15,466 [INFO] Extracted post urn:li:activity:7437746436739608576 by Sathvika MedabalimiSathvika Medabalimi
+2026-03-12 12:31:15,524 [INFO] Extracted post urn:li:activity:7437746380263301120 by Vedika YadavVedika Yadav
+2026-03-12 12:31:15,585 [INFO] Extracted post urn:li:activity:7437746260746539008 by Joshua DuranJoshua Duran
+2026-03-12 12:31:15,657 [INFO] Extracted post urn:li:activity:7437746226751590401 by Hyena Information Technologies Pvt LtdHyena Information Technologies Pvt Ltd
+2026-03-12 12:31:15,720 [INFO] Extracted post urn:li:activity:7437746221949206528 by Mircea RuszMircea Rusz
+2026-03-12 12:31:15,789 [INFO] Extracted post urn:li:activity:7437746215758241793 by Chetan SahuChetan Sahu
+2026-03-12 12:31:15,866 [INFO] Extracted post urn:li:activity:7437746217524051968 by Kalyani GadadeKalyani Gadade
+2026-03-12 12:31:15,936 [INFO] Extracted post urn:li:activity:7437746180983320576 by Pallab KarmakarPallab Karmakar
+2026-03-12 12:31:15,994 [INFO] Extracted post urn:li:activity:7437746181734281216 by ACN NewswireACN Newswire
+2026-03-12 12:31:16,049 [INFO] Extracted post urn:li:activity:7437746114931507200 by Harish Kumar DevarakondaHarish Kumar Devarakonda
+2026-03-12 12:31:16,103 [INFO] Extracted post urn:li:activity:7437746108417716224 by Pauline Desfontaines 🦊Pauline Desfontaines 🦊
+2026-03-12 12:31:16,170 [INFO] Extracted post urn:li:activity:7437746110640709633 by Computational Intelligence Research FoundationComputational Intelligence Research Foundation
+2026-03-12 12:31:16,220 [INFO] Extracted post urn:li:activity:7437746075190419456 by Abhishek J. RaiAbhishek J. Rai
+2026-03-12 12:31:16,275 [INFO] Extracted post urn:li:activity:7437746055838060544 by launchlabs Sofialaunchlabs Sofia
+2026-03-12 12:31:26,215 [INFO] Clicked 'Show more' button.
+2026-03-12 12:31:31,900 [INFO] Scrolling page 13/30 for 'Artificial Intelligence'...
+2026-03-12 12:31:41,687 [INFO] Extracted post urn:li:activity:7437746044517400576 by Linke WireLinke Wire
+2026-03-12 12:31:41,757 [INFO] Extracted post urn:li:activity:7437745963940724736 by Laith HussieneLaith Hussiene
+2026-03-12 12:31:41,823 [INFO] Extracted post urn:li:activity:7437745942197538816 by Meet JoshiMeet Joshi
+2026-03-12 12:31:41,893 [INFO] Extracted post urn:li:activity:7437745927072747520 by Aman KumarAman Kumar
+2026-03-12 12:31:41,961 [INFO] Extracted post urn:li:activity:7437745888367792130 by SightsIn PlusSightsIn Plus
+2026-03-12 12:31:42,025 [INFO] Extracted post urn:li:activity:7437745884014125056 by Insightful Professionals Academy (IPA)Insightful Professionals Academy (IPA)
+2026-03-12 12:31:42,088 [INFO] Extracted post urn:li:activity:7437745823679086592 by Karnataka JobsKarnataka Jobs
+2026-03-12 12:31:42,142 [INFO] Extracted post urn:li:activity:7437745824035586048 by Thomas ClöerThomas Clöer
+2026-03-12 12:31:42,204 [INFO] Extracted post urn:li:activity:7437745813033893889 by Saurav KumarSaurav Kumar
+2026-03-12 12:31:42,286 [INFO] Extracted post urn:li:activity:7437745769241260032 by Startup KarunaduStartup Karunadu
+2026-03-12 12:31:42,343 [INFO] Extracted post urn:li:activity:7437745759330054144 by FRANCISCO GARCIAFRANCISCO GARCIA
+2026-03-12 12:31:42,402 [INFO] Extracted post urn:li:activity:7437745759560794112 by Sunway University School of Computing and Artificial Intelligence (SCAI)Sunway University School of Computing and Artificial Intelligence (SCAI)
+2026-03-12 12:31:42,462 [INFO] Extracted post urn:li:activity:7437745709455532033 by Joever MoncedaJoever Monceda
+2026-03-12 12:31:42,517 [INFO] Extracted post urn:li:activity:7437745708008632320 by Ashutosh PandaAshutosh Panda
+2026-03-12 12:31:42,576 [INFO] Extracted post urn:li:activity:7437745651506974720 by Risha. D.v.Risha. D.v.
+2026-03-12 12:31:43,350 [INFO] Clicked 'Show more' button.
+2026-03-12 12:31:47,371 [INFO] Scrolling page 14/30 for 'Artificial Intelligence'...
+2026-03-12 12:31:57,677 [INFO] Extracted post urn:li:activity:7437745634478202880 by Higher Innovation AcademyHigher Innovation Academy
+2026-03-12 12:31:57,729 [INFO] Extracted post urn:li:activity:7437745619944968192 by Juned QureshiJuned Qureshi
+2026-03-12 12:31:57,782 [INFO] Extracted post urn:li:activity:7437745605642342400 by Ritika SrivastavaRitika Srivastava
+2026-03-12 12:31:57,835 [INFO] Extracted post urn:li:activity:7437745587153924097 by Dr. S. Aarif AhamedDr. S. Aarif Ahamed
+2026-03-12 12:31:57,890 [INFO] Extracted post urn:li:activity:7437745580283523072 by Emily BellEmily Bell
+2026-03-12 12:31:57,947 [INFO] Extracted post urn:li:activity:7437745530094440448 by Yeonseok JeongYeonseok Jeong
+2026-03-12 12:31:58,553 [INFO] Clicked 'Show more' button.
+2026-03-12 12:32:04,432 [INFO] Scrolling page 15/30 for 'Artificial Intelligence'...
+2026-03-12 12:32:14,040 [INFO] Extracted post urn:li:activity:7437745518409097216 by Shivaani AggarwalShivaani Aggarwal
+2026-03-12 12:32:14,114 [INFO] Extracted post urn:li:activity:7437745506132582400 by TalentGumTalentGum
+2026-03-12 12:32:14,206 [INFO] Extracted post urn:li:activity:7437745396543811585 by Wealth Management Cube LtdWealth Management Cube Ltd
+2026-03-12 12:32:14,291 [INFO] Extracted post urn:li:activity:7437745333595475968 by Satyam GuptaSatyam Gupta
+2026-03-12 12:32:14,386 [INFO] Extracted post urn:li:activity:7437745318990970880 by Priya SPriya S
+2026-03-12 12:32:14,459 [INFO] Extracted post urn:li:activity:7437745307557310464 by Prittle Prattle NewsPrittle Prattle News
+2026-03-12 12:32:49,633 [INFO] Scrolling page 16/30 for 'Artificial Intelligence'...
+2026-03-12 12:33:02,239 [INFO] Extracted post urn:li:activity:7437745301169287169 by AP IT & Digital Innovation ClubAP IT & Digital Innovation Club
+2026-03-12 12:33:02,333 [INFO] Extracted post urn:li:activity:7437745268009357312 by Aman RajAman Raj
+2026-03-12 12:33:02,422 [INFO] Extracted post urn:li:activity:7437745194059456512 by StudentEdgeStudentEdge
+2026-03-12 12:33:02,530 [INFO] Extracted post urn:li:activity:7437745183108132864 by LUCKY JAINLUCKY JAIN
+2026-03-12 12:33:02,614 [INFO] Extracted post urn:li:activity:7437745175419871232 by Tushar AwasthiTushar Awasthi
+2026-03-12 12:33:02,699 [INFO] Extracted post urn:li:activity:7437745123091910656 by Gobika GGobika G
+2026-03-12 12:33:02,791 [INFO] Extracted post urn:li:activity:7437745092020457472 by MOUSEEM PAHANMOUSEEM PAHAN
+2026-03-12 12:33:02,888 [INFO] Extracted post urn:li:activity:7437745080683352064 by Happening HyderabadHappening Hyderabad
+2026-03-12 12:33:02,972 [INFO] Extracted post urn:li:activity:7437745066829508610 by CEDORIASE ACADEMY FOR ARTIFICIAL INTELLIGENCECEDORIASE ACADEMY FOR ARTIFICIAL INTELLIGENCE
+2026-03-12 12:33:03,063 [INFO] Extracted post urn:li:activity:7437745049976803328 by Satyanarayana ChSatyanarayana Ch
+2026-03-12 12:33:03,153 [INFO] Extracted post urn:li:activity:7437745034063474688 by Kiruthiga SKiruthiga S
+2026-03-12 12:33:03,246 [INFO] Extracted post urn:li:activity:7437744984998572033 by HITEC UniversityHITEC University
+2026-03-12 12:33:03,331 [INFO] Extracted post urn:li:activity:7437744971073347584 by Dr. Muhammad Abdul RehmanDr. Muhammad Abdul Rehman
+2026-03-12 12:33:03,420 [INFO] Extracted post urn:li:activity:7437744906565050368 by Smita MSmita M
+2026-03-12 12:33:03,506 [INFO] Extracted post urn:li:activity:7437744895710183424 by Neuroscientists AwardsNeuroscientists Awards
+2026-03-12 12:33:03,613 [INFO] Extracted post urn:li:activity:7437744882477223936 by Sabrina Peña YoungSabrina Peña Young
+2026-03-12 12:33:03,708 [INFO] Extracted post urn:li:activity:7437744819877089280 by Sameer ChaudharySameer Chaudhary
+2026-03-12 12:33:03,802 [INFO] Extracted post urn:li:activity:7437744782275387392 by Upendrasinh ZalaUpendrasinh Zala
+2026-03-12 12:33:03,893 [INFO] Extracted post urn:li:activity:7437744747982602240 by HE HRM Ambassador Queen Dr. Shariza Umira Puteri Binti KamarozzamanHE HRM Ambassador Queen Dr. Shariza Umira Puteri Binti Kamarozzaman
+2026-03-12 12:33:03,980 [INFO] Extracted post urn:li:activity:7437744728026206208 by Sotiris kalodimosSotiris kalodimos
+2026-03-12 12:33:04,070 [INFO] Extracted post urn:li:activity:7437744691833597953 by Mohamed RiyasMohamed Riyas
+2026-03-12 12:33:04,162 [INFO] Extracted post urn:li:activity:7437744610552127488 by Velocious Sourcing and Supplier Experience SolutionVelocious Sourcing and Supplier Experience Solution
+2026-03-12 12:33:04,236 [INFO] Extracted post urn:li:activity:7437744604319469568 by Techno Edify AcademyTechno Edify Academy
+2026-03-12 12:33:04,321 [INFO] Extracted post urn:li:activity:7437744586963271680 by CHAGANTI ROHITH KUMAR REDDYCHAGANTI ROHITH KUMAR REDDY
+2026-03-12 12:33:04,410 [INFO] Extracted post urn:li:activity:7437744572945911808 by keziah sanjanakeziah sanjana
+2026-03-12 12:33:04,493 [INFO] Extracted post urn:li:activity:7437744554411278336 by rajesh bonamrajesh bonam
+2026-03-12 12:33:04,596 [INFO] Extracted post urn:li:activity:7437744510891323392 by AJITH ChandranAJITH Chandran
+2026-03-12 12:33:04,675 [INFO] Extracted post urn:li:activity:7437744496227827712 by Dovetop DigitalDovetop Digital
+2026-03-12 12:33:04,773 [INFO] Extracted post urn:li:activity:7437744497083576320 by Godwin T. NwachukwuGodwin T. Nwachukwu

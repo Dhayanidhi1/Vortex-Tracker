@@ -1,0 +1,70 @@
+2026-03-12 13:11:24,005 [INFO] Log file: logs\scraper_2026-03-12_13-11-24.log
+2026-03-12 13:11:24,006 [INFO] ============================================================
+2026-03-12 13:11:24,006 [INFO] LinkedIn Post Extractor
+2026-03-12 13:11:24,006 [INFO] Keywords: ['Yutaro']
+2026-03-12 13:11:24,006 [INFO] Max Posts: 30
+2026-03-12 13:11:24,006 [INFO] Time Range: Last 6 months
+2026-03-12 13:11:24,006 [INFO] Output Directory: ./output
+2026-03-12 13:11:24,006 [INFO] ============================================================
+2026-03-12 13:11:25,159 [INFO] Found saved session state.
+2026-03-12 13:11:25,825 [INFO] Checking login status...
+2026-03-12 13:11:43,328 [INFO] Already logged in.
+2026-03-12 13:11:43,328 [INFO] Starting search for: Yutaro (target: 30 posts)
+2026-03-12 13:11:49,721 [INFO] Target: 30 posts for keyword 'Yutaro'
+2026-03-12 13:11:49,722 [INFO] Scroll 1/20 for 'Yutaro' - Collected: 0/30
+2026-03-12 13:11:58,373 [INFO] Extracted post 1/30: urn:li:activity:7437758344666374144 by Yutaro NishiYutaro Nishi
+2026-03-12 13:11:58,423 [INFO] Extracted post 2/30: urn:li:activity:7437724799772119040 by Yutaro KohoriYutaro Kohori
+2026-03-12 13:11:58,478 [INFO] Extracted post 3/30: urn:li:activity:7437701703531085825 by Deyana KhosraviDeyana Khosravi
+2026-03-12 13:11:58,542 [INFO] Extracted post 4/30: urn:li:activity:7437688733547716608 by Sameeh P.Sameeh P.
+2026-03-12 13:11:58,587 [INFO] Extracted post 5/30: urn:li:activity:7437619043404083201 by Yutaro Shigeta, CPAYutaro Shigeta, CPA
+2026-03-12 13:11:58,639 [INFO] Extracted post 6/30: urn:li:activity:7437429652148858880 by Yutaro OnishiYutaro Onishi
+2026-03-12 13:11:58,682 [INFO] Extracted post 7/30: urn:li:activity:7437365212921602048 by Yutaro SatoYutaro Sato
+2026-03-12 13:11:58,719 [INFO] Extracted post 8/30: urn:li:activity:7437308835138138112 by ビヨンドアーチパートナーズ株式会社 (Beyond Arch Partners Co., Ltd.)ビヨンドアーチパートナーズ株式会社 (Beyond Arch Partners Co., Ltd.)
+2026-03-12 13:11:58,771 [INFO] Extracted post 9/30: urn:li:activity:7437303184915722241 by icetana AIicetana AI
+2026-03-12 13:11:58,772 [INFO] Scroll 2/20 for 'Yutaro' - Collected: 9/30
+2026-03-12 13:12:06,107 [INFO] Extracted post 10/30: urn:li:activity:7437076426270519296 by DROPSCOM – Hinchables de nueva generaciónDROPSCOM – Hinchables de nueva generación
+2026-03-12 13:12:06,142 [INFO] Extracted post 11/30: urn:li:activity:7437054167392817152 by Yutaro HayakawaYutaro Hayakawa
+2026-03-12 13:12:06,183 [INFO] Extracted post 12/30: urn:li:activity:7437011609128112128 by Yutaro OsakaYutaro Osaka
+2026-03-12 13:12:06,184 [INFO] Scroll 3/20 for 'Yutaro' - Collected: 12/30
+2026-03-12 13:12:14,247 [INFO] Extracted post 13/30: urn:li:activity:7436988199324852224 by Yutaro YanoYutaro Yano
+2026-03-12 13:12:14,303 [INFO] Extracted post 14/30: urn:li:activity:7436938893683306496 by Asian Productivity OrganizationAsian Productivity Organization
+2026-03-12 13:12:14,453 [INFO] Extracted post 15/30: urn:li:activity:7436865773274525696 by Yutaro KoyanagiYutaro Koyanagi
+2026-03-12 13:12:14,682 [INFO] Extracted post 16/30: urn:li:activity:7436751854119657472 by Seungseok OhSeungseok Oh
+2026-03-12 13:12:14,745 [INFO] Extracted post 17/30: urn:li:activity:7436964210690969600 by Yutaro OsakaYutaro Osaka
+2026-03-12 13:12:14,798 [INFO] Extracted post 18/30: urn:li:activity:7436702389925187585 by Yutaro SatoYutaro Sato
+2026-03-12 13:12:14,798 [INFO] Scroll 4/20 for 'Yutaro' - Collected: 18/30
+2026-03-12 13:12:22,548 [INFO] Extracted post 19/30: urn:li:activity:7436548532679094272 by Yutaro KikuYutaro Kiku
+2026-03-12 13:12:22,584 [INFO] Extracted post 20/30: urn:li:activity:7436325603349409792 by Yutaro YamaguchiYutaro Yamaguchi
+2026-03-12 13:12:22,629 [INFO] Extracted post 21/30: urn:li:activity:7436290660426616832 by Jun MatsumotoJun Matsumoto
+2026-03-12 13:12:22,668 [INFO] Extracted post 22/30: urn:li:activity:7436068692100280320 by Kamali SKamali S
+2026-03-12 13:12:22,701 [INFO] Extracted post 23/30: urn:li:activity:7436014943675637760 by Yutaro MoriYutaro Mori
+2026-03-12 13:12:22,730 [INFO] Extracted post 24/30: urn:li:activity:7436315427397595136 by Yutaro KikuYutaro Kiku
+2026-03-12 13:12:22,730 [INFO] Scroll 5/20 for 'Yutaro' - Collected: 24/30
+2026-03-12 13:12:31,008 [INFO] Extracted post 25/30: urn:li:activity:7435938971886530560 by Yutaro OgawaYutaro Ogawa
+2026-03-12 13:12:31,044 [INFO] Extracted post 26/30: urn:li:activity:7435898845240307712 by Yutaro KohoriYutaro Kohori
+2026-03-12 13:12:31,075 [INFO] Extracted post 27/30: urn:li:activity:7435699410077986817 by Hari prasath.EHari prasath.E
+2026-03-12 13:12:31,075 [INFO] Scroll 6/20 for 'Yutaro' - Collected: 27/30
+2026-03-12 13:12:37,898 [INFO] Extracted post 28/30: urn:li:activity:7435599141084467200 by Yutaro SatoYutaro Sato
+2026-03-12 13:12:37,935 [INFO] Extracted post 29/30: urn:li:activity:7435867493086244864 by Yutaro MoriYutaro Mori
+2026-03-12 13:12:37,967 [INFO] Extracted post 30/30: urn:li:activity:7435833853790892032 by Yutaro OgawaYutaro Ogawa
+2026-03-12 13:12:37,967 [INFO] Completed search for 'Yutaro': collected 30 posts
+2026-03-12 13:12:45,885 [INFO] Scraping completed.
+2026-03-12 13:12:45,904 [INFO] 
+Total posts collected: 30
+2026-03-12 13:12:45,919 [INFO] CSV saved: ./output\posts_2026-03-12_13-12-45.csv
+2026-03-12 13:12:45,919 [INFO] JSON saved: ./output\posts_2026-03-12_13-12-45.json
+2026-03-12 13:12:45,919 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 13:12:45,924 [INFO] 
+============================================================
+2026-03-12 13:12:45,924 [INFO] EXTRACTION SUMMARY
+2026-03-12 13:12:45,924 [INFO] Total Posts in DB: 195
+2026-03-12 13:12:45,924 [INFO] Likes: 5,134
+2026-03-12 13:12:45,924 [INFO] Comments: 343
+2026-03-12 13:12:45,924 [INFO] Reposts: 148
+2026-03-12 13:12:45,924 [INFO] Top Authors:
+2026-03-12 13:12:45,924 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 13:12:45,924 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 13:12:45,925 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 13:12:45,925 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 13:12:45,925 [INFO]   - Madhan Kumar MamidalaMadhan Kumar Mamidala: 4 posts
+2026-03-12 13:12:45,925 [INFO] ============================================================

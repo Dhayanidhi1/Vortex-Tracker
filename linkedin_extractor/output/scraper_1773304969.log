@@ -1,0 +1,40 @@
+2026-03-12 14:12:50,336 [INFO] Log file: logs\scraper_2026-03-12_14-12-50.log
+2026-03-12 14:12:50,337 [INFO] ============================================================
+2026-03-12 14:12:50,337 [INFO] LinkedIn Post Extractor
+2026-03-12 14:12:50,337 [INFO] Keywords: ['vigneshwara']
+2026-03-12 14:12:50,338 [INFO] Max Posts: 2
+2026-03-12 14:12:50,338 [INFO] Time Range: Last 6 months
+2026-03-12 14:12:50,338 [INFO] Output Directory: ./output
+2026-03-12 14:12:50,339 [INFO] ============================================================
+2026-03-12 14:12:50,340 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 14:12:51,272 [INFO] Found saved session state.
+2026-03-12 14:12:51,633 [INFO] Checking login status...
+2026-03-12 14:12:56,510 [INFO] Already logged in.
+2026-03-12 14:12:56,512 [INFO] Starting search for: vigneshwara (target: 2 posts)
+2026-03-12 14:13:00,145 [INFO] Target: 2 posts for keyword 'vigneshwara'
+2026-03-12 14:13:00,145 [INFO] Scroll 1/3 for 'vigneshwara' - Collected: 0/2
+2026-03-12 14:13:03,582 [INFO] Extracted post 1/2: urn:li:activity:7437742730216116226 by karimnagar red brickskarimnagar red bricks
+2026-03-12 14:13:03,586 [INFO] Saved post to dashboard: karimnagar red brickskarimnagar red bricks - Total posts: 1
+2026-03-12 14:13:03,814 [INFO] Extracted post 2/2: urn:li:activity:7437504360768700416 by VIGNESHWARA KVIGNESHWARA K
+2026-03-12 14:13:03,892 [INFO] Saved post to dashboard: VIGNESHWARA KVIGNESHWARA K - Total posts: 2
+2026-03-12 14:13:03,901 [INFO] Completed search for 'vigneshwara': collected 2 posts
+2026-03-12 14:13:04,673 [INFO] Scraping completed.
+2026-03-12 14:13:04,729 [INFO] 
+Total posts collected: 2
+2026-03-12 14:13:04,749 [INFO] CSV saved: ./output\posts_2026-03-12_14-13-04.csv
+2026-03-12 14:13:04,749 [INFO] JSON saved: ./output\posts_2026-03-12_14-13-04.json
+2026-03-12 14:13:04,750 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 14:13:04,764 [INFO] 
+============================================================
+2026-03-12 14:13:04,765 [INFO] EXTRACTION SUMMARY
+2026-03-12 14:13:04,765 [INFO] Total Posts in DB: 226
+2026-03-12 14:13:04,766 [INFO] Likes: 5,876
+2026-03-12 14:13:04,766 [INFO] Comments: 382
+2026-03-12 14:13:04,767 [INFO] Reposts: 151
+2026-03-12 14:13:04,768 [INFO] Top Authors:
+2026-03-12 14:13:04,768 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 14:13:04,769 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 14:13:04,769 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 14:13:04,770 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 14:13:04,771 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 14:13:04,781 [INFO] ============================================================

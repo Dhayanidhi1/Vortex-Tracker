@@ -1,0 +1,59 @@
+2026-03-12 20:08:54,517 [INFO] Log file: logs\scraper_2026-03-12_20-08-54.log
+2026-03-12 20:08:54,517 [INFO] ============================================================
+2026-03-12 20:08:54,517 [INFO] LinkedIn Post Extractor
+2026-03-12 20:08:54,517 [INFO] Keywords: ['google']
+2026-03-12 20:08:54,517 [INFO] Max Posts: 10
+2026-03-12 20:08:54,518 [INFO] Time Range: Last 6 months
+2026-03-12 20:08:54,518 [INFO] Output Directory: ./output
+2026-03-12 20:08:54,518 [INFO] ============================================================
+2026-03-12 20:08:54,518 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 20:08:55,047 [INFO] Found saved session state.
+2026-03-12 20:08:55,302 [INFO] Checking login status...
+2026-03-12 20:09:00,087 [INFO] Already logged in.
+2026-03-12 20:09:00,087 [INFO] Starting search for: google (target: 10 posts)
+2026-03-12 20:09:02,724 [INFO] Target: 10 posts for keyword 'google'
+2026-03-12 20:09:02,724 [INFO] Scroll 1/10 for 'google' - Collected: 0/10
+2026-03-12 20:09:04,029 [INFO] Extracted post 1/10: urn:li:activity:7437726882860744704 by Neeshna KumaresanNeeshna Kumaresan
+2026-03-12 20:09:04,030 [INFO] Saved post to dashboard: Neeshna KumaresanNeeshna Kumaresan - Total posts: 1
+2026-03-12 20:09:04,047 [INFO] Extracted post 2/10: urn:li:activity:7437822329688190977 by Joerg RoelJoerg Roel
+2026-03-12 20:09:04,059 [INFO] Saved post to dashboard: Joerg RoelJoerg Roel - Total posts: 2
+2026-03-12 20:09:04,077 [INFO] Extracted post 3/10: urn:li:activity:7437836235735212032 by My Local GuardMy Local Guard
+2026-03-12 20:09:04,087 [INFO] Saved post to dashboard: My Local GuardMy Local Guard - Total posts: 3
+2026-03-12 20:09:04,087 [INFO] Scroll 2/10 for 'google' - Collected: 3/10
+2026-03-12 20:09:05,341 [INFO] Extracted post 4/10: urn:li:activity:7437831827198742528 by Harisha Lakshan Warnakulasuriya(BSc.(ousl))Harisha Lakshan Warnakulasuriya(BSc.(ousl))
+2026-03-12 20:09:05,354 [INFO] Saved post to dashboard: Harisha Lakshan Warnakulasuriya(BSc.(ousl))Harisha Lakshan Warnakulasuriya(BSc.(ousl)) - Total posts: 4
+2026-03-12 20:09:05,379 [INFO] Extracted post 5/10: urn:li:activity:7207010956462166016 by Amber KayeAmber Kaye
+2026-03-12 20:09:05,393 [INFO] Saved post to dashboard: Amber KayeAmber Kaye - Total posts: 5
+2026-03-12 20:09:05,415 [INFO] Extracted post 6/10: urn:li:activity:7206280851301519360 by Billy DeesBilly Dees
+2026-03-12 20:09:05,434 [INFO] Saved post to dashboard: Billy DeesBilly Dees - Total posts: 6
+2026-03-12 20:09:05,434 [INFO] Scroll 3/10 for 'google' - Collected: 6/10
+2026-03-12 20:09:06,692 [INFO] Extracted post 7/10: urn:li:activity:7436845646067929089 by Live social Automation AccountLive social Automation Account
+2026-03-12 20:09:06,703 [INFO] Saved post to dashboard: Live social Automation AccountLive social Automation Account - Total posts: 7
+2026-03-12 20:09:06,722 [INFO] Extracted post 8/10: urn:li:activity:7437842122717683712 by Ankit ShahAnkit Shah
+2026-03-12 20:09:06,733 [INFO] Saved post to dashboard: Ankit ShahAnkit Shah - Total posts: 8
+2026-03-12 20:09:06,753 [INFO] Extracted post 9/10: urn:li:activity:7437837322274103296 by Amit JainAmit Jain
+2026-03-12 20:09:06,767 [INFO] Saved post to dashboard: Amit JainAmit Jain - Total posts: 9
+2026-03-12 20:09:06,767 [INFO] Scroll 4/10 for 'google' - Collected: 9/10
+2026-03-12 20:09:08,063 [INFO] Extracted post 10/10: urn:li:activity:7437826897914519552 by Nishant AnandNishant Anand
+2026-03-12 20:09:08,080 [INFO] Saved post to dashboard: Nishant AnandNishant Anand - Total posts: 10
+2026-03-12 20:09:08,080 [INFO] Completed search for 'google': collected 10 posts
+2026-03-12 20:09:08,765 [INFO] Scraping completed.
+2026-03-12 20:09:08,798 [INFO] 
+Total posts collected: 10
+2026-03-12 20:09:08,819 [INFO] CSV saved: ./output\posts_2026-03-12_20-09-08.csv
+2026-03-12 20:09:08,819 [INFO] JSON saved: ./output\posts_2026-03-12_20-09-08.json
+2026-03-12 20:09:08,820 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 20:09:08,841 [INFO] 
+============================================================
+2026-03-12 20:09:08,842 [INFO] EXTRACTION SUMMARY
+2026-03-12 20:09:08,842 [INFO] Total Posts in DB: 466
+2026-03-12 20:09:08,842 [INFO] Likes: 25,593
+2026-03-12 20:09:08,842 [INFO] Comments: 1,843
+2026-03-12 20:09:08,842 [INFO] Reposts: 466
+2026-03-12 20:09:08,842 [INFO] Top Authors:
+2026-03-12 20:09:08,842 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 20:09:08,842 [INFO]   - Vinod Kumar Jain DharewaVinod Kumar Jain Dharewa: 8 posts
+2026-03-12 20:09:08,842 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 20:09:08,842 [INFO]   - Vivek Chandra AwasthiVivek Chandra Awasthi: 6 posts
+2026-03-12 20:09:08,842 [INFO]   - Kanishk DawarKanishk Dawar: 6 posts
+2026-03-12 20:09:08,842 [INFO] ============================================================

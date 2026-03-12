@@ -1,0 +1,89 @@
+2026-03-12 11:39:44,811 - linkedin_extractor - INFO - Logging initialized. Log file: logs\scraper_2026-03-12_11-39-44.log
+2026-03-12 11:39:44,811 - linkedin_extractor - INFO - ============================================================
+2026-03-12 11:39:44,811 - linkedin_extractor - INFO - LinkedIn Post Extractor
+2026-03-12 11:39:44,811 - linkedin_extractor - INFO - ============================================================
+2026-03-12 11:39:44,811 - linkedin_extractor - INFO - Keywords: ['Artificial Intelligence', 'Machine Learning', 'OpenAI', 'ChatGPT']
+2026-03-12 11:39:44,811 - linkedin_extractor - INFO - Time Range: Last 6 months
+2026-03-12 11:39:44,811 - linkedin_extractor - INFO - Output Directory: ./output
+2026-03-12 11:39:44,812 - linkedin_extractor - INFO - ============================================================
+2026-03-12 11:39:44,813 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 11:39:44,814 - storage - INFO - Database initialized at ./output\linkedin_posts.db
+2026-03-12 11:39:44,815 - scraper - INFO - Starting Chrome browser...
+2026-03-12 11:39:45,823 - scraper - INFO - Browser started successfully
+2026-03-12 11:39:45,824 - scraper - INFO - Checking login status...
+2026-03-12 11:39:52,184 - scraper - INFO - Cookies loaded successfully
+2026-03-12 11:39:52,184 - scraper - INFO - Navigating to /feed/ to check login state...
+2026-03-12 11:40:05,483 - scraper - INFO - After feed navigation, URL is: https://www.linkedin.com/checkpoint/challenge/aghnv-wgzk5dmaaaazzgqpt-eitb9cbyxdxy7cedjbobdpgj0doqaclrftcwg9iqmbtphc0zlx8nkya-czd2aimjszcyew?ut=2nvio_x7ho-c81
+2026-03-12 11:40:05,494 - scraper - INFO - Not logged in, proceeding with manual login...
+2026-03-12 11:40:08,758 - scraper - WARNING - ==================================================
+2026-03-12 11:40:08,759 - scraper - WARNING - CAPTCHA DETECTED!
+2026-03-12 11:40:08,759 - scraper - WARNING - Please solve the CAPTCHA manually in the browser.
+2026-03-12 11:40:08,759 - scraper - WARNING - The script will continue once you've solved it.
+2026-03-12 11:40:08,759 - scraper - WARNING - ==================================================
+2026-03-12 11:40:13,772 - scraper - INFO - Waiting for CAPTCHA to be solved... (5s / 300s)
+2026-03-12 11:40:19,320 - scraper - INFO - Waiting for CAPTCHA to be solved... (10s / 300s)
+2026-03-12 11:40:24,352 - scraper - INFO - Waiting for CAPTCHA to be solved... (15s / 300s)
+2026-03-12 11:40:29,373 - scraper - INFO - Waiting for CAPTCHA to be solved... (20s / 300s)
+2026-03-12 11:40:34,389 - scraper - INFO - Waiting for CAPTCHA to be solved... (25s / 300s)
+2026-03-12 11:40:39,403 - scraper - INFO - Waiting for CAPTCHA to be solved... (30s / 300s)
+2026-03-12 11:40:44,437 - scraper - INFO - Waiting for CAPTCHA to be solved... (35s / 300s)
+2026-03-12 11:40:49,458 - scraper - INFO - Waiting for CAPTCHA to be solved... (40s / 300s)
+2026-03-12 11:40:54,486 - scraper - INFO - Waiting for CAPTCHA to be solved... (45s / 300s)
+2026-03-12 11:40:59,504 - scraper - INFO - Waiting for CAPTCHA to be solved... (50s / 300s)
+2026-03-12 11:41:04,530 - scraper - INFO - Waiting for CAPTCHA to be solved... (55s / 300s)
+2026-03-12 11:41:09,584 - scraper - INFO - Waiting for CAPTCHA to be solved... (60s / 300s)
+2026-03-12 11:41:14,640 - scraper - INFO - Waiting for CAPTCHA to be solved... (65s / 300s)
+2026-03-12 11:41:19,673 - scraper - INFO - Waiting for CAPTCHA to be solved... (70s / 300s)
+2026-03-12 11:41:24,688 - scraper - INFO - Waiting for CAPTCHA to be solved... (75s / 300s)
+2026-03-12 11:41:29,746 - scraper - INFO - Waiting for CAPTCHA to be solved... (80s / 300s)
+2026-03-12 11:41:34,763 - scraper - INFO - Waiting for CAPTCHA to be solved... (85s / 300s)
+2026-03-12 11:41:39,816 - scraper - INFO - Waiting for CAPTCHA to be solved... (90s / 300s)
+2026-03-12 11:41:44,867 - scraper - INFO - Waiting for CAPTCHA to be solved... (95s / 300s)
+2026-03-12 11:41:49,894 - scraper - INFO - Waiting for CAPTCHA to be solved... (100s / 300s)
+2026-03-12 11:41:54,946 - scraper - INFO - Waiting for CAPTCHA to be solved... (105s / 300s)
+2026-03-12 11:41:59,993 - scraper - INFO - Waiting for CAPTCHA to be solved... (110s / 300s)
+2026-03-12 11:42:05,007 - scraper - INFO - Waiting for CAPTCHA to be solved... (115s / 300s)
+2026-03-12 11:42:10,064 - scraper - INFO - Waiting for CAPTCHA to be solved... (120s / 300s)
+2026-03-12 11:42:15,130 - scraper - INFO - Waiting for CAPTCHA to be solved... (125s / 300s)
+2026-03-12 11:42:20,173 - scraper - INFO - Waiting for CAPTCHA to be solved... (130s / 300s)
+2026-03-12 11:42:25,222 - scraper - INFO - Waiting for CAPTCHA to be solved... (135s / 300s)
+2026-03-12 11:42:30,256 - scraper - INFO - Waiting for CAPTCHA to be solved... (140s / 300s)
+2026-03-12 11:42:35,272 - scraper - INFO - Waiting for CAPTCHA to be solved... (145s / 300s)
+2026-03-12 11:42:40,330 - scraper - INFO - Waiting for CAPTCHA to be solved... (150s / 300s)
+2026-03-12 11:42:45,382 - scraper - INFO - Waiting for CAPTCHA to be solved... (155s / 300s)
+2026-03-12 11:42:50,434 - scraper - INFO - Waiting for CAPTCHA to be solved... (160s / 300s)
+2026-03-12 11:42:55,491 - scraper - INFO - Waiting for CAPTCHA to be solved... (165s / 300s)
+2026-03-12 11:43:00,520 - scraper - INFO - Waiting for CAPTCHA to be solved... (170s / 300s)
+2026-03-12 11:43:05,556 - scraper - INFO - Waiting for CAPTCHA to be solved... (175s / 300s)
+2026-03-12 11:43:10,596 - scraper - INFO - Waiting for CAPTCHA to be solved... (180s / 300s)
+2026-03-12 11:43:15,632 - scraper - INFO - Waiting for CAPTCHA to be solved... (185s / 300s)
+2026-03-12 11:43:20,670 - scraper - INFO - Waiting for CAPTCHA to be solved... (190s / 300s)
+2026-03-12 11:43:25,683 - scraper - INFO - Waiting for CAPTCHA to be solved... (195s / 300s)
+2026-03-12 11:43:30,709 - scraper - INFO - Waiting for CAPTCHA to be solved... (200s / 300s)
+2026-03-12 11:43:35,758 - scraper - INFO - Waiting for CAPTCHA to be solved... (205s / 300s)
+2026-03-12 11:43:40,811 - scraper - INFO - Waiting for CAPTCHA to be solved... (210s / 300s)
+2026-03-12 11:43:45,861 - scraper - INFO - Waiting for CAPTCHA to be solved... (215s / 300s)
+2026-03-12 11:43:50,878 - scraper - INFO - Waiting for CAPTCHA to be solved... (220s / 300s)
+2026-03-12 11:43:55,925 - scraper - INFO - Waiting for CAPTCHA to be solved... (225s / 300s)
+2026-03-12 11:44:00,954 - scraper - INFO - Waiting for CAPTCHA to be solved... (230s / 300s)
+2026-03-12 11:44:06,004 - scraper - INFO - Waiting for CAPTCHA to be solved... (235s / 300s)
+2026-03-12 11:44:11,055 - scraper - INFO - Waiting for CAPTCHA to be solved... (240s / 300s)
+2026-03-12 11:44:16,112 - scraper - INFO - Waiting for CAPTCHA to be solved... (245s / 300s)
+2026-03-12 11:44:21,130 - scraper - INFO - Waiting for CAPTCHA to be solved... (250s / 300s)
+2026-03-12 11:44:26,181 - scraper - INFO - Waiting for CAPTCHA to be solved... (255s / 300s)
+2026-03-12 11:44:31,196 - scraper - INFO - Waiting for CAPTCHA to be solved... (260s / 300s)
+2026-03-12 11:44:36,211 - scraper - INFO - Waiting for CAPTCHA to be solved... (265s / 300s)
+2026-03-12 11:44:41,267 - scraper - INFO - Waiting for CAPTCHA to be solved... (270s / 300s)
+2026-03-12 11:44:46,318 - scraper - INFO - Waiting for CAPTCHA to be solved... (275s / 300s)
+2026-03-12 11:44:51,355 - scraper - INFO - Waiting for CAPTCHA to be solved... (280s / 300s)
+2026-03-12 11:44:56,410 - scraper - INFO - Waiting for CAPTCHA to be solved... (285s / 300s)
+2026-03-12 11:45:01,457 - scraper - INFO - Waiting for CAPTCHA to be solved... (290s / 300s)
+2026-03-12 11:45:06,510 - scraper - INFO - Waiting for CAPTCHA to be solved... (295s / 300s)
+2026-03-12 11:45:11,578 - scraper - INFO - Waiting for CAPTCHA to be solved... (300s / 300s)
+2026-03-12 11:45:11,633 - scraper - WARNING - CAPTCHA wait timeout - proceeding anyway...
+2026-03-12 11:45:17,104 - scraper - INFO - Looking for email field...
+2026-03-12 11:45:47,594 - scraper - ERROR - Login timed out - could not find login fields
+2026-03-12 11:45:47,606 - scraper - ERROR - Current URL: https://www.linkedin.com/checkpoint/challenge/AgHkV5aLAWf6ggAAAZzgqrnL9YCozWvANW1meTNDRQCVBJIbZz8B4rQh-JnIEWreLrBE_tSRJncfTraFWOGDsJJshFwGSg?ut=2Cr2eRdeTO-c81
+2026-03-12 11:45:47,606 - linkedin_extractor - ERROR - Failed to log in to LinkedIn. Exiting.
+2026-03-12 11:45:47,607 - scraper - INFO - Closing browser...
+2026-03-12 11:45:50,653 - linkedin_extractor - INFO - Extraction complete.

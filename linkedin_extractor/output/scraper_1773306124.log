@@ -1,0 +1,21 @@
+2026-03-12 14:32:05,055 [INFO] Log file: logs\scraper_2026-03-12_14-32-05.log
+2026-03-12 14:32:05,055 [INFO] ============================================================
+2026-03-12 14:32:05,055 [INFO] LinkedIn Post Extractor
+2026-03-12 14:32:05,055 [INFO] Keywords: ['google']
+2026-03-12 14:32:05,055 [INFO] Max Posts: 10
+2026-03-12 14:32:05,055 [INFO] Time Range: Last 6 months
+2026-03-12 14:32:05,055 [INFO] Output Directory: ./output
+2026-03-12 14:32:05,055 [INFO] ============================================================
+2026-03-12 14:32:05,056 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 14:32:05,974 [INFO] Found saved session state.
+2026-03-12 14:32:06,381 [INFO] Checking login status...
+2026-03-12 14:32:13,310 [INFO] Already logged in.
+2026-03-12 14:32:13,310 [INFO] Starting search for: google (target: 10 posts)
+2026-03-12 14:32:16,726 [INFO] Target: 10 posts for keyword 'google'
+2026-03-12 14:32:16,727 [INFO] Scroll 1/5 for 'google' - Collected: 0/10
+2026-03-12 14:32:20,027 [INFO] Reached end of search results.
+2026-03-12 14:32:20,028 [INFO] Completed search for 'google': collected 0 posts
+2026-03-12 14:32:21,038 [INFO] Scraping completed.
+2026-03-12 14:32:21,064 [INFO] 
+Total posts collected: 0
+2026-03-12 14:32:21,065 [WARNING] No posts collected.

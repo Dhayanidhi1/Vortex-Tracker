@@ -1,0 +1,60 @@
+2026-03-12 17:04:50,905 [INFO] Log file: logs\scraper_2026-03-12_17-04-50.log
+2026-03-12 17:04:50,905 [INFO] ============================================================
+2026-03-12 17:04:50,905 [INFO] LinkedIn Post Extractor
+2026-03-12 17:04:50,905 [INFO] Keywords: ['Microsoft']
+2026-03-12 17:04:50,906 [INFO] Max Posts: 10
+2026-03-12 17:04:50,906 [INFO] Time Range: Last 6 months
+2026-03-12 17:04:50,906 [INFO] Output Directory: ./output
+2026-03-12 17:04:50,906 [INFO] ============================================================
+2026-03-12 17:04:50,906 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 17:04:51,507 [INFO] Found saved session state.
+2026-03-12 17:04:51,835 [INFO] Checking login status...
+2026-03-12 17:04:55,721 [INFO] Already logged in.
+2026-03-12 17:04:55,722 [INFO] Starting search for: Microsoft (target: 10 posts)
+2026-03-12 17:04:58,508 [INFO] Target: 10 posts for keyword 'Microsoft'
+2026-03-12 17:04:58,508 [INFO] Scroll 1/5 for 'Microsoft' - Collected: 0/10
+2026-03-12 17:05:00,833 [INFO] Extracted post 1/10: urn:li:activity:7437743184614666240 by Sonam MathurSonam Mathur
+2026-03-12 17:05:00,837 [INFO] Saved post to dashboard: Sonam MathurSonam Mathur - Total posts: 1
+2026-03-12 17:05:00,995 [INFO] Extracted post 2/10: urn:li:activity:7437747810491457536 by Deepanshu SinghalDeepanshu Singhal
+2026-03-12 17:05:01,030 [INFO] Saved post to dashboard: Deepanshu SinghalDeepanshu Singhal - Total posts: 2
+2026-03-12 17:05:01,389 [INFO] Extracted post 3/10: urn:li:activity:7437801424597532672 by Sriram SSriram S
+2026-03-12 17:05:01,411 [INFO] Saved post to dashboard: Sriram SSriram S - Total posts: 3
+2026-03-12 17:05:01,411 [INFO] Scroll 2/5 for 'Microsoft' - Collected: 3/10
+2026-03-12 17:05:03,447 [INFO] Extracted post 4/10: urn:li:activity:7087433059171524608 by Francesco RitoFrancesco Rito
+2026-03-12 17:05:03,460 [INFO] Saved post to dashboard: Francesco RitoFrancesco Rito - Total posts: 4
+2026-03-12 17:05:03,508 [INFO] Extracted post 5/10: urn:li:activity:7082373679640170496 by CompeteIQCompeteIQ
+2026-03-12 17:05:03,522 [INFO] Saved post to dashboard: CompeteIQCompeteIQ - Total posts: 5
+2026-03-12 17:05:03,522 [INFO] Scroll 3/5 for 'Microsoft' - Collected: 5/10
+2026-03-12 17:05:04,866 [INFO] Extracted post 6/10: urn:li:activity:7072952256664399874 by René LeónRené León
+2026-03-12 17:05:04,879 [INFO] Saved post to dashboard: René LeónRené León - Total posts: 6
+2026-03-12 17:05:04,879 [INFO] Scroll 4/5 for 'Microsoft' - Collected: 6/10
+2026-03-12 17:05:06,358 [INFO] Extracted post 7/10: urn:li:activity:7437781847666933761 by Priya MehraPriya Mehra
+2026-03-12 17:05:06,371 [INFO] Saved post to dashboard: Priya MehraPriya Mehra - Total posts: 7
+2026-03-12 17:05:06,422 [INFO] Extracted post 8/10: urn:li:activity:7437817473988616193 by Jayesh ChoudharyJayesh Choudhary
+2026-03-12 17:05:06,436 [INFO] Saved post to dashboard: Jayesh ChoudharyJayesh Choudhary - Total posts: 8
+2026-03-12 17:05:06,485 [INFO] Extracted post 9/10: urn:li:activity:7437052219419443200 by Nadia DinishevaNadia Dinisheva
+2026-03-12 17:05:06,498 [INFO] Saved post to dashboard: Nadia DinishevaNadia Dinisheva - Total posts: 9
+2026-03-12 17:05:06,498 [INFO] Scroll 5/5 for 'Microsoft' - Collected: 9/10
+2026-03-12 17:05:07,905 [INFO] Extracted post 10/10: urn:li:activity:7437784734870691840 by Suvarna K NSuvarna K N
+2026-03-12 17:05:07,920 [INFO] Saved post to dashboard: Suvarna K NSuvarna K N - Total posts: 10
+2026-03-12 17:05:07,920 [INFO] Completed search for 'Microsoft': collected 10 posts
+2026-03-12 17:05:08,624 [INFO] Scraping completed.
+2026-03-12 17:05:08,647 [INFO] 
+Total posts collected: 10
+2026-03-12 17:05:08,672 [INFO] CSV saved: ./output\posts_2026-03-12_17-05-08.csv
+2026-03-12 17:05:08,672 [INFO] JSON saved: ./output\posts_2026-03-12_17-05-08.json
+2026-03-12 17:05:08,672 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 17:05:08,698 [INFO] 
+============================================================
+2026-03-12 17:05:08,698 [INFO] EXTRACTION SUMMARY
+2026-03-12 17:05:08,698 [INFO] Total Posts in DB: 317
+2026-03-12 17:05:08,698 [INFO] Likes: 10,713
+2026-03-12 17:05:08,700 [INFO] Comments: 885
+2026-03-12 17:05:08,700 [INFO] Reposts: 319
+2026-03-12 17:05:08,700 [INFO] Top Authors:
+2026-03-12 17:05:08,700 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 17:05:08,700 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 17:05:08,700 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 17:05:08,700 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 17:05:08,701 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 17:05:08,701 [INFO] ============================================================

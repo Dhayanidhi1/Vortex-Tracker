@@ -1,0 +1,13 @@
+2026-03-12 12:19:01,938 [INFO] Log file: logs\scraper_2026-03-12_12-19-01.log
+2026-03-12 12:19:01,939 [INFO] ============================================================
+2026-03-12 12:19:01,939 [INFO] LinkedIn Post Extractor
+2026-03-12 12:19:01,939 [INFO] Keywords: ['Artificial Intelligence', 'Machine Learning', 'OpenAI', 'ChatGPT']
+2026-03-12 12:19:01,939 [INFO] Time Range: Last 6 months
+2026-03-12 12:19:01,939 [INFO] Output Directory: ./output
+2026-03-12 12:19:01,939 [INFO] ============================================================
+2026-03-12 12:19:01,939 [ERROR] Unexpected error: 'LinkedInScraper' object has no attribute 'scrape_all_keywords'
+Traceback (most recent call last):
+  File "D:\Game\Linkedin_Project\linkedin_extractor\main.py", line 44, in main
+    posts = scraper.scrape_all_keywords(KEYWORDS)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LinkedInScraper' object has no attribute 'scrape_all_keywords'

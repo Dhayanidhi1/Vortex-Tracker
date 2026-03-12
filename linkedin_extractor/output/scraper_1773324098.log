@@ -1,0 +1,50 @@
+2026-03-12 19:31:38,907 [INFO] Log file: logs\scraper_2026-03-12_19-31-38.log
+2026-03-12 19:31:38,908 [INFO] ============================================================
+2026-03-12 19:31:38,908 [INFO] LinkedIn Post Extractor
+2026-03-12 19:31:38,908 [INFO] Keywords: ['Kanishk SP']
+2026-03-12 19:31:38,908 [INFO] Max Posts: 10
+2026-03-12 19:31:38,908 [INFO] Time Range: Last 6 months
+2026-03-12 19:31:38,908 [INFO] Output Directory: ./output
+2026-03-12 19:31:38,908 [INFO] ============================================================
+2026-03-12 19:31:38,909 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 19:31:39,580 [INFO] Found saved session state.
+2026-03-12 19:31:39,996 [INFO] Checking login status...
+2026-03-12 19:31:55,174 [INFO] Already logged in.
+2026-03-12 19:31:55,174 [INFO] Starting search for: Kanishk SP (target: 10 posts)
+2026-03-12 19:32:11,992 [INFO] Target: 10 posts for keyword 'Kanishk SP'
+2026-03-12 19:32:11,992 [INFO] Scroll 1/5 for 'Kanishk SP' - Collected: 0/10
+2026-03-12 19:32:13,306 [INFO] Extracted post 1/10: urn:li:activity:7437348183447580672 by Sachin kumar RanaSachin kumar Rana
+2026-03-12 19:32:13,308 [INFO] Saved post to dashboard: Sachin kumar RanaSachin kumar Rana - Total posts: 1
+2026-03-12 19:32:13,347 [INFO] Extracted post 2/10: urn:li:activity:7429422631512342528 by Muskan BajajMuskan Bajaj
+2026-03-12 19:32:13,359 [INFO] Saved post to dashboard: Muskan BajajMuskan Bajaj - Total posts: 2
+2026-03-12 19:32:13,393 [INFO] Extracted post 3/10: urn:li:activity:7437592295400480768 by Ubaid Ahmad bhatUbaid Ahmad bhat
+2026-03-12 19:32:13,406 [INFO] Saved post to dashboard: Ubaid Ahmad bhatUbaid Ahmad bhat - Total posts: 3
+2026-03-12 19:32:13,443 [INFO] Extracted post 4/10: urn:li:activity:7421786665024876544 by Karan SethKaran Seth
+2026-03-12 19:32:13,456 [INFO] Saved post to dashboard: Karan SethKaran Seth - Total posts: 4
+2026-03-12 19:32:13,494 [INFO] Extracted post 5/10: urn:li:activity:7410697915066753025 by Tripti SaraswatTripti Saraswat
+2026-03-12 19:32:13,508 [INFO] Saved post to dashboard: Tripti SaraswatTripti Saraswat - Total posts: 5
+2026-03-12 19:32:13,555 [INFO] Extracted post 6/10: urn:li:activity:7433487708502585344 by Kanishk DawarKanishk Dawar
+2026-03-12 19:32:13,567 [INFO] Saved post to dashboard: Kanishk DawarKanishk Dawar - Total posts: 6
+2026-03-12 19:32:13,567 [INFO] Scroll 2/5 for 'Kanishk SP' - Collected: 6/10
+2026-03-12 19:32:14,970 [INFO] No new posts found in this scroll, might have reached the end.
+2026-03-12 19:32:14,970 [INFO] Completed search for 'Kanishk SP': collected 6 posts
+2026-03-12 19:32:16,075 [INFO] Scraping completed.
+2026-03-12 19:32:16,092 [INFO] 
+Total posts collected: 6
+2026-03-12 19:32:16,105 [INFO] CSV saved: ./output\posts_2026-03-12_19-32-16.csv
+2026-03-12 19:32:16,105 [INFO] JSON saved: ./output\posts_2026-03-12_19-32-16.json
+2026-03-12 19:32:16,105 [INFO] Database: ./output\linkedin_posts.db
+2026-03-12 19:32:16,114 [INFO] 
+============================================================
+2026-03-12 19:32:16,114 [INFO] EXTRACTION SUMMARY
+2026-03-12 19:32:16,114 [INFO] Total Posts in DB: 348
+2026-03-12 19:32:16,114 [INFO] Likes: 23,917
+2026-03-12 19:32:16,114 [INFO] Comments: 1,716
+2026-03-12 19:32:16,114 [INFO] Reposts: 411
+2026-03-12 19:32:16,114 [INFO] Top Authors:
+2026-03-12 19:32:16,114 [INFO]   - AdyaAdya: 9 posts
+2026-03-12 19:32:16,114 [INFO]   - karimnagar red brickskarimnagar red bricks: 7 posts
+2026-03-12 19:32:16,114 [INFO]   - Madhan SMadhan S: 5 posts
+2026-03-12 19:32:16,114 [INFO]   - Madhan KumarMadhan Kumar: 5 posts
+2026-03-12 19:32:16,114 [INFO]   - Madhan BathiniMadhan Bathini: 5 posts
+2026-03-12 19:32:16,114 [INFO] ============================================================

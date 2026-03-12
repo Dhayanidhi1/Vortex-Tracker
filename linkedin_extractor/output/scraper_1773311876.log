@@ -1,0 +1,18 @@
+2026-03-12 16:07:57,320 [INFO] Log file: logs\scraper_2026-03-12_16-07-57.log
+2026-03-12 16:07:57,320 [INFO] ============================================================
+2026-03-12 16:07:57,320 [INFO] LinkedIn Post Extractor
+2026-03-12 16:07:57,320 [INFO] Keywords: ['LAKSHMAN M']
+2026-03-12 16:07:57,320 [INFO] Max Posts: 10
+2026-03-12 16:07:57,320 [INFO] Time Range: Last 6 months
+2026-03-12 16:07:57,320 [INFO] Output Directory: ./output
+2026-03-12 16:07:57,320 [INFO] ============================================================
+2026-03-12 16:07:57,322 [INFO] Cleared main posts.json for fresh start: ./output\posts.json
+2026-03-12 16:07:59,052 [INFO] Found saved session state.
+2026-03-12 16:07:59,595 [INFO] Checking login status...
+2026-03-12 16:08:02,650 [ERROR] Login failed: Page.goto: net::ERR_CONNECTION_RESET at https://www.linkedin.com/feed/
+Call log:
+  - navigating to "https://www.linkedin.com/feed/", waiting until "load"
+
+2026-03-12 16:08:02,830 [INFO] 
+Total posts collected: 0
+2026-03-12 16:08:02,830 [WARNING] No posts collected.
